@@ -1,501 +1,554 @@
 proxies:
-  - {name: VN-103.186.155.4-4922, server: 103.186.155.4, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.39-4751, server: 103.186.155.39, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.62-4921, server: 103.186.155.62, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.246-5104, server: 103.186.154.246, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.235-4802, server: 103.186.154.235, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.85-4814, server: 103.186.155.85, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.52-4733, server: 103.186.154.52, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇺🇸 B-US 31 TG NODPAI, server: 45.95.174.50, port: 2053, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: 🇺🇸 B-US 21 TG NODPAI, server: 185.188.181.55, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: VN-103.186.154.162-4695, server: 103.186.154.162, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.102-4735, server: 103.186.155.102, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.159-4839, server: 103.186.154.159, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.38-4756, server: 103.186.154.38, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.184-0305, server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: VN-103.186.154.223-4941, server: 103.186.154.223, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇵🇱 PL-217.30.10.70-5065, server: 217.30.10.70, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-1012-62MB, server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: VN-103.186.154.177-5103, server: 103.186.154.177, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.28-4872, server: 103.186.154.28, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇩🇪 DE-46.101.-2634-75MB, server: 46.101.196.138, port: 23243, type: ss, cipher: chacha20-ietf-poly1305, password: Q7cjiVD0oKNE2o9sUnZKQg, udp: true}
-  - {name: VN-103.186.155.227-4950, server: 103.186.155.227, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.202-4820, server: 103.186.155.202, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: CO-154.223-6122-13MB, server: 154.223.16.212, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: EC-38.165.-5299-12MB, server: 38.165.231.25, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: AT-37.235.56.69-0290 | 0.065MB, server: 37.235.56.69, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.66-0210 | 83.845MB, server: 82.38.31.66, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: VN-103.186.154.198-4890, server: 103.186.154.198, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.190-4752, server: 103.186.154.190, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.50-4708, server: 103.186.154.50, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.47-4717, server: 103.186.154.47, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.33-4774, server: 103.186.155.33, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.185-5122, server: 103.186.154.185, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇬🇧 GB-146.70.-7103-34MB, server: 146.70.61.37, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
-  - {name: VN-103.186.154.27-5128, server: 103.186.154.27, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇺🇸 美国5| RIPAOJIEDIAN, server: 82.198.246.233, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.89-0196, server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇺🇸 US-156.146-0912-39MB, server: 156.146.38.170, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: VN-103.186.155.37-4742, server: 103.186.155.37, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇹🇼 TW-185.189-1002-46MB, server: 185.189.160.105, port: 41632, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: VN-103.186.155.153-4845, server: 103.186.155.153, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: SC-154.205-1100-61MB, server: 154.205.153.107, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: VN-103.186.155.61-4908, server: 103.186.155.61, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.40-4931, server: 103.186.154.40, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.233-4900, server: 103.186.154.233, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.44-5101, server: 103.186.154.44, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.238-5132, server: 103.186.155.238, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.137-4700, server: 103.186.155.137, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇹🇼 TW-111.248-8742-23MB, server: r3mrcg007147vhp.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
-  - {name: 🇰🇷 KR-152.67.-3061-04MB, server: 152.67.218.38, port: 443, type: vmess, uuid: b5e9480a-b7aa-40a4-f9a7-5299b5e363b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: VN-103.186.154.203-4791, server: 103.186.154.203, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-1981-37MB, server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: VN-103.186.155.32-4949, server: 103.186.155.32, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.234-4849, server: 103.186.154.234, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.120-5109, server: 103.186.155.120, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.146-4958, server: 103.186.154.146, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.25-4887, server: 103.186.154.25, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇳🇱 NL-79.127.-7263-34MB, server: 79.127.227.53, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: VN-103.186.154.140-4923, server: 103.186.154.140, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.141-4974, server: 103.186.154.141, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.20-4863, server: 103.186.155.20, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.225-4953, server: 103.186.154.225, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-7921-21MB, server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: VN-103.186.155.231-4807, server: 103.186.155.231, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.212-4720, server: 103.186.154.212, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.231-4861, server: 103.186.154.231, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.194-4850, server: 103.186.154.194, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇺🇸 US-156.146-0969-93MB, server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: VN-103.163-8151-02MB, server: 103.163.218.2, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: SC-154.223-0015-84MB, server: 154.223.20.79, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: VN-103.186.155.35-4864, server: 103.186.155.35, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0050, server: 199.119.137.109, port: 2053, type: vless, uuid: 981fca81-5be1-41f8-ac9b-d138e8109943, tls: true, servername: babayaga-6i7.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: babayaga-6i7.pages.dev}}, udp: true}
-  - {name: VN-103.186.154.4-5099, server: 103.186.154.4, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.230-4691, server: 103.186.155.230, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: PA-138.186-0283-29MB, server: 138.186.142.80, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: VN-103.186.154.248-4870, server: 103.186.154.248, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇺🇸 US-173.244-2205-04MB, server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: VN-103.186.155.57-4746, server: 103.186.155.57, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.243-4815, server: 103.186.154.243, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.199-4740, server: 103.186.154.199, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.250-4726, server: 103.186.154.250, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇩🇪 DE-8.209.74.72-0250, server: 8.209.74.72, port: 20001, type: ss, cipher: chacha20-ietf-poly1305, password: PWpjPo3tqhPN4yRZ, udp: true}
-  - {name: 🇬🇧 GB-20.90.1-4218-84MB, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true}
-  - {name: VN-103.186.154.224-4836, server: 103.186.154.224, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.23-5130, server: 103.186.154.23, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.21-4749, server: 103.186.154.21, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇳🇱 NL-51.15.23.63-0283, server: 51.15.23.63, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: VN-103.186.155.139-4821, server: 103.186.155.139, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇪🇸 ES-37.143.-1032-09MB, server: 37.143.130.203, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: VN-103.186.154.180-4755, server: 103.186.154.180, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇳🇱 NL-193.29.-0879-13MB, server: 193.29.139.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true}
-  - {name: VN-103.186.154.18-4816, server: 103.186.154.18, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.207-4911, server: 103.186.155.207, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: SI-192.71.-3501-95MB, server: 192.71.244.150, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: VN-103.186.154.54-4790, server: 103.186.154.54, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇺🇸 B-US 39 TG NODPAI, server: 3.127.55.133, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: VN-103.186.154.41-4809, server: 103.186.154.41, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.146-4831, server: 103.186.155.146, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: SC-154.223-2120-41MB, server: 154.223.20.79, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: FI-193.47.-2003-74MB, server: 193.47.60.186, port: 28687, type: ss, cipher: chacha20-ietf-poly1305, password: yKVMoB3AwiTEznpnoq2FYR, udp: true}
-  - {name: VN-103.186.155.16-4897, server: 103.186.155.16, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-0199-37MB, server: 82.38.31.205, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0049, server: 199.119.137.77, port: 2053, type: vless, uuid: 981fca81-5be1-41f8-ac9b-d138e8109943, tls: true, servername: babayaga-6i7.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: babayaga-6i7.pages.dev}}, udp: true}
-  - {name: VN-103.186.155.17-4885, server: 103.186.155.17, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.184-5124, server: 103.186.154.184, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.50-4785, server: 103.186.155.50, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: PE-138.186-4033-96MB, server: 138.186.143.32, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: VN-103.186.155.45-4754, server: 103.186.155.45, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.200-4898, server: 103.186.154.200, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.33-5129, server: 103.186.154.33, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.239-4732, server: 103.186.154.239, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.25-4936, server: 103.186.155.25, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.21-4827, server: 103.186.155.21, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: ZA-102.133-7621-25MB, server: 102.133.165.160, port: 16233, type: ss, cipher: chacha20-ietf-poly1305, password: Xsy8Ox4yOV3xLlpxtjzs3X, udp: true}
-  - {name: VN-103.186.154.221-4848, server: 103.186.154.221, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.160-4812, server: 103.186.154.160, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇬🇧 GB-SPEEDNODE-0007, server: 82.198.246.214, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.199-0314 | 0.124MB, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: VN-103.186.155.222-4857, server: 103.186.155.222, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.229-5112, server: 103.186.154.229, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇬🇧 GB-SPEEDNODE-0009, server: 82.198.246.37, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-3284-89MB, server: 82.38.31.148, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: VN-103.186.154.17-4892, server: 103.186.154.17, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.170-5113, server: 103.186.154.170, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.29-4963, server: 103.186.154.29, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇩🇪 DE-10|1.1MB S, server: 167.99.131.232, port: 2083, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: ZA-102.37.-4651-94MB, server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true}
-  - {name: VN-103.186.155.128-4747, server: 103.186.155.128, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.232-4753, server: 103.186.154.232, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.174-4909, server: 103.186.154.174, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.209-4768, server: 103.186.155.209, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: BO-185.93.-2012-18MB, server: 185.93.173.60, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: VN-103.186.155.121-4902, server: 103.186.155.121, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇹🇼 TW-223.165-7440-13MB, server: 223.165.4.173, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: VN-103.186.154.22-4736, server: 103.186.154.22, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: MT-171.22.254.17-0235 | 0.0MB, server: 171.22.254.17, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: VN-103.186.154.31-5140, server: 103.186.154.31, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: CL-38.54.20.59-0259 | 10.992MB, server: 38.54.20.59, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-  - {name: 🇵🇱 PL-217.30.10.70-4642, server: 217.30.10.70, port: 9045, type: ss, cipher: aes-256-cfb, password: Lp27rqyJq72bZsqX, udp: true}
-  - {name: VN-103.186.154.46-4725, server: 103.186.154.46, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.213-4737, server: 103.186.155.213, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇺🇸 B-US 24 TG NODPAI, server: 188.166.125.107, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: VN-103.186.154.43-4819, server: 103.186.154.43, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0055, server: 199.119.137.41, port: 2053, type: vless, uuid: 981fca81-5be1-41f8-ac9b-d138e8109943, tls: true, servername: babayaga-6i7.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: babayaga-6i7.pages.dev}}, udp: true}
-  - {name: VN-103.186.154.237-4797, server: 103.186.154.237, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.124-4926, server: 103.186.155.124, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.53-4781, server: 103.186.154.53, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.60-4904, server: 103.186.154.60, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇰🇷 KR-221.139-7089-28MB, server: 221.139.79.57, port: 13979, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: VN-103.186.154.13-4903, server: 103.186.154.13, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.67-4719, server: 103.186.155.67, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.140-4910, server: 103.186.155.140, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.245-4779, server: 103.186.154.245, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.154-4916, server: 103.186.154.154, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.142-4918, server: 103.186.155.142, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇬🇧 GB-138.68.-5221-05MB, server: 138.68.153.223, port: 46576, type: ss, cipher: chacha20-ietf-poly1305, password: idMvoewrSyLLvEvP03k9zR, udp: true}
-  - {name: VN-103.186.155.109-4901, server: 103.186.155.109, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.197-4856, server: 103.186.154.197, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇩🇪 DE-4|1.3MB S, server: 147.45.197.21, port: 2053, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: VN-103.186.155.53-4886, server: 103.186.155.53, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.224-4789, server: 103.186.155.224, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇭🇰 HK-203.23.128.33-4617, server: 203.23.128.33, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇳🇱 NL-193.29.-0192-24MB, server: 193.29.139.141, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: VN-103.186.155.127-4697, server: 103.186.155.127, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇺🇸 US-156.146-7978-68MB, server: 156.146.38.167, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-1980-63MB, server: 82.38.31.103, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇺🇸 US-107.172-7312-.0MB, server: 107.172.250.161, port: 59556, type: ss, cipher: chacha20-ietf-poly1305, password: QTmLViU4VEmuwbOxUw4IXd, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-2501-85MB, server: 82.38.31.122, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: VN-103.186.155.225-4810, server: 103.186.155.225, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.41-5096, server: 103.186.155.41, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇺🇸 B-US 32 TG NODPAI, server: 212.34.152.224, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: VN-103.186.154.39-4834, server: 103.186.154.39, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.49-4961, server: 103.186.154.49, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.112-4799, server: 103.186.155.112, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.227-4703, server: 103.186.154.227, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.35-5117, server: 103.186.154.35, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇺🇸 B-US 19 TG NODPAI, server: 91.84.100.19, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: VN-103.186.155.147-5110, server: 103.186.155.147, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.176-4954, server: 103.186.154.176, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.183-4808, server: 103.186.155.183, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.211-5127, server: 103.186.155.211, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇺🇸 B-US 29 TG NODPAI, server: 46.226.162.57, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-9091-35MB, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: VN-103.186.155.77-4805, server: 103.186.155.77, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.135-4832, server: 103.186.155.135, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: RELAY-104.21.224.5-0859, server: v3.dabache.top, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, network: ws, ws-opts: {path: "%2Fassignment", headers: {Host: www.gossipglove.com}}, udp: true}
-  - {name: VN-103.186.154.11-4701, server: 103.186.154.11, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇨🇦 CA-79.127.-6171-19MB, server: 79.127.233.170, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: VN-103.186.155.5-4942, server: 103.186.155.5, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: LV-185.176-7022-98MB, server: 185.176.221.72, port: 24637, type: ss, cipher: chacha20-ietf-poly1305, password: MholStyHL7DhrewKbpQa20, udp: true}
-  - {name: PY-38.165.233.93-0281 | 2.05MB, server: 38.165.233.93, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: VN-103.186.154.145-5123, server: 103.186.154.145, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇩🇪 DE-2|2.2MB S, server: 92.119.90.67, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: SC-154.90.-6162-56MB, server: 154.90.62.168, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: VN-103.186.154.9-4824, server: 103.186.154.9, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.57-4711, server: 103.186.154.57, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.142-5135, server: 103.186.154.142, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.119-4912, server: 103.186.155.119, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.44-4731, server: 103.186.155.44, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.27-4937, server: 103.186.155.27, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇬🇧 GB-141.98.-4219-49MB, server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: VN-103.186.155.221-4939, server: 103.186.155.221, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.107-4715, server: 103.186.155.107, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.134-4871, server: 103.186.155.134, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.122-5108, server: 103.186.155.122, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.68-4714, server: 103.186.155.68, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: PK-156.59.-6402-21MB, server: 156.59.243.6, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: VN-103.186.154.228-4764, server: 103.186.154.228, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0054, server: 199.119.137.78, port: 2053, type: vless, uuid: 981fca81-5be1-41f8-ac9b-d138e8109943, tls: true, servername: babayaga-6i7.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: babayaga-6i7.pages.dev}}, udp: true}
-  - {name: VN-103.186.154.45-4930, server: 103.186.154.45, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.211-4813, server: 103.186.154.211, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇬🇧 GB-141.98.-1012-74MB, server: 141.98.101.178, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: VN-103.186.154.238-4702, server: 103.186.154.238, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.15-4853, server: 103.186.155.15, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.60-4788, server: 103.186.155.60, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.130-4689, server: 103.186.155.130, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.10-4716, server: 103.186.155.10, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.235-4698, server: 103.186.155.235, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.146-0198 | 91.14MB, server: 82.38.31.146, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇹🇼 TW-36.224.-2220-31MB, server: r3mrcg001286ek2.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
-  - {name: 🇨🇦 CA-45.154.204.7-0187, server: 45.154.204.7, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: 🇺🇸 B-US 34 TG NODPAI, server: 38.180.175.143, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: EC-185.47.-3523-61MB, server: 185.47.253.227, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0052, server: 193.32.177.101, port: 443, type: vless, uuid: 981fca81-5be1-41f8-ac9b-d138e8109943, tls: true, servername: babayaga-6i7.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: babayaga-6i7.pages.dev}}, udp: true}
-  - {name: VN-103.186.154.58-4784, server: 103.186.154.58, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇩🇪 DE-5|1.2MB S, server: 77.221.157.251, port: 2087, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: 🇳🇱 NL-193.29.-3701-56MB, server: 193.29.139.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true}
-  - {name: VN-103.186.155.236-4914, server: 103.186.155.236, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.172-4694, server: 103.186.154.172, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇩🇪 DE-38.60.2-1037-95MB, server: 38.60.250.107, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: LV-46.183.-0420-39MB, server: 46.183.217.204, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: 🇳🇱 NL-51.15.2-6561-63MB, server: 51.15.23.166, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇯🇵 B-JP 11 TG NODPAI, server: v6.hdacd.com, port: 30806, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, udp: true}
-  - {name: VN-103.186.155.143-5111, server: 103.186.155.143, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.206-4951, server: 103.186.154.206, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇮🇳 IN-134.209-0986-01MB, server: 134.209.147.198, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: VN-103.186.154.208-5102, server: 103.186.154.208, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.9-5106, server: 103.186.155.9, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.35-0191 | 88.189MB, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: VN-103.186.155.49-4880, server: 103.186.155.49, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.216-4744, server: 103.186.154.216, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.61-4795, server: 103.186.154.61, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.138-4722, server: 103.186.155.138, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.253-4729, server: 103.186.154.253, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-7101-16MB, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇷🇺 RU-194.116.173.21-4641, server: 194.116.173.21, port: 9038, type: ss, cipher: aes-256-cfb, password: gYCYXfkUQEs2TaJQ, udp: true}
-  - {name: VN-103.186.155.38-4838, server: 103.186.155.38, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇳🇱 NL-193.29.-7215-89MB, server: 193.29.139.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true}
-  - {name: VN-103.186.154.14-4778, server: 103.186.154.14, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.169-5105, server: 103.186.154.169, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.129-4927, server: 103.186.155.129, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇺🇸 B-US 23 TG NODPAI, server: 178.62.38.224, port: 2083, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-2672-55MB, server: 82.38.31.124, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: VN-103.186.154.144-4766, server: 103.186.154.144, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇺🇸 US-71.19.148.74-0280, server: 71.19.148.74, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: gqkUCvmeOTghYJXF1YIuk5, udp: true}
-  - {name: VN-103.186.155.104-4713, server: 103.186.155.104, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.28-4881, server: 103.186.155.28, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.214-4860, server: 103.186.155.214, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.226-4786, server: 103.186.154.226, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.228-5114, server: 103.186.155.228, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.152-5098, server: 103.186.154.152, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.213-4796, server: 103.186.154.213, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.24-4966, server: 103.186.154.24, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.187-4782, server: 103.186.154.187, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.62-4800, server: 103.186.154.62, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.233-4924, server: 103.186.155.233, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.209-4883, server: 103.186.154.209, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.82-0220, server: 82.38.31.82, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: VN-103.186.154.150-5115, server: 103.186.154.150, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.252-4873, server: 103.186.154.252, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.2-4896, server: 103.186.155.2, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.118-4699, server: 103.186.155.118, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.175-5119, server: 103.186.154.175, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇯🇵 B-JP 06 TG NODPAI, server: 31.57.172.187, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇺🇸 US-149.30.232.103-5085, server: 149.30.232.103, port: 31469, type: vmess, uuid: 5381445d-6ae4-4948-b61a-a16d9498d21b, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/arki?ed=2048"}, udp: true}
   - {name: VN-103.186.154.244-5107, server: 103.186.154.244, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: BG-89.44.1-9521-88MB, server: 89.44.197.181, port: 31348, type: ss, cipher: chacha20-ietf-poly1305, password: zDLmeWRsfcFdKT1Tpy02xodEToqCldTxvZcRoPIZZtBdnIEL, udp: true}
-  - {name: HR-46.183.184.60-0286 | 0.19MB, server: 46.183.184.60, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇬🇧 GB-20.90.1-5483-38MB, server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true}
-  - {name: VN-103.186.155.144-4935, server: 103.186.155.144, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.24-4828, server: 103.186.155.24, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.111-4854, server: 103.186.155.111, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.132-5131, server: 103.186.155.132, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.249-4798, server: 103.186.154.249, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.114-4771, server: 103.186.155.114, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇺🇸 B-US 33 TG NODPAI, server: 195.135.252.170, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: AE-147.78.-2240-46MB, server: 147.78.0.182, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: VN-103.186.155.204-4770, server: 103.186.155.204, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: RELAY-104.18.11.110-0833, server: 104.18.11.110, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, network: ws, ws-opts: {path: "%2Fassignment", headers: {Host: www.multiplydose.com}}, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-0216-36MB, server: 82.38.31.214, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: VN-103.186.154.189-4705, server: 103.186.154.189, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.206-4859, server: 103.186.155.206, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.63-4913, server: 103.186.154.63, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.34-4762, server: 103.186.154.34, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇨🇦 CA-79.127.-1187-96MB, server: 79.127.200.169, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: MA-154.70.-9039-03MB, server: 154.70.207.97, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: VN-103.186.154.48-5139, server: 103.186.154.48, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: AR-190.103-6110-93MB, server: 190.103.176.32, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: VN-103.186.154.151-4962, server: 103.186.154.151, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.149-4811, server: 103.186.155.149, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.158-4745, server: 103.186.154.158, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.81-4772, server: 103.186.155.81, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.43-4946, server: 103.186.155.43, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.219-4739, server: 103.186.154.219, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.29-4709, server: 103.186.155.29, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.202-0192, server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: VN-103.186.154.196-4906, server: 103.186.154.196, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: ZA-156.38.-0186-44MB, server: 156.38.168.58, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: VN-103.186.154.165-5121, server: 103.186.154.165, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇰🇷 KR-218.237.185.230-5049, server: 218.237.185.230, port: 4652, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0047, server: 50.228.203.26, port: 443, type: vless, uuid: 981fca81-5be1-41f8-ac9b-d138e8109943, tls: true, servername: babayaga-6i7.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: babayaga-6i7.pages.dev}}, udp: true}
-  - {name: VN-103.186.155.126-5137, server: 103.186.155.126, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: AT-37.235.56.69-0313, server: 37.235.56.69, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: VN-103.186.155.12-4730, server: 103.186.155.12, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇩🇪 DE-9|1.1MB S, server: 79.132.143.192, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: VN-103.186.155.105-4706, server: 103.186.155.105, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.204-4862, server: 103.186.154.204, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.183-4865, server: 103.186.154.183, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: MK-46.183.-5373-68MB, server: 46.183.185.37, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇺🇸 US-38.135.24.131-0293, server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true}
-  - {name: VN-103.186.155.108-4875, server: 103.186.155.108, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇬🇧 英国 4, server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: VN-103.186.155.23-4690, server: 103.186.155.23, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇯🇵 JP-149.22.87.204-4984, server: 149.22.87.204, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: MD-94.131.-5102-19MB, server: 94.131.108.36, port: 443, type: vmess, uuid: 9855f1f0-a800-40d4-8b38-c7d3eb79302d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: VN-103.186.155.8-4780, server: 103.186.155.8, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇬🇧 GB-SPEEDNODE-0006, server: 82.198.246.9, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: VN-103.186.155.136-4969, server: 103.186.155.136, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.156-4893, server: 103.186.154.156, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.241-4867, server: 103.186.154.241, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.55-5120, server: 103.186.154.55, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.150-4851, server: 103.186.155.150, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-4388-42MB, server: 82.38.31.187, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.99-0212, server: 82.38.31.99, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: VN-103.186.155.52-4933, server: 103.186.155.52, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇵🇱 PL-217.30.10.70-5066, server: 217.30.10.70, port: 9050, type: ss, cipher: aes-256-cfb, password: FG5ddLsMPbV5CutE, udp: true}
-  - {name: VN-103.186.154.218-4806, server: 103.186.154.218, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.56-4721, server: 103.186.154.56, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇺🇸 US-149.28.-2825-04MB, server: 149.28.255.6, port: 816, type: ss, cipher: chacha20-ietf-poly1305, password: GyZ5Xo0ht41vYmW3H4, udp: true}
-  - {name: 🇬🇧 GB-20.90.187.128-0245 | 38.2MB, server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true}
-  - {name: VN-103.186.155.13-4929, server: 103.186.155.13, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.193-4889, server: 103.186.154.193, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇳🇱 NL-159.223-2084-64MB, server: 159.223.236.36, port: 19582, type: ss, cipher: chacha20-ietf-poly1305, password: WC0GbiCk67K8nHDaDHmYIX, udp: true}
-  - {name: VN-103.186.154.26-4895, server: 103.186.154.26, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.31-5118, server: 103.186.155.31, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: MA-188.214-0107-21MB, server: 188.214.157.30, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: VN-103.186.154.15-5100, server: 103.186.154.15, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.84-4868, server: 103.186.155.84, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.166-5136, server: 103.186.154.166, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.123-4743, server: 103.186.155.123, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.154-4783, server: 103.186.155.154, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.3-4773, server: 103.186.155.3, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.113-4710, server: 103.186.155.113, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.12-5097, server: 103.186.154.12, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-2810-43MB, server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: VN-103.186.154.182-4759, server: 103.186.154.182, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.79-4765, server: 103.186.155.79, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.181-4948, server: 103.186.154.181, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇺🇸 B-US 14 TG NODPAI, server: 94.131.105.101, port: 2053, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: VN-103.186.154.202-4758, server: 103.186.154.202, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.18-4843, server: 103.186.155.18, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.201-4734, server: 103.186.154.201, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.186-4760, server: 103.186.154.186, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇩🇪 DE-8|1.2MB S, server: 92.246.136.55, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: RELAY-172.64.149.209-0857, server: mfa.gov.ua, port: 443, type: trojan, password: 5dc15e15-f285-4a9d-959b-0e4fbdd77b63, sni: vless.lrdxw.club, network: ws, ws-opts: {path: "%2F", headers: {Host: vless.lrdxw.club}}, udp: true}
-  - {name: 🇨🇦 CA-137.184-8318-46MB, server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
-  - {name: VN-103.186.154.148-5133, server: 103.186.154.148, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.117-4964, server: 103.186.155.117, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.101-4741, server: 103.186.155.101, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇩🇪 DE-7|1.0MB S, server: 167.235.60.23, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: VN-103.186.154.16-4728, server: 103.186.154.16, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇺🇸 B-US 18 TG NODPAI, server: 104.248.81.178, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: 🇺🇸 B-US 30 TG NODPAI, server: 167.99.35.193, port: 2053, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: VN-103.186.155.19-4750, server: 103.186.155.19, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇹🇼 B-TW 04 TG NODPAI, server: v11.zgtfqs.click, port: 30811, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, udp: true}
-  - {name: VN-103.186.154.247-4894, server: 103.186.154.247, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.51-4884, server: 103.186.155.51, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.161-4959, server: 103.186.154.161, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.232-4855, server: 103.186.155.232, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.239-4718, server: 103.186.155.239, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.157-4840, server: 103.186.154.157, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.214-4830, server: 103.186.154.214, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0051, server: 69.143.174.201, port: 8443, type: vless, uuid: 981fca81-5be1-41f8-ac9b-d138e8109943, tls: true, servername: babayaga-6i7.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: babayaga-6i7.pages.dev}}, udp: true}
-  - {name: 🇬🇧 GB-20.90.1-8487-89MB, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true}
-  - {name: VN-103.186.154.36-4917, server: 103.186.154.36, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.75-4792, server: 103.186.155.75, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇨🇦 CA-45.154.204.13-4975, server: ssca.irundns.net, port: 443, type: ssr, cipher: aes-128-cfb, password: $$Turb0VPN$$, protocol: auth_aes128_md5, obfs: http_post, protocol-param: "", obfs-param: "", udp: true}
-  - {name: VN-103.186.155.55-4837, server: 103.186.155.55, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.19-4919, server: 103.186.154.19, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.163-4842, server: 103.186.154.163, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.220-4793, server: 103.186.155.220, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.220-4748, server: 103.186.154.220, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.167-4947, server: 103.186.154.167, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: BR-38.54.57.90-0306 | 0.046MB, server: 38.54.57.90, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: VN-103.186.155.145-4704, server: 103.186.155.145, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.223-4876, server: 103.186.155.223, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.59-4688, server: 103.186.154.59, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇵🇱 PL-217.30.10.70-4644, server: 217.30.10.70, port: 9040, type: ss, cipher: aes-256-cfb, password: p9z5BVADH2YFs3MN, udp: true}
-  - {name: VN-103.186.155.226-4818, server: 103.186.155.226, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: PT-185.113-3291-23MB, server: 185.113.143.186, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: VN-103.186.155.234-4775, server: 103.186.155.234, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: SC-154.90.-1703-15MB, server: 154.90.63.177, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: VN-103.186.154.51-4944, server: 103.186.154.51, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.240-4905, server: 103.186.154.240, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.229-4846, server: 103.186.155.229, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.116-4957, server: 103.186.155.116, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.103-4952, server: 103.186.155.103, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇺🇸 US-173.234-2795-83MB, server: 173.234.29.2, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: 🇳🇱 NL-193.29.-3221-98MB, server: 193.29.139.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇩🇪 DE-3|1.1MB S, server: 77.221.157.251, port: 2083, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: VN-103.186.155.40-4825, server: 103.186.155.40, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇭🇰 HK-112.213-4081-45MB, server: 112.213.102.188, port: 41632, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: VN-103.186.154.210-4925, server: 103.186.154.210, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: PE-138.186-0247-43MB, server: 138.186.143.32, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-4013-56MB, server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: VN-103.186.155.58-4844, server: 103.186.155.58, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.80-4888, server: 103.186.155.80, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: MA-188.214-7085-29MB, server: 188.214.157.58, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: VN-103.186.155.237-4727, server: 103.186.155.237, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: ZA-20.87.107.99-4666, server: 20.87.107.99, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: akMKO9KXowxFcx5A, udp: true}
-  - {name: 🇩🇪 DE-11|1.1MB S, server: 57.129.47.47, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: 🇳🇱 NL-193.29.-1381-72MB, server: 193.29.139.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true}
-  - {name: IT-176.126-0530-23MB, server: 176.126.83.158, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: VN-103.186.154.222-5134, server: 103.186.154.222, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇸🇬 SG-1|1.2MB S, server: 172.64.147.106, port: 2096, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /tr, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: 🇳🇱 NL-109.201-1028-84MB, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, udp: true}
-  - {name: VN-103.186.155.56-4879, server: 103.186.155.56, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.42-4804, server: 103.186.155.42, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.251-4803, server: 103.186.154.251, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.34-5116, server: 103.186.155.34, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: SE-1|1.4MB S, server: 45.153.187.209, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: VN-103.186.154.20-4707, server: 103.186.154.20, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.115-4776, server: 103.186.155.115, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.205-4724, server: 103.186.154.205, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-8010-55MB, server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: VN-103.186.155.76-4928, server: 103.186.155.76, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.156-4858, server: 103.186.155.156, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.207-4852, server: 103.186.154.207, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.240-4767, server: 103.186.155.240, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.66-5138, server: 103.186.155.66, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇰🇷 KR-141.164.45.187-4626, server: 141.164.45.187, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-  - {name: VN-103.186.155.131-4801, server: 103.186.155.131, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.61-0214, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: VN-103.186.154.217-5126, server: 103.186.154.217, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.69-0209 | 84.395MB, server: 82.38.31.69, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇩🇰 DK-192.36.27.94-0277 | 1.302MB, server: 192.36.27.94, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: VN-103.186.155.46-4763, server: 103.186.155.46, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.78-4920, server: 103.186.155.78, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.205-4723, server: 103.186.155.205, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.71-4787, server: 103.186.155.71, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.218-4934, server: 103.186.155.218, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.254-4955, server: 103.186.154.254, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.173-4693, server: 103.186.154.173, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: BE-192.71.-0878-59MB, server: 192.71.249.78, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇨🇦 CA-23.95.76.59-0186, server: 23.95.76.59, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: VN-103.186.154.230-4769, server: 103.186.154.230, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇪🇸 ES-45.154.-5942-54MB, server: 45.154.206.192, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: VN-103.186.155.133-4967, server: 103.186.155.133, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇩🇪 DE-6|1.1MB S, server: 77.221.157.251, port: 2096, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: 🇺🇸 US-104.168.1.102-1670, server: 104.168.1.102, port: 8222, type: vmess, uuid: 1c9d6cfe-df9c-40bc-bcb9-8ba7dc31aae3, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: VN-103.186.155.26-4932, server: 103.186.155.26, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.141-4817, server: 103.186.155.141, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.32-4943, server: 103.186.154.32, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.54-4761, server: 103.186.155.54, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.42-4835, server: 103.186.154.42, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: CY-45.15.1-7025-94MB, server: 45.15.185.70, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: 🇺🇸 US-173.244-2960-28MB, server: 173.244.56.9, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇰🇷 KR-152.67.-8176-99MB, server: chuncheon03.zgjok.com, port: 443, type: vmess, uuid: 81d5cac4-d039-4874-9a20-c391f580012d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: chuncheon03.zgjok.com}}, udp: true}
-  - {name: VN-103.186.155.48-4915, server: 103.186.155.48, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇳🇱 NL-193.29.-2027-28MB, server: 193.29.139.251, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.62-0193, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: VN-103.186.154.178-4899, server: 103.186.154.178, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.64-4869, server: 103.186.155.64, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.203-4940, server: 103.186.155.203, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.125-4823, server: 103.186.155.125, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇰🇷 KR-141.164.45.187-5052, server: 141.164.45.187, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.179-0302, server: 82.38.31.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-9793-72MB, server: 82.38.31.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: VN-103.186.155.47-4956, server: 103.186.155.47, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.37-4878, server: 103.186.154.37, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.30-4833, server: 103.186.155.30, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇯🇵 JP-140.238-6300-85MB, server: jp2-8sb.6121999.dpdns.org, port: 24534, type: trojan, password: e136d465-0558-43b9-b50c-b1f45d4cb2c2, sni: jp2-8sb.6121999.dpdns.org, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 KR-218.237-1023-19MB, server: p141.panda001.net, port: 4652, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: VN-103.186.155.82-4891, server: 103.186.155.82, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: SC-154.205-3301-57MB, server: 154.205.146.153, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: VN-103.186.154.168-4960, server: 103.186.154.168, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.30-4877, server: 103.186.154.30, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.124-4926, server: 103.186.155.124, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: 🇺🇸 US-71.19.148.74-0286, server: hackney-latest-strike.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: XUMTygEM1jVYIvysXKqA5T, udp: true}
-  - {name: 🇺🇸 US-37.19.1-5280-69MB, server: 37.19.198.236, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: VN-103.186.155.110-4907, server: 103.186.155.110, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.192-4696, server: 103.186.154.192, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.195-4738, server: 103.186.154.195, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇺🇸 US-37.19.1-2462-31MB, server: 37.19.198.244, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇳🇱 NL-213.109-2244-79MB, server: 213.109.147.242, port: 62685, type: ss, cipher: chacha20-ietf-poly1305, password: VpKABcOpNNA0l5G2AVOmw8, udp: true}
-  - {name: VN-103.186.154.188-4829, server: 103.186.154.188, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.155.148-4874, server: 103.186.155.148, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: PA-138.186-4381-85MB, server: 138.186.142.81, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: 🇳🇱 NL-193.29.-8918-33MB, server: 193.29.139.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true}
-  - {name: VN-103.186.154.242-4847, server: 103.186.154.242, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: VN-103.186.154.215-4965, server: 103.186.154.215, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0038, server: 43.213.148.173, port: 443, type: vless, uuid: 26524cce-d514-4014-a426-365fb266a14d, tls: true, alpn: [http/1.1], servername: snippet.gfw.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /danfeng, headers: {Host: snippet.gfw.qzz.io}}, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-1111-43MB, server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇺🇸 B-US 12 TG NODPAI, server: 104.31.16.253, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇺🇸 B-US 25 TG NODPAI, server: 37.46.19.79, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇬🇧 GB-138.68.-0523-05MB, server: 138.68.153.223, port: 46576, type: ss, cipher: chacha20-ietf-poly1305, password: idMvoewrSyLLvEvP03k9zR, udp: true}
+  - {name: ZA-156.38.-1860-44MB, server: 156.38.168.58, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: VN-103.186.154.36-4917, server: 103.186.154.36, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-7161-16MB, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: VN-103.186.154.165-5121, server: 103.186.154.165, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.54-4790, server: 103.186.154.54, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.173-4693, server: 103.186.154.173, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇭🇰 A-HK 03 TG NODPAI, server: 154.38.116.8, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.154.25-4887, server: 103.186.154.25, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.127-4697, server: 103.186.155.127, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇩🇪 DE-3|1.5MB S, server: 178.104.93.49, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.69-0209 | 84.395MB, server: 82.38.31.69, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: VN-103.186.154.248-4870, server: 103.186.154.248, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: ZA-20.87.107.99-4666, server: 20.87.107.99, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: akMKO9KXowxFcx5A, udp: true}
+  - {name: VN-103.186.154.160-4812, server: 103.186.154.160, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.238-4702, server: 103.186.154.238, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.47-4717, server: 103.186.154.47, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇨🇦 CA-45.154.204.7-0187, server: 45.154.204.7, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.146-0198 | 91.14MB, server: 82.38.31.146, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: VN-103.186.154.237-4797, server: 103.186.154.237, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.59-4688, server: 103.186.154.59, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.185-5122, server: 103.186.154.185, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-6604-55MB, server: 82.38.31.124, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: VN-103.186.154.146-4958, server: 103.186.154.146, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.56-4879, server: 103.186.155.56, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇳🇱 NL-193.29.-1018-33MB, server: 193.29.139.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true}
+  - {name: VN-103.186.155.233-4924, server: 103.186.155.233, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇯🇵 JP-140.238-9306-85MB, server: jp2-8sb.6121999.dpdns.org, port: 24534, type: trojan, password: e136d465-0558-43b9-b50c-b1f45d4cb2c2, sni: jp2-8sb.6121999.dpdns.org, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 US-149.30.232.103-5088, server: 149.30.232.103, port: 18393, type: vmess, uuid: 2c1807ce-6a63-4451-9add-a778d2507160, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/arki?ed=2048"}, udp: true}
+  - {name: VN-103.186.154.52-4733, server: 103.186.154.52, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: PY-38.165.233.93-0281 | 2.05MB, server: 38.165.233.93, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: SC-154.205.150.157-4673, server: 154.205.150.157, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: 🇬🇧 GB-141.98.-2112-49MB, server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇺🇸 B-US 29 TG NODPAI, server: 165.140.117.193, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇭🇰 B-HK 22 TG NODPAI, server: 143.20.204.5, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.155.149-4811, server: 103.186.155.149, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.176-4954, server: 103.186.154.176, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.170-5113, server: 103.186.154.170, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.233-4900, server: 103.186.154.233, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.51-4884, server: 103.186.155.51, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.154-4783, server: 103.186.155.154, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.61-4908, server: 103.186.155.61, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.232-4855, server: 103.186.155.232, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.169-5105, server: 103.186.154.169, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.10-4716, server: 103.186.155.10, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.48-4915, server: 103.186.155.48, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: HR-46.183.184.60-0286 | 0.19MB, server: 46.183.184.60, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: VN-103.186.155.138-4722, server: 103.186.155.138, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 US-104.168.1.102-1670, server: 104.168.1.102, port: 8222, type: vmess, uuid: 1c9d6cfe-df9c-40bc-bcb9-8ba7dc31aae3, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
   - {name: VN-103.186.154.139-4841, server: 103.186.154.139, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.9-4824, server: 103.186.154.9, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.163-4842, server: 103.186.154.163, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: AT-37.235.56.69-0313, server: 37.235.56.69, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: VN-103.186.154.200-4898, server: 103.186.154.200, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: SC-154.223-5022-84MB, server: 154.223.20.79, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: BO-185.93.-3631-18MB, server: 185.93.173.60, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: 🇺🇸 US-173.244-6492-28MB, server: 173.244.56.9, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇳🇱 NL-109.201-8022-84MB, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, udp: true}
+  - {name: VN-103.186.155.207-4911, server: 103.186.155.207, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: FI-193.47.-0268-74MB, server: 193.47.60.186, port: 28687, type: ss, cipher: chacha20-ietf-poly1305, password: yKVMoB3AwiTEznpnoq2FYR, udp: true}
+  - {name: VN-103.186.155.227-4950, server: 103.186.155.227, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.101-4741, server: 103.186.155.101, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.186-4760, server: 103.186.154.186, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.177-5103, server: 103.186.154.177, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇳🇱 NL-193.29.-1203-89MB, server: 193.29.139.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true}
+  - {name: 🇩🇪 DE-6|1.3MB S, server: 57.129.47.56, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.154.187-4782, server: 103.186.154.187, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.167-4947, server: 103.186.154.167, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.34-4762, server: 103.186.154.34, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.201-4734, server: 103.186.154.201, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.79-4765, server: 103.186.155.79, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 B-US 30 TG NODPAI, server: 192.210.133.140, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.155.32-4949, server: 103.186.155.32, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.188-4829, server: 103.186.154.188, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.247-4894, server: 103.186.154.247, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.148-5133, server: 103.186.154.148, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 B-US 31 TG NODPAI, server: 107.170.40.201, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: AE-147.78.-0402-46MB, server: 147.78.0.182, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: 🇸🇬 B-SG 11 TG NODPAI, server: 188.166.217.179, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.154.241-4867, server: 103.186.154.241, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.252-4873, server: 103.186.154.252, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-4015-63MB, server: 82.38.31.103, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: VN-103.186.155.118-4699, server: 103.186.155.118, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 B-US 18 TG NODPAI, server: 45.56.84.124, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇺🇸 A-US 01 TG NODPAI, server: 172.64.152.23, port: 2096, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /tr, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.155.38-4838, server: 103.186.155.38, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇬🇧 GB-20.90.1-4108-89MB, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true}
+  - {name: VN-103.186.154.183-4865, server: 103.186.154.183, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.11-4701, server: 103.186.154.11, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0038, server: 43.213.148.173, port: 443, type: vless, uuid: 26524cce-d514-4014-a426-365fb266a14d, tls: true, alpn: [http/1.1], servername: snippet.gfw.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /danfeng, headers: {Host: snippet.gfw.qzz.io}}, udp: true}
+  - {name: VN-103.186.155.16-4897, server: 103.186.155.16, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: ZA-102.133-1017-25MB, server: 102.133.165.160, port: 16233, type: ss, cipher: chacha20-ietf-poly1305, password: Xsy8Ox4yOV3xLlpxtjzs3X, udp: true}
+  - {name: AR-190.103-0612-93MB, server: 190.103.176.32, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: VN-103.186.155.66-5138, server: 103.186.155.66, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.71-4787, server: 103.186.155.71, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.184-5124, server: 103.186.154.184, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇸🇬 B-SG 08 TG NODPAI, server: 168.138.165.174, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.154.158-4745, server: 103.186.154.158, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.33-5129, server: 103.186.154.33, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.36-4712, server: 103.186.155.36, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 US-156.146-9889-93MB, server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: VN-103.186.155.238-5132, server: 103.186.155.238, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0050, server: 199.119.137.109, port: 2053, type: vless, uuid: 981fca81-5be1-41f8-ac9b-d138e8109943, tls: true, servername: babayaga-6i7.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: babayaga-6i7.pages.dev}}, udp: true}
+  - {name: VN-103.186.154.192-4696, server: 103.186.154.192, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: PA-138.186-0110-85MB, server: 138.186.142.81, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-1490-56MB, server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0054, server: 199.119.137.78, port: 2053, type: vless, uuid: 981fca81-5be1-41f8-ac9b-d138e8109943, tls: true, servername: babayaga-6i7.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: babayaga-6i7.pages.dev}}, udp: true}
+  - {name: VN-103.186.154.23-5130, server: 103.186.154.23, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇯🇵 B-JP 11 TG NODPAI, server: 64.110.104.30, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇭🇰 B-HK 13 TG NODPAI, server: t.cnmjcn.cyou, port: 16622, type: vmess, uuid: d6cad560-2573-4bbe-ac89-a4c4ff8709cb, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: 1c67f0f9a8a5dfc3dc21086be6f49765.mobgslb.tbcache.com}}, udp: true}
+  - {name: VN-103.186.155.214-4860, server: 103.186.155.214, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.23-4690, server: 103.186.155.23, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇰🇷 KR-218.237.185.230-5049, server: 218.237.185.230, port: 4652, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: VN-103.186.155.230-4691, server: 103.186.155.230, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.13-4929, server: 103.186.155.13, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.221-4848, server: 103.186.154.221, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 B-US 11 TG NODPAI, server: 193.32.177.152, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.155.147-5110, server: 103.186.155.147, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇩🇪 DE-10|1.1MB S, server: 45.77.141.166, port: 2053, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.154.190-4752, server: 103.186.154.190, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇬🇧 GB-141.98.-7501-74MB, server: 141.98.101.178, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇰🇷 KR-141.164.45.187-4626, server: 141.164.45.187, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: VN-103.186.154.223-4941, server: 103.186.154.223, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.222-4857, server: 103.186.155.222, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.61-0214, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇯🇵 B-JP 07 TG NODPAI, server: 103.150.8.160, port: 50888, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.154.174-4909, server: 103.186.154.174, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.30-4877, server: 103.186.154.30, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.253-4729, server: 103.186.154.253, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-7248-42MB, server: 82.38.31.187, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇬🇧 GB-SPEEDNODE-0007, server: 82.198.246.214, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: VN-103.186.155.54-4761, server: 103.186.155.54, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 US-173.244-6025-04MB, server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: VN-103.186.154.53-4781, server: 103.186.154.53, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇩🇪 DE-5|3.0MB S, server: 135.125.234.148, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇰🇷 KR-152.67.-3768-99MB, server: chuncheon03.zgjok.com, port: 443, type: vmess, uuid: 81d5cac4-d039-4874-9a20-c391f580012d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: chuncheon03.zgjok.com}}, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.199-0314 | 0.124MB, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: VN-103.186.154.44-5101, server: 103.186.154.44, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: PE-138.186-3019-43MB, server: 138.186.143.32, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: VN-103.186.155.15-4853, server: 103.186.155.15, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-9119-72MB, server: 82.38.31.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇩🇪 DE-9|1.1MB S, server: 91.107.147.214, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.155.102-4735, server: 103.186.155.102, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.55-5120, server: 103.186.154.55, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: PT-185.113-3931-23MB, server: 185.113.143.186, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: 🇹🇼 TW-111.248-1572-23MB, server: r3mrcg007147vhp.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
+  - {name: 🇺🇸 US-173.234-9292-83MB, server: 173.234.29.2, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: VN-103.186.155.237-4727, server: 103.186.155.237, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.182-4759, server: 103.186.154.182, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.145-5123, server: 103.186.154.145, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.137-4700, server: 103.186.155.137, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.105-4706, server: 103.186.155.105, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.198-4890, server: 103.186.154.198, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.14-4778, server: 103.186.154.14, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.141-4817, server: 103.186.155.141, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇯🇵 B-JP 23 TG NODPAI, server: 185.130.46.81, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.154.45-4930, server: 103.186.154.45, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: PK-156.59.-6246-21MB, server: 156.59.243.6, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: 🇺🇸 B-US 28 TG NODPAI, server: 92.118.112.68, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.155.8-4780, server: 103.186.155.8, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.17-4892, server: 103.186.154.17, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.214-4830, server: 103.186.154.214, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: BE-192.71.-0547-59MB, server: 192.71.249.78, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: VN-103.186.154.37-4878, server: 103.186.154.37, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇭🇰 B-HK 10 TG NODPAI, server: 154.92.9.253, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: LV-46.183.-3242-39MB, server: 46.183.217.204, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: VN-103.186.155.21-4827, server: 103.186.155.21, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: MA-188.214-7105-29MB, server: 188.214.157.58, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0055, server: 199.119.137.41, port: 2053, type: vless, uuid: 981fca81-5be1-41f8-ac9b-d138e8109943, tls: true, servername: babayaga-6i7.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: babayaga-6i7.pages.dev}}, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.62-0193, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: VN-103.186.154.40-4931, server: 103.186.154.40, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.202-4820, server: 103.186.155.202, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.206-4951, server: 103.186.154.206, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-1991-37MB, server: 82.38.31.205, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇰🇷 KR-218.237-0803-19MB, server: p141.panda001.net, port: 4652, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇹🇼 TW-111.248-8748-47MB, server: 111.248.87.102, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
+  - {name: VN-103.186.154.41-4809, server: 103.186.154.41, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇩🇪 DE-2|1.9MB S, server: 91.199.118.215, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇭🇰 B-HK 11 TG NODPAI, server: planb.mojcn.com, port: 16622, type: vmess, uuid: d6cad560-2573-4bbe-ac89-a4c4ff8709cb, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: 1c67f0f9a8a5dfc3dc21086be6f49765.mobgslb.tbcache.com}}, udp: true}
+  - {name: 🇺🇸 US-107.172-1002-.0MB, server: 107.172.250.161, port: 59556, type: ss, cipher: chacha20-ietf-poly1305, password: QTmLViU4VEmuwbOxUw4IXd, udp: true}
+  - {name: 🇹🇼 C-TW 07 TG NODPAI, server: m.cnmjin.net, port: 16616, type: vmess, uuid: d6cad560-2573-4bbe-ac89-a4c4ff8709cb, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: 1c67f0f9a8a5dfc3dc21086be6f49765.mobgslb.tbcache.com}}, udp: true}
+  - {name: 🇯🇵 B-JP 20 TG NODPAI, server: 88.214.22.165, port: 10563, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.155.24-4828, server: 103.186.155.24, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.43-4819, server: 103.186.154.43, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.63-5095, server: 103.186.155.63, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.223-4876, server: 103.186.155.223, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇳🇱 NL-193.29.-9090-13MB, server: 193.29.139.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true}
+  - {name: 🇹🇼 TW-223.165-4183-13MB, server: 223.165.4.173, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: VN-103.186.154.161-4959, server: 103.186.154.161, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.64-4869, server: 103.186.155.64, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇩🇪 DE-46.101.-1428-75MB, server: 46.101.196.138, port: 23243, type: ss, cipher: chacha20-ietf-poly1305, password: Q7cjiVD0oKNE2o9sUnZKQg, udp: true}
+  - {name: VN-103.186.154.150-5115, server: 103.186.154.150, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.114-4771, server: 103.186.155.114, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-0202-55MB, server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: VN-103.186.155.4-4922, server: 103.186.155.4, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.224-4836, server: 103.186.154.224, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.202-0192, server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: SI-192.71.-0120-95MB, server: 192.71.244.150, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: 🇳🇱 NL-51.15.23.63-0283, server: 51.15.23.63, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: 🇩🇪 DE-11|2.6MB S, server: 95.179.160.153, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇸🇬 SG-1|1.1MB S, server: 77.110.121.125, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇩🇪 DE-8.209.74.72-0250, server: 8.209.74.72, port: 20001, type: ss, cipher: chacha20-ietf-poly1305, password: PWpjPo3tqhPN4yRZ, udp: true}
+  - {name: VN-103.186.154.141-4974, server: 103.186.154.141, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇨🇦 CA-1|1.1MB S, server: 23.173.104.222, port: 2053, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇸🇬 B-SG 09 TG NODPAI, server: 209.97.163.209, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.155.135-4832, server: 103.186.155.135, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.162-4695, server: 103.186.154.162, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.13-4903, server: 103.186.154.13, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.217-5126, server: 103.186.154.217, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 B-US 24 TG NODPAI, server: 144.31.104.154, port: 2053, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.155.65-4822, server: 103.186.155.65, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: ZA-102.37.-1526-94MB, server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true}
+  - {name: 🇨🇦 CA-79.127.-7960-96MB, server: 79.127.200.169, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-9911-35MB, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
   - {name: VN-103.186.154.179-4826, server: 103.186.154.179, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.231-4807, server: 103.186.155.231, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇳🇱 NL-193.29.-9011-28MB, server: 193.29.139.251, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇯🇵 B-JP 14 TG NODPAI, server: 138.2.59.112, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.155.203-4940, server: 103.186.155.203, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.61-4795, server: 103.186.154.61, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇮🇳 IN-134.209-8099-01MB, server: 134.209.147.198, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: 🇨🇦 CA-79.127.-1620-19MB, server: 79.127.233.170, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: VN-103.186.154.245-4779, server: 103.186.154.245, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.53-4886, server: 103.186.155.53, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.22-4777, server: 103.186.155.22, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.143-5111, server: 103.186.155.143, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.246-5104, server: 103.186.154.246, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.39-4751, server: 103.186.155.39, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.44-4731, server: 103.186.155.44, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇳🇱 NL-91.210.-6408-14MB, server: hl-freedom-1.undef.network, port: 443, type: trojan, password: JaFKnqNcvnBT63t3rquidGsln, sni: HL-FREEDOM-1.UNDEF.NETWORK, skip-cert-verify: false, udp: true}
+  - {name: VN-103.186.154.16-4728, server: 103.186.154.16, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.58-4844, server: 103.186.155.58, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: BR-38.54.57.90-0306 | 0.046MB, server: 38.54.57.90, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: 🇬🇧 GB-20.90.1-1507-38MB, server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true}
+  - {name: VN-103.186.155.236-4914, server: 103.186.155.236, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.180-4755, server: 103.186.154.180, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0047, server: 50.228.203.26, port: 443, type: vless, uuid: 981fca81-5be1-41f8-ac9b-d138e8109943, tls: true, servername: babayaga-6i7.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: babayaga-6i7.pages.dev}}, udp: true}
+  - {name: 🇬🇧 GB-20.90.187.128-0245 | 38.2MB, server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true}
+  - {name: VN-103.186.154.42-4835, server: 103.186.154.42, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.194-4850, server: 103.186.154.194, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.12-4730, server: 103.186.155.12, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇳🇱 NL-193.29.-9031-72MB, server: 193.29.139.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true}
+  - {name: 🇯🇵 B-JP 05 TG NODPAI, server: 154.197.108.253, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.154.228-4764, server: 103.186.154.228, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇸🇬 B-SG 16 TG NODPAI, server: 194.87.10.77, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇬🇧 GB-146.70.-5396-34MB, server: 146.70.61.37, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
+  - {name: CO-154.223-1601-13MB, server: 154.223.16.212, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: VN-103.186.155.85-4814, server: 103.186.155.85, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇳🇱 NL-159.223-6333-64MB, server: 159.223.236.36, port: 19582, type: ss, cipher: chacha20-ietf-poly1305, password: WC0GbiCk67K8nHDaDHmYIX, udp: true}
+  - {name: VN-103.186.155.75-4792, server: 103.186.155.75, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.243-4815, server: 103.186.154.243, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.119-4912, server: 103.186.155.119, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 US-71.19.148.74-0280, server: 71.19.148.74, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: gqkUCvmeOTghYJXF1YIuk5, udp: true}
+  - {name: 🇺🇸 US-37.19.1-2216-31MB, server: 37.19.198.244, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇸🇬 C-SG 22 TG NODPAI, server: 43.134.174.114, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: CY-45.15.1-5260-94MB, server: 45.15.185.70, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: 🇬🇧 GB-20.90.1-6883-84MB, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true}
+  - {name: VN-103.186.155.120-5109, server: 103.186.155.120, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.31-5140, server: 103.186.154.31, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.3-4773, server: 103.186.155.3, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.239-4732, server: 103.186.154.239, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.163-3025-02MB, server: 103.163.218.2, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: VN-103.186.155.57-4746, server: 103.186.155.57, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: SC-154.90.-8627-15MB, server: 154.90.63.177, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: 🇯🇵 B-JP 22 TG NODPAI, server: 23.27.52.79, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇳🇱 NL-193.29.-3372-98MB, server: 193.29.139.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇺🇸 B-US 20 TG NODPAI, server: 107.172.180.151, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.155.125-4823, server: 103.186.155.125, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.40-4825, server: 103.186.155.40, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.107-4715, server: 103.186.155.107, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.220-4748, server: 103.186.154.220, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.112-4799, server: 103.186.155.112, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.153-4845, server: 103.186.155.153, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.21-4749, server: 103.186.154.21, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.145-4704, server: 103.186.155.145, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.156-4858, server: 103.186.155.156, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.108-4875, server: 103.186.155.108, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.142-4918, server: 103.186.155.142, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 美国5| RIPAOJIEDIAN, server: 82.198.246.233, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 B-US 07 TG NODPAI, server: 167.68.42.253, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-6021-36MB, server: 82.38.31.214, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: VN-103.186.155.121-4902, server: 103.186.155.121, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇳🇱 NL-51.15.2-5960-63MB, server: 51.15.23.166, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: VN-103.186.154.22-4736, server: 103.186.154.22, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.29-4709, server: 103.186.155.29, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 B-US 21 TG NODPAI, server: 142.171.50.6, port: 2053, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇺🇸 B-US 33 TG NODPAI, server: 77.110.127.36, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-8810-89MB, server: 82.38.31.148, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: VN-103.186.154.142-5135, server: 103.186.154.142, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: BG-89.44.1-0972-88MB, server: 89.44.197.181, port: 31348, type: ss, cipher: chacha20-ietf-poly1305, password: zDLmeWRsfcFdKT1Tpy02xodEToqCldTxvZcRoPIZZtBdnIEL, udp: true}
+  - {name: 🇩🇪 DE-7|2.0MB S, server: 77.37.65.34, port: 2053, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.155.205-4723, server: 103.186.155.205, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: PA-138.186-2421-29MB, server: 138.186.142.80, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: SC-154.205-5533-61MB, server: 154.205.153.107, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: 🇺🇸 美国4| RIPAOJIEDIAN, server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: VN-103.186.155.183-4808, server: 103.186.155.183, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 US-37.19.1-6892-69MB, server: 37.19.198.236, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: VN-103.186.155.78-4920, server: 103.186.155.78, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.249-4798, server: 103.186.154.249, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.226-4818, server: 103.186.155.226, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.2-4896, server: 103.186.155.2, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇭🇰 HK-112.213-1032-45MB, server: 112.213.102.188, port: 41632, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: VN-103.186.155.113-4710, server: 103.186.155.113, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.57-4711, server: 103.186.154.57, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇭🇰 B-HK 21 TG NODPAI, server: 217.60.38.113, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇳🇱 NL-2|1.0MB S, server: 72.56.108.132, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.155.77-4805, server: 103.186.155.77, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.81-4772, server: 103.186.155.81, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.159-4839, server: 103.186.154.159, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.154-4916, server: 103.186.154.154, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇭🇰 A-HK 01 TG NODPAI, server: planb.mojcn.com, port: 16632, type: vmess, uuid: d6cad560-2573-4bbe-ac89-a4c4ff8709cb, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: 1c67f0f9a8a5dfc3dc21086be6f49765.mobgslb.tbcache.com}}, udp: true}
+  - {name: VN-103.186.154.24-4966, server: 103.186.154.24, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇨🇦 CA-137.184-9987-46MB, server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
+  - {name: VN-103.186.155.144-4935, server: 103.186.155.144, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.122-5108, server: 103.186.155.122, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.202-4758, server: 103.186.154.202, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.230-4769, server: 103.186.154.230, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.49-4880, server: 103.186.155.49, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇹🇼 TW-1.161.2-2060-19MB, server: nbmrcg0034686rw.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
+  - {name: VN-103.186.155.67-4719, server: 103.186.155.67, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇰🇷 KR-211.178-2011-28MB, server: 211.178.105.134, port: 6123, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: VN-103.186.155.59-4938, server: 103.186.155.59, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇳🇱 NL-193.29.-1678-56MB, server: 193.29.139.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true}
+  - {name: VN-103.186.155.229-4846, server: 103.186.155.229, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.199-4740, server: 103.186.154.199, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.20-4863, server: 103.186.155.20, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.140-4923, server: 103.186.154.140, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.38-4756, server: 103.186.154.38, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.76-4928, server: 103.186.155.76, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.240-4767, server: 103.186.155.240, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 B-US 34 TG NODPAI, server: 72.56.82.9, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.155.150-4851, server: 103.186.155.150, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇭🇰 C-HK 24 TG NODPAI, server: 212.192.15.182, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: PE-138.186-3040-96MB, server: 138.186.143.32, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: 🇺🇸 B-US 08 TG NODPAI, server: 157.245.178.181, port: 2087, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.154.4-5099, server: 103.186.154.4, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.49-4961, server: 103.186.154.49, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.234-4775, server: 103.186.155.234, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.130-4689, server: 103.186.155.130, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.131-4801, server: 103.186.155.131, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇹🇼 TW-185.189-5108-46MB, server: 185.189.160.105, port: 41632, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇺🇸 B-US 17 TG NODPAI, server: 141.101.114.253, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.155.211-5127, server: 103.186.155.211, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇹🇼 TW-36.224.178.246-4654, server: r3mrcg00129437x.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
+  - {name: 🇳🇱 NL-79.127.-2026-34MB, server: 79.127.227.53, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: VN-103.186.154.234-4849, server: 103.186.154.234, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.41-5096, server: 103.186.155.41, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇳🇱 NL-193.29.-9211-24MB, server: 193.29.139.141, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.184-0305, server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇯🇵 B-JP 08 TG NODPAI, server: 64.176.38.23, port: 2083, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.154.26-4895, server: 103.186.154.26, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.68-4714, server: 103.186.155.68, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.231-4861, server: 103.186.154.231, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.50-4708, server: 103.186.154.50, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.229-5112, server: 103.186.154.229, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.191-4692, server: 103.186.154.191, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.32-4943, server: 103.186.154.32, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.63-4913, server: 103.186.154.63, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.104-4713, server: 103.186.155.104, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.69-4757, server: 103.186.155.69, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0051, server: 69.143.174.201, port: 8443, type: vless, uuid: 981fca81-5be1-41f8-ac9b-d138e8109943, tls: true, servername: babayaga-6i7.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: babayaga-6i7.pages.dev}}, udp: true}
+  - {name: VN-103.186.155.213-4737, server: 103.186.155.213, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.9-5106, server: 103.186.155.9, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.179-0302, server: 82.38.31.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: VN-103.186.155.206-4859, server: 103.186.155.206, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.250-4726, server: 103.186.154.250, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.30-4833, server: 103.186.155.30, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.116-4957, server: 103.186.155.116, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: MT-171.22.254.17-0235 | 0.0MB, server: 171.22.254.17, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: VN-103.186.155.209-4768, server: 103.186.155.209, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇯🇵 B-JP 09 TG NODPAI, server: 91.200.242.118, port: 16847, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.154.203-4791, server: 103.186.154.203, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.89-0196, server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: VN-103.186.154.242-4847, server: 103.186.154.242, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: LV-185.176-7251-98MB, server: 185.176.221.72, port: 24637, type: ss, cipher: chacha20-ietf-poly1305, password: MholStyHL7DhrewKbpQa20, udp: true}
+  - {name: VN-103.186.155.128-4747, server: 103.186.155.128, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.235-4802, server: 103.186.154.235, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇸🇬 SG-38.89.1-2679-06MB, server: 38.89.142.56, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: VN-103.186.155.106-4866, server: 103.186.155.106, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.39-4834, server: 103.186.154.39, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-1199-21MB, server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇩🇪 DE-4|1.8MB S, server: 23.88.97.94, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇭🇰 B-HK 14 TG NODPAI, server: 156.225.72.253, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/tr | 免费机场TG@proxyshareCN | ", headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.155.148-4874, server: 103.186.155.148, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.129-4927, server: 103.186.155.129, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.55-4837, server: 103.186.155.55, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.213-4796, server: 103.186.154.213, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: IT-176.126-5130-23MB, server: 176.126.83.158, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: VN-103.186.155.43-4946, server: 103.186.155.43, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.215-4965, server: 103.186.154.215, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.25-4936, server: 103.186.155.25, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 US-156.146-8879-68MB, server: 156.146.38.167, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇳🇱 NL-213.109-9102-79MB, server: 213.109.147.242, port: 62685, type: ss, cipher: chacha20-ietf-poly1305, password: VpKABcOpNNA0l5G2AVOmw8, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.35-0191 | 88.189MB, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: VN-103.186.154.152-5098, server: 103.186.154.152, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.225-4953, server: 103.186.154.225, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 B-US 19 TG NODPAI, server: 84.32.44.218, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.155.140-4910, server: 103.186.155.140, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0049, server: 199.119.137.77, port: 2053, type: vless, uuid: 981fca81-5be1-41f8-ac9b-d138e8109943, tls: true, servername: babayaga-6i7.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: babayaga-6i7.pages.dev}}, udp: true}
+  - {name: VN-103.186.155.46-4763, server: 103.186.155.46, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.204-4862, server: 103.186.154.204, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.195-4738, server: 103.186.154.195, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇭🇰 B-HK 18 TG NODPAI, server: 129.226.163.56, port: 8388, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.155.60-4788, server: 103.186.155.60, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.156-4893, server: 103.186.154.156, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: EC-38.165.-3235-12MB, server: 38.165.231.25, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: VN-103.186.155.110-4907, server: 103.186.155.110, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0052, server: 193.32.177.101, port: 443, type: vless, uuid: 981fca81-5be1-41f8-ac9b-d138e8109943, tls: true, servername: babayaga-6i7.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: babayaga-6i7.pages.dev}}, udp: true}
+  - {name: VN-103.186.155.45-4754, server: 103.186.155.45, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.18-4843, server: 103.186.155.18, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 B-US 27 TG NODPAI, server: 185.169.107.52, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇺🇸 B-US 36 TG NODPAI, server: 185.170.154.109, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.154.197-4856, server: 103.186.154.197, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.111-4854, server: 103.186.155.111, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.27-4937, server: 103.186.155.27, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.109-4901, server: 103.186.155.109, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.222-5134, server: 103.186.154.222, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: RELAY-104.21.224.5-0859, server: v3.dabache.top, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, network: ws, ws-opts: {path: "%2Fassignment", headers: {Host: www.gossipglove.com}}, udp: true}
+  - {name: 🇯🇵 B-JP 12 TG NODPAI, server: 140.238.50.134, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-2042-85MB, server: 82.38.31.122, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: VN-103.186.154.56-4721, server: 103.186.154.56, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇯🇵 B-JP 04 TG NODPAI, server: 38.47.96.220, port: 11424, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.155.26-4932, server: 103.186.155.26, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.82-0220, server: 82.38.31.82, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇺🇸 B-US 13 TG NODPAI, server: 107.174.198.228, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: MK-46.183.-0703-68MB, server: 46.183.185.37, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: 🇯🇵 JP-149.22.87.204-4984, server: 149.22.87.204, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: VN-103.186.155.103-4952, server: 103.186.155.103, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.219-4739, server: 103.186.154.219, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.218-4934, server: 103.186.155.218, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.208-5102, server: 103.186.154.208, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇩🇪 DE-1|1.8MB S, server: www.shopify.com, port: 80, type: vmess, uuid: 3171ac5c-d746-4298-82e0-d46f2f5aa51f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /danfeng, headers: {Host: de.gfw.hidns.co}}, udp: true}
+  - {name: 🇬🇧 GB-SPEEDNODE-0006, server: 82.198.246.9, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇷🇺 RU-38.60.223.8-0288 | 0.234MB, server: 38.60.223.8, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: VN-103.186.155.35-4864, server: 103.186.155.35, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.205-4724, server: 103.186.154.205, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.99-0212, server: 82.38.31.99, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇹🇼 TW-111.248-5200-26MB, server: r3mrcg007117fb8.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
+  - {name: VN-103.186.154.46-4725, server: 103.186.154.46, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.209-4883, server: 103.186.154.209, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇩🇰 DK-192.36.27.94-0277 | 1.302MB, server: 192.36.27.94, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: 🇺🇸 US-1|1.6MB S, server: 172.66.44.230, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/tro8sFW1S91B6sZrM1?ed=2560", headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.154.157-4840, server: 103.186.154.157, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.151-4962, server: 103.186.154.151, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.70-4945, server: 103.186.155.70, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: SC-154.205-0563-57MB, server: 154.205.146.153, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: VN-103.186.155.115-4776, server: 103.186.155.115, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 B-US 09 TG NODPAI, server: 103.21.244.253, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.154.227-4703, server: 103.186.154.227, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 B-US 38 TG NODPAI, server: 3.137.145.231, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.154.251-4803, server: 103.186.154.251, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.28-4872, server: 103.186.154.28, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.132-5131, server: 103.186.155.132, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇹🇼 C-TW 08 TG NODPAI, server: planb.mojcn.com, port: 16616, type: vmess, uuid: d6cad560-2573-4bbe-ac89-a4c4ff8709cb, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: 1c67f0f9a8a5dfc3dc21086be6f49765.mobgslb.tbcache.com}}, udp: true}
+  - {name: VN-103.186.154.196-4906, server: 103.186.154.196, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇰🇷 KR-152.67.-1978-33MB, server: 152.67.218.38, port: 443, type: vmess, uuid: b5e9480a-b7aa-40a4-f9a7-5299b5e363b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 152.67.218.38}}, udp: true}
+  - {name: VN-103.186.155.123-4743, server: 103.186.155.123, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇩🇪 DE-38.60.2-0103-95MB, server: 38.60.250.107, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: VN-103.186.154.178-4899, server: 103.186.154.178, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.239-4718, server: 103.186.155.239, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.62-4800, server: 103.186.154.62, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.15-5100, server: 103.186.154.15, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.181-4948, server: 103.186.154.181, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇸🇬 B-SG 03 TG NODPAI, server: 149.28.142.169, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇭🇰 香港| RIPAOJIEDIAN, server: v10.hdacd.com, port: 30807, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: VN-103.186.154.193-4889, server: 103.186.154.193, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.66-0210 | 83.845MB, server: 82.38.31.66, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: VN-103.186.155.117-4964, server: 103.186.155.117, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.19-4750, server: 103.186.155.19, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇸🇬 B-SG 05 TG NODPAI, server: 188.239.21.47, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇪🇸 ES-37.143.-4000-09MB, server: 37.143.130.203, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: VN-103.186.155.34-5116, server: 103.186.155.34, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.35-5117, server: 103.186.154.35, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.221-4939, server: 103.186.155.221, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: RELAY-172.64.149.209-0857, server: mfa.gov.ua, port: 443, type: trojan, password: 5dc15e15-f285-4a9d-959b-0e4fbdd77b63, sni: vless.lrdxw.club, network: ws, ws-opts: {path: "%2F", headers: {Host: vless.lrdxw.club}}, udp: true}
+  - {name: VN-103.186.155.136-4969, server: 103.186.155.136, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 US-149.28.-8501-04MB, server: 149.28.255.6, port: 816, type: ss, cipher: chacha20-ietf-poly1305, password: GyZ5Xo0ht41vYmW3H4, udp: true}
+  - {name: VN-103.186.154.216-4744, server: 103.186.154.216, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.126-5137, server: 103.186.155.126, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: EC-185.47.-0500-61MB, server: 185.47.253.227, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: VN-103.186.154.18-4816, server: 103.186.154.18, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 B-US 15 TG NODPAI, server: 45.156.24.133, port: 2053, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.154.51-4944, server: 103.186.154.51, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.29-4963, server: 103.186.154.29, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.80-4888, server: 103.186.155.80, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.83-5125, server: 103.186.155.83, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.139-4821, server: 103.186.155.139, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.5-4942, server: 103.186.155.5, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.144-4766, server: 103.186.154.144, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 B-US 04 TG NODPAI, server: 178.128.70.6, port: 2083, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.154.19-4919, server: 103.186.154.19, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.12-5097, server: 103.186.154.12, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.17-4885, server: 103.186.155.17, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.166-5136, server: 103.186.154.166, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.168-4960, server: 103.186.154.168, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇬🇧 GB-SPEEDNODE-0009, server: 82.198.246.37, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 B-US 32 TG NODPAI, server: 150.241.74.98, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.155.50-4785, server: 103.186.155.50, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.211-4813, server: 103.186.154.211, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 US-156.146-0592-39MB, server: 156.146.38.170, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: VN-103.186.154.175-5119, server: 103.186.154.175, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.236-4882, server: 103.186.154.236, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.240-4905, server: 103.186.154.240, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.224-4789, server: 103.186.155.224, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.226-4786, server: 103.186.154.226, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 B-US 35 TG NODPAI, server: 72.56.83.150, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.155.52-4933, server: 103.186.155.52, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: AT-37.235.56.69-0290 | 0.065MB, server: 37.235.56.69, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: VN-103.186.155.37-4742, server: 103.186.155.37, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.204-4770, server: 103.186.155.204, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.84-4868, server: 103.186.155.84, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.218-4806, server: 103.186.154.218, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-0881-62MB, server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇪🇸 ES-45.154.-2251-54MB, server: 45.154.206.192, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: VN-103.186.154.212-4720, server: 103.186.154.212, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇸🇬 B-SG 15 TG NODPAI, server: 172.104.186.18, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇰🇷 KR-141.164.45.187-5052, server: 141.164.45.187, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: VN-103.186.154.232-4753, server: 103.186.154.232, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇯🇵 B-JP 10 TG NODPAI, server: 176.97.70.51, port: 8443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-1940-37MB, server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: VN-103.186.154.60-4904, server: 103.186.154.60, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.172-4694, server: 103.186.154.172, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇹🇼 B-TW 05 TG NODPAI, server: v11.zgtfqs.click, port: 30811, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, udp: true}
+  - {name: 🇺🇸 B-US 23 TG NODPAI, server: 96.62.152.247, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: VN-103.186.155.62-4921, server: 103.186.155.62, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.82-4891, server: 103.186.155.82, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.228-5114, server: 103.186.155.228, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.48-5139, server: 103.186.154.48, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.235-4698, server: 103.186.155.235, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.33-4774, server: 103.186.155.33, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.146-4831, server: 103.186.155.146, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.207-4852, server: 103.186.154.207, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.155.42-4804, server: 103.186.155.42, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: VN-103.186.154.27-5128, server: 103.186.154.27, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: SC-154.223-1093-41MB, server: 154.223.20.79, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: VN-103.186.154.189-4705, server: 103.186.154.189, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: CL-38.54.20.59-0259 | 10.992MB, server: 38.54.20.59, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: VN-103.186.155.31-5118, server: 103.186.155.31, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: MD-94.131.-8012-19MB, server: 94.131.108.36, port: 443, type: vmess, uuid: 9855f1f0-a800-40d4-8b38-c7d3eb79302d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: VN-103.186.155.220-4793, server: 103.186.155.220, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 US-38.135.24.131-0293, server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true}
+  - {name: 🇨🇦 CA-23.95.76.59-0186, server: 23.95.76.59, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: VN-103.186.154.20-4707, server: 103.186.154.20, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇺🇸 B-US 16 TG NODPAI, server: 216.128.134.116, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: 🇺🇸 B-US 37 TG NODPAI, server: 72.56.115.211, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
