@@ -1,106 +1,88 @@
 proxies:
-  - {name: TR-194.87.-3661-03MB, server: 194.87.39.215, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: X6btbRvJCo3uTQ--yaaT8Mvh0CgqhYTL, udp: true}
-  - {name: 🇳🇱 NL-193.29.-3831-03MB, server: 193.29.139.233, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true}
-  - {name: 🇨🇦 CA-108.181-4168-91MB, server: 108.181.118.10, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: G5p6ww4o67HB, udp: true}
-  - {name: 🇯🇵 JP-149.22.-9287-93MB, server: 149.22.87.204, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇳🇱 NL-193.29.-0710-23MB, server: 193.29.139.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true}
-  - {name: 🇩🇪 DE-172.238-2010-95MB, server: 172.238.120.124, port: 443, type: trojan, password: r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-62.146.-0211-69MB, server: 62.146.231.112, port: 12012, type: ss, cipher: chacha20-ietf-poly1305, password: 4e287631dc4fc8fc, udp: true}
-  - {name: 🇹🇼 TW-36.230.36.180-0170, server: r3mrcg001269pz2.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
-  - {name: 🇺🇸 US-37.19.1-0982-57MB, server: 37.19.198.243, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇺🇸 US-37.19.1-0616-59MB, server: 37.19.198.236, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇺🇸 US-156.146-0000-04MB, server: 156.146.38.170, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇺🇸 US-156.146-5041-99MB, server: 156.146.38.167, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇬🇧 GB-141.98.-7411-48MB, server: 141.98.101.178, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: NZ-SPEEDNODE-0017, server: 202.37.33.81, port: 443, type: vless, uuid: 3b01a777-55e7-49f6-8637-d94ee69607c6, tls: true, alpn: [http/1.1], servername: m.udemy.com.cyylr.eu.cc, client-fingerprint: chrome, network: ws, ws-opts: {path: /id-tksi, headers: {Host: m.udemy.com.cyylr.eu.cc}}, udp: true}
-  - {name: 🇺🇸 US-149.28.-5051-98MB, server: 149.28.255.6, port: 816, type: ss, cipher: chacha20-ietf-poly1305, password: GyZ5Xo0ht41vYmW3H4, udp: true}
-  - {name: 🇬🇧 GB-141.98.-2111-94MB, server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇳🇱 NL-108.181-1102-29MB, server: 108.181.126.122, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: CJmTCCx7Ltud, udp: true}
-  - {name: 🇺🇸 US-173.244-4559-22MB, server: 173.244.56.9, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: RELAY-104.18.0.55-0769, server: www.gossipglove.com, port: 443, type: trojan, password: humanity, network: ws, ws-opts: {path: "%2Fassignment"}, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.187-0174, server: 82.38.31.187, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇳🇱 NL-193.29.-0249-23MB, server: 193.29.139.204, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇺🇸 美国5| RIPAOJIEDIAN, server: 82.198.246.233, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: FI-109.107-2404-15MB, server: 109.107.182.229, port: 51544, type: ss, cipher: chacha20-ietf-poly1305, password: MZeSTvpl2uoey1R0frhPyJ, udp: true}
-  - {name: 🇸🇬 SG-154.18.239.126-0214, server: 154.18.239.126, port: 37425, type: ss, cipher: chacha20-ietf-poly1305, password: eLPlIVuRZ6UJyapVDeT++l7fYC0uowXJFlb9qhntAd4=, udp: true}
-  - {name: 🇨🇦 CA-137.184-1411-95MB, server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
-  - {name: 🇯🇵 JP-103.106-2314-84MB, server: 103.106.228.175, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
-  - {name: 🇺🇸 US-156.146-2483-71MB, server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇯🇵 JP-149.22.-8701-11MB, server: 149.22.87.241, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇰🇷 KR-SPEEDNODE-0012, server: testkr3.ssv.vc, port: 30446, type: http, username: test, password: test.+, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-SPEEDNODE-0005, server: 82.198.246.214, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: aes-128-gcm, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 GB-20.108.-4531-92MB, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.186-0180, server: 82.38.31.186, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇰🇷 KR-141.164-8450-02MB, server: 141.164.45.187, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: 🇬🇧 GB-20.108.45.37-0137, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true}
-  - {name: 🇰🇷 KR-211.178-0000-19MB, server: 211.178.105.134, port: 6123, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: 🇬🇧 GB-20.108.-1437-76MB, server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true}
-  - {name: 🇬🇧 GB-20.108.-0167-93MB, server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true}
-  - {name: 🇺🇸 美国 CLOUDFLARE节点 2, server: 198.41.223.61, port: 443, type: vless, uuid: 7f3faff8-41db-403d-8329-6b9072aaabe2, tls: true, servername: edgetunnell-1dc.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: edgetunnell-1dc.pages.dev}}, udp: true}
-  - {name: 🇩🇪 DE-63.180.-3030-38MB, server: 63.180.239.185, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 🇳🇱 NL-193.29.-7906-45MB, server: 193.29.139.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true}
-  - {name: 🇳🇱 NL-108.181-6237-36MB, server: 108.181.58.239, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: CJmTCCx7Ltud, udp: true}
-  - {name: 🇺🇸 US-100.27.193.207-0240, server: 100.27.193.207, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 🇬🇧 GB-185.5.38.111-0212, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: bZ87amPpdG7KuWM62bKtm1KHoowuVjnV8CKtq653ymHcg2dPYcPJfnaQ61stuAjr2ZiLDaqH56XpkxEYuwDzzRrMWieebWGt, udp: true}
-  - {name: 🇺🇸 US-156.146-8855-81MB, server: 156.146.38.168, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇺🇸 US-37.19.1-2298-57MB, server: 37.19.198.243, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇳🇱 NL-193.29.-8896-22MB, server: 193.29.139.235, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇳🇱 NL-193.29.-1496-11MB, server: 193.29.139.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true}
+  - {name: 🇯🇵 JP-149.22.-4188-11MB, server: 149.22.87.241, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇺🇸 US-156.146-1088-99MB, server: 156.146.38.167, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇰🇷 KR-218.237-8100-56MB, server: p141.panda001.net, port: 4652, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
   - {name: 🇺🇸 US-SPEEDNODE-0033, server: 155.117.127.137, port: 443, type: vless, uuid: 5a20b5d0-3a98-4792-9559-95f4e24277ec, tls: false, network: tcp, udp: true}
-  - {name: 🇹🇼 TW-61.231.8.4-0154, server: r3mrcg00129437x.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
-  - {name: 🇳🇱 NL-195.93.-3052-33MB, server: 195.93.253.245, port: 49137, type: ss, cipher: chacha20-ietf-poly1305, password: FDeCHSu4lt8qflCS5zDOy8, udp: true}
-  - {name: 🇮🇳 IN-152.67.8.205-0158, server: 152.67.8.205, port: 80, type: vmess, uuid: 9db4c708-aef8-4359-821b-38e47990be0d, alterId: 0, cipher: auto, tls: false, servername: 152.67.8.205, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇹🇼 TW-185.189-9351-87MB, server: 185.189.160.105, port: 41632, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: 🇳🇱 NL-51.15.23.63-0166, server: 51.15.23.63, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇯🇵 JP-149.22.-1718-87MB, server: 149.22.87.240, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-1818-32MB, server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇪🇸 ES-37.143.130.203-0218, server: 37.143.130.203, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: 🇺🇸 US-7|2.2MB S, server: 82.198.246.37, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: <nil>, udp: true}
-  - {name: 🇬🇧 GB-SPEEDNODE-0007, server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: ZA-102.133-1115-68MB, server: 102.133.165.160, port: 16233, type: ss, cipher: chacha20-ietf-poly1305, password: Xsy8Ox4yOV3xLlpxtjzs3X, udp: true}
-  - {name: 🇨🇦 CA-15.223.186.62-4565, server: 15.223.186.62, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-7071-99MB, server: 82.38.31.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇺🇸 US-37.19.1-1220-29MB, server: 37.19.198.244, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇩🇪 DE-213.202-9323-43MB, server: 213.202.208.199, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: 🇳🇱 NL-193.29.-0115-08MB, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇰🇷 KR-SPEEDNODE-0013, server: 121.169.46.116, port: 1090, type: socks5}
-  - {name: 🇩🇪 DE-8.209.74.72-0138, server: 8.209.74.72, port: 20001, type: ss, cipher: chacha20-ietf-poly1305, password: PWpjPo3tqhPN4yRZ, udp: true}
-  - {name: 🇰🇷 KR-141.164-0892-16MB, server: 141.164.45.187, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-  - {name: 🇩🇪 DE-209.46.-4126-09MB, server: 209.46.102.22, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 1hhrqrokj3ag, udp: true}
-  - {name: 🇷🇺 俄罗斯, server: 212.192.15.225, port: 20129, type: ss, cipher: aes-256-gcm, password: 7e1dd4c55bf85da5, udp: true}
+  - {name: 🇺🇸 US-149.28.-1355-98MB, server: 149.28.255.6, port: 816, type: ss, cipher: chacha20-ietf-poly1305, password: GyZ5Xo0ht41vYmW3H4, udp: true}
+  - {name: 🇳🇱 NL-108.181-2202-29MB, server: 108.181.126.122, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: CJmTCCx7Ltud, udp: true}
+  - {name: 🇯🇵 JP-149.22.-3711-87MB, server: 149.22.87.240, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇩🇪 德国 黑森州法兰克福LINODE数据中心, server: 172.104.237.100, port: 443, type: trojan, password: VPTFm=oZ++SuNT+jMRqGZqrAnWq-r8KJyY, sni: 172.104.237.100, skip-cert-verify: true, udp: true}
   - {name: 🇬🇧 GB-146.70.61.37-0113, server: 146.70.61.37, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
-  - {name: 🇺🇸 US-108.181-1170-78MB, server: 108.181.0.177, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: G5p6ww4o67HB, udp: true}
-  - {name: 🇰🇷 KR-218.237-1108-83MB, server: 218.237.185.230, port: 4652, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-4188-98MB, server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇨🇦 CA-149.22.-4013-45MB, server: 149.22.95.183, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇳🇱 NL-51.15.23.63-0166, server: 51.15.23.63, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: 🇬🇧 GB-141.98.-4450-82MB, server: 141.98.101.179, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇺🇸 US-156.146-3002-04MB, server: 156.146.38.170, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: ZA-102.37.-4812-18MB, server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true}
+  - {name: 🇺🇸 US-62.146.-0135-69MB, server: 62.146.231.112, port: 12012, type: ss, cipher: chacha20-ietf-poly1305, password: 4e287631dc4fc8fc, udp: true}
+  - {name: 🇺🇸 US-173.244-6155-63MB, server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇺🇸 美国5| RIPAOJIEDIAN, server: 82.198.246.233, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇳🇱 NL-193.29.-1102-23MB, server: 193.29.139.204, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇬🇧 GB-20.108.-1357-76MB, server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true}
+  - {name: 🇹🇼 TW-46.249.-8110-91MB, server: download.riferoser.icu, port: 56594, type: ss, cipher: chacha20-ietf-poly1305, password: mzeMYBJYp4Bo7nA1qYLvv7QG73igtAA85nt4pr8A9ntx2qhDfYgRtiJ7iH7VrcneQKNmtvpbsvvFKPaUATYELi18iH56Ttr4, udp: true}
+  - {name: 🇰🇷 KR-218.237-1035-83MB, server: 218.237.185.230, port: 4652, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇬🇧 GB-20.108.45.37-0137, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true}
   - {name: 🇺🇸 US-71.19.148.74-0185, server: hackney-latest-strike.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: XUMTygEM1jVYIvysXKqA5T, udp: true}
-  - {name: 🇭🇰 HK-112.213-2811-08MB, server: 112.213.102.188, port: 41632, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: 🇳🇱 NL-193.29.-9711-06MB, server: 193.29.139.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true}
-  - {name: 🇳🇱 NL-109.201-4155-48MB, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.199-0194, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇹🇼 TW-SPEEDNODE-0023, server: 103.127.243.54, port: 53229, type: vmess, uuid: 2f50f5ef-1a3a-4585-a3c9-3a860d37b134, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/ABCDE]}, udp: true}
-  - {name: 🇺🇸 US-172.237-5271-96MB, server: 172.237.145.189, port: 443, type: trojan, password: A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM, sni: 172.237.145.189, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-107.172-6646-97MB, server: 107.172.250.161, port: 59556, type: ss, cipher: chacha20-ietf-poly1305, password: QTmLViU4VEmuwbOxUw4IXd, udp: true}
-  - {name: 🇬🇧 GB-141.98.-7101-71MB, server: 141.98.101.181, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇪🇸 西班牙, server: 185.18.250.127, port: 2096, type: vless, uuid: 2ee26119-94e5-40b4-ba3a-16354021b600, tls: true, servername: 69565ce3109804e7813f98ee.mmdbay.blog, network: ws, ws-opts: {path: /graphql, headers: {Host: 69565ce3109804e7813f98ee.mmdbay.blog}}, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-4510-22MB, server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: RO-SPEEDNODE-0018, server: 84.239.14.158, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-94.156.-6518-06MB, server: 94.156.250.148, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: ZA-102.37.-4248-18MB, server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.179-0176, server: 82.38.31.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: FI-193.47.-4267-96MB, server: 193.47.60.186, port: 28687, type: ss, cipher: chacha20-ietf-poly1305, password: yKVMoB3AwiTEznpnoq2FYR, udp: true}
-  - {name: 🇺🇸 US-149.104-9429-89MB, server: 149.104.109.74, port: 21273, type: ss, cipher: chacha20-ietf-poly1305, password: Ll6cYfXM5DzQbdtMMb72A_jqVnNljU3yqe, udp: true}
-  - {name: LT-193.135-3551-11MB, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: AT-38.180.-7446-76MB, server: 38.180.197.41, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: 🇬🇧 GB-141.98.-0979-82MB, server: 141.98.101.179, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇭🇰 HK-216.250-8974-57MB, server: 216.250.97.82, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇩🇪 DE-172.236-0062-99MB, server: 172.236.220.10, port: 443, type: trojan, password: s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui, sni: 172.236.220.10, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-71.19.148.74-0187, server: 71.19.148.74, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: gqkUCvmeOTghYJXF1YIuk5, udp: true}
-  - {name: RO-SPEEDNODE-0019, server: 84.239.49.201, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-173.244-0346-63MB, server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇳🇱 NL-193.29.-9203-99MB, server: 193.29.139.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true}
-  - {name: 🇺🇸 美国 CLOUDFLARE节点, server: 104.19.229.21, port: 443, type: vless, uuid: cc752a3e-1537-4e86-bb50-1b897bf7b33c, tls: true, servername: cyylr.eu.cc, client-fingerprint: chrome, network: ws, ws-opts: {path: /sg-melbi, headers: {Host: cyylr.eu.cc}}, udp: true}
-  - {name: 🇰🇷 KR-218.237-0500-56MB, server: p141.panda001.net, port: 4652, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: 🇨🇦 CA-35.183.129.131-0224, server: 35.183.129.131, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: NO-185.213-3633-47MB, server: 185.213.23.63, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: 🇺🇸 US-202.91.-1093-54MB, server: link.honghongai.top, port: 8443, type: trojan, password: 8f3a2b1c9d4e5f6a7b8c9d0e1f2a3b4c, sni: link.honghongai.top, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇦 CA-149.22.-1042-45MB, server: 149.22.95.183, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇨🇦 CA-16.52.1-4175-73MB, server: 16.52.154.170, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 🇺🇸 US-37.19.1-1211-78MB, server: 37.19.198.160, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇰🇷 KR-141.164-0852-16MB, server: 141.164.45.187, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: 🇯🇵 JP-103.106-2102-84MB, server: 103.106.228.175, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
   - {name: 🇬🇧 GB-82.38.31.149-0196, server: 82.38.31.149, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇰🇷 KR-SPEEDNODE-0013, server: 121.169.46.116, port: 1090, type: socks5}
+  - {name: ZA-102.133-1105-68MB, server: 102.133.165.160, port: 16233, type: ss, cipher: chacha20-ietf-poly1305, password: Xsy8Ox4yOV3xLlpxtjzs3X, udp: true}
+  - {name: 🇩🇪 DE-8.209.74.72-0138, server: 8.209.74.72, port: 20001, type: ss, cipher: chacha20-ietf-poly1305, password: PWpjPo3tqhPN4yRZ, udp: true}
+  - {name: 🇬🇧 GB-20.108.-3335-93MB, server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-1904-05MB, server: 82.38.31.214, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇬🇧 GB-SPEEDNODE-0007, server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇹🇼 TW-36.230.36.180-0170, server: r3mrcg001269pz2.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
+  - {name: 🇺🇸 US-156.146-3021-71MB, server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-8151-22MB, server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇺🇸 US-108.181-0371-78MB, server: 108.181.0.177, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: G5p6ww4o67HB, udp: true}
+  - {name: 🇳🇱 NL-193.29.-9313-06MB, server: 193.29.139.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.184-0244, server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇺🇸 US-107.172-1610-97MB, server: 107.172.250.161, port: 59556, type: ss, cipher: chacha20-ietf-poly1305, password: QTmLViU4VEmuwbOxUw4IXd, udp: true}
+  - {name: 🇺🇸 US-37.19.1-9205-78MB, server: 37.19.198.160, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: RO-SPEEDNODE-0019, server: 84.239.49.201, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇩🇪 DE-18.195.-1250-15MB, server: 18.195.95.15, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇳🇱 NL-109.104.153.43-0204, server: ssr2.762988.xyz, port: 33336, type: ssr, cipher: chacha20-ietf, password: dongtaiwang.com, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: "", udp: true}
+  - {name: 🇭🇰 HK-216.250-0788-57MB, server: 216.250.97.82, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇩🇪 DE-172.236-4112-99MB, server: 172.236.220.10, port: 443, type: trojan, password: s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui, sni: 172.236.220.10, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 HK-112.213-8811-08MB, server: 112.213.102.188, port: 41632, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: NO-185.213-3363-47MB, server: 185.213.23.63, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: 🇺🇸 US-149.104-2799-89MB, server: 149.104.109.74, port: 21273, type: ss, cipher: chacha20-ietf-poly1305, password: Ll6cYfXM5DzQbdtMMb72A_jqVnNljU3yqe, udp: true}
+  - {name: 🇺🇸 US-216.105-3892-01MB, server: 216.105.168.18, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hCCWOcIsK5wrFz4OX70rWf, udp: true}
+  - {name: 🇬🇧 GB-141.98.-6111-71MB, server: 141.98.101.181, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇺🇸 US-37.19.1-4812-29MB, server: 37.19.198.244, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-7411-76MB, server: 82.38.31.155, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇰🇷 KR-211.178-3000-19MB, server: 211.178.105.134, port: 6123, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.187-0174, server: 82.38.31.187, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇬🇧 GB-141.98.-1221-94MB, server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-0312-76MB, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.179-0176, server: 82.38.31.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇬🇧 GB-185.5.38.111-0212, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: bZ87amPpdG7KuWM62bKtm1KHoowuVjnV8CKtq653ymHcg2dPYcPJfnaQ61stuAjr2ZiLDaqH56XpkxEYuwDzzRrMWieebWGt, udp: true}
+  - {name: 🇳🇱 NL-193.29.-5111-08MB, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇳🇱 NL-109.201-1070-48MB, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.186-0180, server: 82.38.31.186, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇳🇱 NL-195.93.-1532-33MB, server: 195.93.253.245, port: 49137, type: ss, cipher: chacha20-ietf-poly1305, password: FDeCHSu4lt8qflCS5zDOy8, udp: true}
+  - {name: 🇯🇵 JP-47.79.144.115-4654, server: 47.79.144.115, port: 40003, type: ss, cipher: aes-256-gcm, password: GTZI5AbjNAeWQG0oVNptvWJogHNKiiKA, udp: true}
+  - {name: TR-194.87.-5642-03MB, server: 194.87.39.215, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: X6btbRvJCo3uTQ--yaaT8Mvh0CgqhYTL, udp: true}
+  - {name: 🇬🇧 GB-141.98.-1701-48MB, server: 141.98.101.178, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇯🇵 JP-149.22.-0964-93MB, server: 149.22.87.204, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇨🇦 CA-137.184-3509-95MB, server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
+  - {name: RO-SPEEDNODE-0018, server: 84.239.14.158, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇨🇦 CA-108.181-1808-91MB, server: 108.181.118.10, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: G5p6ww4o67HB, udp: true}
+  - {name: 🇳🇱 NL-193.29.-0735-45MB, server: 193.29.139.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true}
+  - {name: 🇰🇷 KR-152.67.-1128-52MB, server: 152.67.218.38, port: 443, type: vmess, uuid: b5e9480a-b7aa-40a4-f9a7-5299b5e363b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇺🇸 US-156.146-1850-81MB, server: 156.146.38.168, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇺🇸 US-37.19.1-6260-59MB, server: 37.19.198.236, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.199-0194, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇳🇱 NL-108.181-9796-36MB, server: 108.181.58.239, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: CJmTCCx7Ltud, udp: true}
+  - {name: 🇬🇧 GB-20.108.-0474-92MB, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true}
+  - {name: 🇹🇼 TW-36.228.-4230-46MB, server: nbmrcg0034686rw.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
+  - {name: 🇮🇳 IN-152.67.8.205-0158, server: 152.67.8.205, port: 80, type: vmess, uuid: 9db4c708-aef8-4359-821b-38e47990be0d, alterId: 0, cipher: auto, tls: false, servername: 152.67.8.205, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇸🇬 SG-154.18.239.126-0214, server: 154.18.239.126, port: 37425, type: ss, cipher: chacha20-ietf-poly1305, password: eLPlIVuRZ6UJyapVDeT++l7fYC0uowXJFlb9qhntAd4=, udp: true}
+  - {name: 🇩🇪 DE-209.46.-4120-09MB, server: 209.46.102.22, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 1hhrqrokj3ag, udp: true}
+  - {name: 🇹🇼 TW-36.224.-9346-99MB, server: r3mrcg001287h3p.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
+  - {name: FI-193.47.-8124-96MB, server: 193.47.60.186, port: 28687, type: ss, cipher: chacha20-ietf-poly1305, password: yKVMoB3AwiTEznpnoq2FYR, udp: true}
+  - {name: 🇺🇸 US-71.19.148.74-0187, server: 71.19.148.74, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: gqkUCvmeOTghYJXF1YIuk5, udp: true}
+  - {name: 🇺🇸 US-173.244-5545-22MB, server: 173.244.56.9, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
