@@ -1,176 +1,175 @@
 proxies:
-  - {name: RO-SPEEDNODE-0039, server: 95.173.199.120, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
-  - {name: 🇳🇱 NL-193.29.-1310-76MB, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: CZ-46.8.113.142-0135 | 1.215MB, server: ch-2.bexum.fun, port: 443, type: trojan, password: LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu, sni: ch-2.bexum.fun, skip-cert-verify: false, udp: true}
-  - {name: TR-SPEEDNODE-0064, server: 87.249.139.236, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-0950-25MB, server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇨🇦 CA-45.154.204.13-0137, server: ssca.irundns.net, port: 443, type: ssr, cipher: aes-128-cfb, password: $$Turb0VPN$$, protocol: auth_aes128_md5, obfs: http_post, protocol-param: "", obfs-param: "", udp: true}
-  - {name: 🇺🇸 US-156.146-1376-43MB, server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇳🇱 NL-SPEEDNODE-0008, server: 185.229.191.169, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
-  - {name: RO-SPEEDNODE-0051, server: 95.173.199.118, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
-  - {name: 🇯🇵 JP-103.125-0612-88MB, server: 103.125.219.70, port: 443, type: trojan, password: s75Gtmy56sptTA39hmBH965YYx4ZgfQR_I, sni: 103.125.219.70, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 JP-149.22.-0311-78MB, server: 149.22.87.241, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇳🇱 NL-193.29.-4032-92MB, server: 193.29.139.235, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇺🇸 US-37.19.1-4207-75MB, server: 37.19.198.244, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇺🇸 US-107.172-7586-98MB, server: 107.172.250.161, port: 59556, type: ss, cipher: chacha20-ietf-poly1305, password: QTmLViU4VEmuwbOxUw4IXd, udp: true}
-  - {name: TR-SPEEDNODE-0066, server: 87.249.139.232, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
-  - {name: 🇳🇱 NL-108.181.58.239-4403, server: 108.181.58.239, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: CJmTCCx7Ltud, udp: true}
-  - {name: 🇳🇱 NL-193.29.-5979-15MB, server: 193.29.139.233, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true}
+  - {name: 🇺🇸 US-173.244-0564-52MB, server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇩🇪 DE-185.137-5213-52MB, server: 185.137.157.59, port: 443, type: trojan, password: fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX, sni: www.lateralio.click, skip-cert-verify: false, udp: true}
+  - {name: 🇳🇱 NL-193.29.-0148-33MB, server: 193.29.139.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true}
+  - {name: 🇰🇷 KR-221.139-7670-71MB, server: 221.139.79.57, port: 13979, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇺🇸 US-149.104.109.74-0150 | 0.0MB, server: 149.104.109.74, port: 21273, type: ss, cipher: chacha20-ietf-poly1305, password: Ll6cYfXM5DzQbdtMMb72A_jqVnNljU3yqe, udp: true}
+  - {name: RO-SPEEDNODE-0057, server: 95.173.199.69, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: AT-185.126.236.190-0528, server: 185.126.236.190, port: 443, type: trojan, password: VGBzLm49=M_i02Az30tIeonkQw180t-edg, sni: 185.126.236.190, udp: true}
+  - {name: RO-SPEEDNODE-0092, server: 84.239.49.161, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 美国 CLOUDFLARE节点 5, server: da.mfa.gov.ua, port: 443, type: vless, uuid: eeb6823c-b926-4ea2-866a-5542edd26e59, tls: true, servername: t1s1.rittbo.kdns.fr, network: ws, ws-opts: {path: /, headers: {Host: t1s1.rittbo.kdns.fr}}, udp: true}
+  - {name: RO-SPEEDNODE-0048, server: 84.239.49.57, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-149.22.-8002-57MB, server: 149.22.87.204, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇳🇱 NL-195.93.-5141-07MB, server: 195.93.253.245, port: 49137, type: ss, cipher: chacha20-ietf-poly1305, password: FDeCHSu4lt8qflCS5zDOy8, udp: true}
+  - {name: TR-SPEEDNODE-0105, server: 87.249.139.247, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: RO-SPEEDNODE-0070, server: 95.173.199.83, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: 🇺🇸 US-69.84.182.49-0170, server: 69.84.182.49, port: 80, type: vmess, uuid: f8975871-a7a0-4906-8835-a23c1258ca1e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: google.whatsapp.snapp.torob.basalam.zula.uplaod-music.ir.}}, udp: true}
+  - {name: TR-SPEEDNODE-0108, server: 87.249.139.233, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: RO-SPEEDNODE-0058, server: 95.173.199.116, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
+  - {name: RO-SPEEDNODE-0052, server: 95.173.199.106, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: 🇰🇷 KR-218.237-4000-93MB, server: p141.panda001.net, port: 4652, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇺🇸 美国 CLOUDFLARE节点 3, server: cf.090227.xyz, port: 443, type: vless, uuid: eeb6823c-b926-4ea2-866a-5542edd26e59, tls: true, servername: t1s1.rittbo.kdns.fr, network: ws, ws-opts: {path: /, headers: {Host: t1s1.rittbo.kdns.fr}}, udp: true}
+  - {name: 🇺🇸 US-147.90.-1330-42MB, server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true}
+  - {name: RO-SPEEDNODE-0096, server: 84.239.49.247, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0072, server: 84.239.49.204, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: TR-SPEEDNODE-0106, server: 87.249.139.236, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
+  - {name: 🇺🇸 US-美国-2, server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 US-23.149.28.8-4474, server: 23.149.28.8.sslip.io, port: 8443, type: trojan, password: 78c6cf8f30399bad3f63f15a9600a8ef, udp: true}
+  - {name: 🇬🇧 GB-94.156.-1122-65MB, server: 94.156.250.148, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: SE-SPEEDNODE-0103, server: 79.127.249.221, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.16-4397, server: 82.38.31.16, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
   - {name: 🇩🇪 RU-俄罗斯-DE-德国, server: cdn9-33.vk-cdnvideo.com, port: 8443, type: vless, uuid: 931729a8-3c20-4841-89a1-f18dc9ce0a6f, tls: true, network: tcp, udp: true}
-  - {name: 🇺🇸 US-173.244-0041-03MB, server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇺🇸 US-208.103.161.101-1662, server: 208.103.161.101, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.176-0095 | 0.154MB, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇯🇵 JP-149.22.-3270-46MB, server: 149.22.87.240, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇬🇧 GB-141.98.-1790-53MB, server: 141.98.101.179, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇩🇪 DE-213.202-0178-62MB, server: 213.202.208.199, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: 🇬🇧 GB-英国-GE-格鲁吉亚, server: 85.234.114.53, port: 443, type: vless, uuid: afcac633-0e1a-46c3-bef2-cc01cc0097c8, tls: true, flow: xtls-rprx-vision, servername: r1.mizulina.top, client-fingerprint: chrome, network: tcp, udp: true}
-  - {name: 🇳🇱 NL-SPEEDNODE-0018, server: 185.229.191.95, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
-  - {name: RELAY-188.114.96.4-0761, server: 188.114.96.4, port: 443, type: trojan, password: humanity, sni: www.calmloud.com, network: ws, ws-opts: {path: "%2Fassignment", headers: {Host: www.calmloud.com}}, udp: true}
-  - {name: 🇳🇱 NL-SPEEDNODE-0015, server: 185.229.191.187, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
-  - {name: 🇹🇼 TW-36.224.-0413-71MB, server: r3mrcg001286ek2.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.35-4431, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇯🇵 日本| RIPAOJIEDIAN, server: 54.65.32.119, port: 5408, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true, udp: true}
-  - {name: 🇳🇱 NL-SPEEDNODE-0009, server: 185.229.191.46, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
-  - {name: 🇳🇱 NL-SPEEDNODE-0010, server: 79.127.227.215, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
-  - {name: TR-SPEEDNODE-0063, server: 87.249.139.248, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
-  - {name: RO-SPEEDNODE-0048, server: 95.173.199.86, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
-  - {name: 🇳🇱 NL-SPEEDNODE-0016, server: 185.229.191.186, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0071, server: 154.17.16.176, port: 443, type: vless, uuid: 23cb9aa7-9756-459f-aa84-3a27bdf6ad64, tls: true, servername: s5.868001.xyz, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=ProxyIP.CMLiussss.net, headers: {Host: s5.868001.xyz}}, udp: true}
-  - {name: RO-SPEEDNODE-0045, server: 84.239.49.211, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇸🇬 新加坡2| RIPAOJIEDIAN, server: 18.162.190.157, port: 17005, type: trojan, password: e0195c73018d597b1c2f0ea89d8676ae, sni: www.nintendogames.net, skip-cert-verify: true, udp: true}
-  - {name: FI-77.83.247.206-4533, server: 77.83.247.206, port: 18284, type: ss, cipher: aes-128-gcm, password: tijsjk3iwzc6b10azb0y, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.7-0151, server: 82.38.31.7, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇰🇷 KR-211.178-6007-91MB, server: 211.178.105.134, port: 6123, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: 🇺🇸 US-149.104-4721-06MB, server: 149.104.109.74, port: 21273, type: ss, cipher: chacha20-ietf-poly1305, password: Ll6cYfXM5DzQbdtMMb72A_jqVnNljU3yqe, udp: true}
-  - {name: 🇰🇷 韩国首尔 腾讯云, server: 43.133.237.158, port: 8443, type: vless, uuid: 23cb9aa7-9756-459f-aa84-3a27bdf6ad64, tls: true, servername: s5.868001.xyz, network: ws, ws-opts: {path: /proxyip=tw.william.us.cifp=chrome, headers: {Host: s5.868001.xyz}}, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-8038-23MB, server: 82.38.31.192, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇳🇱 NL-SPEEDNODE-0020, server: 185.229.191.110, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
-  - {name: 🇺🇸 US-167.160-0409-12MB, server: 167.160.90.51, port: 11475, type: ss, cipher: aes-128-gcm, password: 523z2fgrd7jx0z5xv6o5, udp: true}
-  - {name: ZA-102.133-6265-11MB, server: 102.133.165.160, port: 16233, type: ss, cipher: chacha20-ietf-poly1305, password: Xsy8Ox4yOV3xLlpxtjzs3X, udp: true}
-  - {name: 🇳🇱 NL-51.15.23.63-0138 | 0.998MB, server: 51.15.23.63, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇳🇱 NL-SPEEDNODE-0022, server: 185.229.191.42, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
-  - {name: 🇩🇪 DE-94.103.-3231-67MB, server: de-1.hysteria.ltd, port: 9443, type: trojan, password: LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu, sni: de-1.hysteria.ltd, skip-cert-verify: false, udp: true}
-  - {name: 🇸🇬 新加坡3| RIPAOJIEDIAN, server: 16.162.118.154, port: 9149, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true, udp: true}
-  - {name: ZA-102.37.-1572-36MB, server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true}
-  - {name: 🇰🇷 KR-152.67.-1330-29MB, server: 152.67.218.38, port: 443, type: vmess, uuid: b5e9480a-b7aa-40a4-f9a7-5299b5e363b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 152.67.218.38}}, udp: true}
-  - {name: RO-SPEEDNODE-0044, server: 84.239.49.238, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇯🇵 日本3| RIPAOJIEDIAN, server: 35.77.34.38, port: 5701, type: trojan, password: e0195c73018d597b1c2f0ea89d8676ae, sni: www.nintendogames.net, skip-cert-verify: true, udp: true}
-  - {name: 🇳🇱 NL-SPEEDNODE-0007, server: 185.229.191.49, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
-  - {name: TR-SPEEDNODE-0065, server: 156.146.52.118, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
-  - {name: 🇺🇸 US-156.146-0150-09MB, server: 156.146.38.170, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇫🇷 FR-51.254.-1220-77MB, server: 51.254.128.106, port: 2083, type: ss, cipher: aes-256-gcm, password: FjG3IPbny+0ZYU4/p1vULP84GcKpGoZpWKAay16VhIw=, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-2020-29MB, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-1270-81MB, server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇩🇪 德国 黑森州法兰克福MELBICOM数据中心, server: 213.226.68.8, port: 31348, type: ss, cipher: chacha20-ietf-poly1305, password: hkasb5cVrs4jE18jCEJxB4Gr55hVGW24y35gU9GIIeyT31Fw, udp: true}
-  - {name: 🇳🇱 NL-193.29.-1999-49MB, server: 193.29.139.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true}
-  - {name: 🇬🇧 GB-141.98.-0661-53MB, server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: RELAY-104.19.208.184-0765, server: 104.19.208.184, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, network: ws, ws-opts: {path: "%2F%2Fassignment", headers: {Host: www.multiplydose.com}}, udp: true}
-  - {name: RO-SPEEDNODE-0050, server: 84.239.49.184, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇨🇦 CA-130.94.114.217-0759, server: 130.94.114.217, port: 443, type: trojan, password: BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V, sni: 130.94.114.217, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.17-0097 | 47.81MB, server: 82.38.31.17, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: FI-193.47.-9601-49MB, server: 193.47.60.186, port: 28687, type: ss, cipher: chacha20-ietf-poly1305, password: yKVMoB3AwiTEznpnoq2FYR, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-9412-31MB, server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇬🇧 GB-141.98.101.181-0129 | 0.0MB, server: 141.98.101.181, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇺🇸 US-156.146-7098-21MB, server: 156.146.38.168, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇰🇷 KR-141.164-1882-33MB, server: 141.164.45.187, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: 🇬🇧 GB-146.70.61.37-4423, server: 146.70.61.37, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.10-0149 | 0.121MB, server: 82.38.31.10, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇺🇸 美国| RIPAOJIEDIAN, server: 43.198.206.201, port: 49277, type: trojan, password: e0195c73018d597b1c2f0ea89d8676ae, sni: www.nintendogames.net, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 US-37.19.1-6081-31MB, server: 37.19.198.236, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇭🇰 HK-SPEEDNODE-0002, server: assets.trorays.com, port: 443, type: vless, uuid: b69a71ef-51dc-48c6-b3df-4c3533062606, tls: true, flow: xtls-rprx-vision, servername: assets.trorays.com, client-fingerprint: chrome, network: tcp, udp: true}
-  - {name: 🇸🇬 新加坡| RIPAOJIEDIAN, server: 43.198.206.201, port: 48738, type: trojan, password: e0195c73018d597b1c2f0ea89d8676ae, sni: www.nintendogames.net, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 US-147.90.-1643-06MB, server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.184-0150 | 0.386MB, server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇺🇸 US-37.19.1-7828-05MB, server: 37.19.198.243, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: RO-SPEEDNODE-0029, server: 84.239.49.233, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇩🇪 DE-82.198.246.214-62, server: 82.198.246.214, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 🇳🇱 NL-193.29.-1397-55MB, server: 193.29.139.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true}
-  - {name: 🇺🇸 US-69.164.240.83-4488, server: 69.164.240.83, port: 10878, type: ss, cipher: aes-128-gcm, password: t6d26id0pjzdo3x5wtlf, udp: true}
-  - {name: 🇨🇦 CA-149.22.-5601-98MB, server: 149.22.95.183, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇹🇼 TW-46.249.-0906-76MB, server: download.riferoser.icu, port: 56594, type: ss, cipher: chacha20-ietf-poly1305, password: mzeMYBJYp4Bo7nA1qYLvv7QG73igtAA85nt4pr8A9ntx2qhDfYgRtiJ7iH7VrcneQKNmtvpbsvvFKPaUATYELi18iH56Ttr4, udp: true}
-  - {name: 🇩🇪 DE-82.198.246.250-67, server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: RO-SPEEDNODE-0052, server: 84.239.49.199, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇰🇷 KR-141.164.45.187-4450, server: 141.164.45.187, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-  - {name: RO-SPEEDNODE-0047, server: 84.239.49.57, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-37.19.1-9061-65MB, server: 37.19.198.160, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇹🇼 TW-36.224.128.4-0139 | 0.0MB, server: r3mrcg00129437x.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
-  - {name: RO-SPEEDNODE-0028, server: 84.239.49.162, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-216.105-4108-17MB, server: 216.105.168.18, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hCCWOcIsK5wrFz4OX70rWf, udp: true}
-  - {name: 🇺🇸 US-173.244-2619-48MB, server: 173.244.56.9, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: RO-SPEEDNODE-0043, server: 84.239.14.148, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: SE-SPEEDNODE-0060, server: 79.127.249.197, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
-  - {name: 🇺🇸 US-69.164.240.86-4486, server: 69.164.240.86, port: 10880, type: ss, cipher: aes-128-gcm, password: 3px0wmx0e81145g568ga, udp: true}
-  - {name: 🇳🇱 NL-193.29.-1938-03MB, server: 193.29.139.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true}
-  - {name: 🇳🇱 NL-SPEEDNODE-0006, server: 185.229.191.96, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
-  - {name: 🇳🇱 NL-195.93.-4411-04MB, server: 195.93.253.245, port: 49137, type: ss, cipher: chacha20-ietf-poly1305, password: FDeCHSu4lt8qflCS5zDOy8, udp: true}
-  - {name: 🇳🇱 NL-193.29.-0387-41MB, server: 193.29.139.227, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: fbx1Fw7mENCd7vZMvorQZ5, udp: true}
-  - {name: 🇺🇸 US-69.84.182.49-0512, server: 69.84.182.49, port: 80, type: vmess, uuid: f8975871-a7a0-4906-8835-a23c1258ca1e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: google.whatsapp.snapp.torob.basalam.zula.uplaod-music.ir.}}, udp: true}
-  - {name: 🇳🇱 NL-SPEEDNODE-0014, server: 185.229.191.111, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
-  - {name: 🇰🇷 KR-218.237-3412-15MB, server: p141.panda001.net, port: 4652, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: 🇯🇵 JP-47.79.1-0110-36MB, server: 47.79.144.115, port: 40003, type: ss, cipher: aes-256-gcm, password: GTZI5AbjNAeWQG0oVNptvWJogHNKiiKA, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-5781-72MB, server: 82.38.31.149, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇺🇸 美国 CLOUDFLARE节点, server: 172.64.147.236, port: 443, type: vless, uuid: c35050ce-01ab-45a9-91b8-54cec637d0a8, tls: true, servername: octopusss5.info, network: ws, ws-opts: {path: /udfyfws, headers: {Host: octopusss5.info}}, udp: true}
-  - {name: 🇳🇱 NL-193.29.-9201-21MB, server: 193.29.139.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.194-0085 | 58.15MB, server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇯🇵 JP-149.22.-4715-44MB, server: 149.22.87.204, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-0720-12MB, server: 82.38.31.214, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇳🇱 NL-193.29.-6931-29MB, server: 193.29.139.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true}
-  - {name: 🇷🇺 俄罗斯, server: 195.58.48.56, port: 32432, type: ss, cipher: aes-256-gcm, password: 1a87017d0bf57f34, udp: true}
-  - {name: 🇬🇧 GB-141.98.-9811-55MB, server: 141.98.101.178, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇰🇷 KR-218.237-1005-93MB, server: 218.237.185.230, port: 4652, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: SE-SPEEDNODE-0061, server: 45.159.12.134, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
-  - {name: SE-SPEEDNODE-0055, server: 45.159.12.191, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
-  - {name: 🇳🇱 NL-SPEEDNODE-0013, server: 185.229.191.184, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
-  - {name: SE-SPEEDNODE-0059, server: 45.159.12.34, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
-  - {name: 🇰🇷 KR-221.139-1785-41MB, server: 221.139.79.57, port: 13979, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-0991-61MB, server: 82.38.31.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇩🇪 DE-8.209.74.72-0110 | 19.098MB, server: 8.209.74.72, port: 20001, type: ss, cipher: chacha20-ietf-poly1305, password: PWpjPo3tqhPN4yRZ, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.16-0092, server: 82.38.31.16, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇭🇰 HK-112.213-6805-19MB, server: 112.213.102.188, port: 41632, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: 🇳🇱 NL-SPEEDNODE-0011, server: 185.229.191.157, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
-  - {name: 🇭🇰 香港3| RIPAOJIEDIAN, server: 35.77.34.38, port: 53012, type: trojan, password: e0195c73018d597b1c2f0ea89d8676ae, sni: www.nintendogames.net, skip-cert-verify: true, udp: true}
-  - {name: 🇳🇱 NL-SPEEDNODE-0012, server: 185.229.191.180, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
-  - {name: AT-38.180.-0974-67MB, server: 38.180.197.41, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: 🇩🇪 DE-148.253-1890-63MB, server: 148.253.208.76, port: 3478, type: ss, cipher: chacha20-ietf-poly1305, password: yu2XnSPWhmQjxn83iJA3DA, udp: true}
-  - {name: SE-SPEEDNODE-0057, server: 45.159.12.9, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
-  - {name: 🇹🇼 TW-SPEEDNODE-0067, server: twmoon1-cdn-route.couldflare-cdn.com, port: 1443, type: http, username: mrwdfNTD8M79LCukCieldrqZWqs=, password: exaxgqkKkd0TAMrCxeonWg==, tls: true}
-  - {name: 🇹🇼 TW-185.189-1100-47MB, server: 185.189.160.105, port: 41632, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.179-0158 | 0.104MB, server: 82.38.31.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0072, server: 172.64.35.7, port: 2053, type: vless, uuid: 83afd88f-200f-4d89-bfc7-66eff160c1d8, tls: true, servername: josni.hoyes.cloudns.ch, network: ws, ws-opts: {path: /, headers: {Host: josni.hoyes.cloudns.ch}}, udp: true}
-  - {name: 🇳🇱 NL-193.29.-3185-87MB, server: 193.29.139.204, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.189-0159, server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.2-0147 | 0.637MB, server: 82.38.31.2, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: RO-SPEEDNODE-0027, server: 84.239.49.185, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: SE-SPEEDNODE-0056, server: 79.127.249.221, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
-  - {name: 🇩🇪 DE-82.198.246.37-57, server: 82.198.246.37, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 🇳🇱 NL-SPEEDNODE-0021, server: 185.229.191.82, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
-  - {name: 🇭🇰 HK-216.250-0172-32MB, server: 216.250.97.82, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: RO-SPEEDNODE-0040, server: 95.173.199.78, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.187-0160 | 0.119MB, server: 82.38.31.187, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-6047-11MB, server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇳🇱 NL-SPEEDNODE-0005, server: 185.229.191.145, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
-  - {name: 🇺🇸 US-156.146-5615-95MB, server: 156.146.38.167, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇳🇱 NL-SPEEDNODE-0017, server: 185.229.191.185, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
-  - {name: 🇳🇱 NL-193.29.-7041-54MB, server: 193.29.139.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true}
+  - {name: RO-SPEEDNODE-0069, server: 84.239.49.163, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇬🇧 GB-82.38.31.17-0101 | 51.742MB, server: 82.38.31.17, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇭🇰 HK-216.250.97.82-0168 | 0.0MB, server: 216.250.97.82, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-2096-24MB, server: 82.38.31.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇺🇸 US-37.19.1-8972-21MB, server: 37.19.198.236, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇨🇦 CA-108.181.118.10-4367, server: 108.181.118.10, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: G5p6ww4o67HB, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.155-0187 | 0.0MB, server: 82.38.31.155, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
   - {name: RO-SPEEDNODE-0049, server: 84.239.49.202, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇳🇱 NL-SPEEDNODE-0019, server: 185.229.191.93, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
-  - {name: NO-185.213-1102-15MB, server: 185.213.23.63, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: 🇳🇱 NL-109.201-0981-78MB, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.15-0086, server: 82.38.31.15, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: TR-SPEEDNODE-0062, server: 169.150.215.80, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
-  - {name: RO-SPEEDNODE-0042, server: 84.239.49.212, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇭🇰 香港5| RIPAOJIEDIAN, server: 18.162.50.252, port: 11035, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true, udp: true}
-  - {name: 🇩🇪 DE-209.46.-8310-99MB, server: 209.46.102.22, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 1hhrqrokj3ag, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-3145-78MB, server: 82.38.31.155, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: RO-SPEEDNODE-0046, server: 95.173.199.117, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
-  - {name: 🇨🇦 CA-137.184-7903-71MB, server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
-  - {name: 🇯🇵 JP-103.106-3175-08MB, server: 103.106.228.175, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.186-0157, server: 82.38.31.186, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-0095-72MB, server: 82.38.31.205, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇮🇳 IN-152.67.8.205-0140 | 0.0MB, server: 152.67.8.205, port: 80, type: vmess, uuid: 9db4c708-aef8-4359-821b-38e47990be0d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: 🇮🇳IN-152.67.8.205-0140 | 0.0MB, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: RO-SPEEDNODE-0031, server: 84.239.49.173, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-94.156.-5841-36MB, server: 94.156.250.148, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: 🇺🇸 美国3| RIPAOJIEDIAN, server: 18.163.80.94, port: 17801, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.199-0157 | 0.113MB, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: SE-SPEEDNODE-0058, server: 45.159.12.3, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
-  - {name: RO-SPEEDNODE-0053, server: 95.173.199.113, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
+  - {name: RO-SPEEDNODE-0078, server: 84.239.49.240, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0023, server: 84.239.14.148, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0054, server: 84.239.49.38, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0065, server: 95.173.199.82, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.186-0156 | 0.103MB, server: 82.38.31.186, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: RO-SPEEDNODE-0067, server: 84.239.49.219, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-美国-1, server: 82.198.246.214, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇦 UA-SPEEDNODE-0110, server: 95.133.245.163, port: 8443, type: vless, uuid: 931729a8-3c20-4841-89a1-f18dc9ce0a6f, tls: true, servername: cdn3-87.vk-cdnvideo.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: TR-SPEEDNODE-0107, server: 87.249.139.237, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
+  - {name: RO-SPEEDNODE-0055, server: 84.239.49.211, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-156.146-0761-13MB, server: 156.146.38.167, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇳🇱 NL-SPEEDNODE-0020, server: 185.229.191.180, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
+  - {name: RO-SPEEDNODE-0097, server: 84.239.14.160, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-37.19.1-0420-28MB, server: 37.19.198.244, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇮🇳 IN-152.67.8.205-0143 | 2.422MB, server: 152.67.8.205, port: 80, type: vmess, uuid: 9db4c708-aef8-4359-821b-38e47990be0d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: 🇮🇳IN-152.67.8.205-0143 | 2.422MB, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇰🇷 KR-152.67.-0136-36MB, server: 152.67.218.38, port: 443, type: vmess, uuid: b5e9480a-b7aa-40a4-f9a7-5299b5e363b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 152.67.218.38}}, udp: true}
+  - {name: 🇺🇸 US-156.146-7383-01MB, server: 156.146.38.170, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇳🇱 NL-51.15.23.63-0163, server: 51.15.23.63, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: 🇳🇱 NL-SPEEDNODE-0017, server: 185.229.191.22, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: 🇺🇸 US-107.172-9201-28MB, server: 107.172.250.161, port: 59556, type: ss, cipher: chacha20-ietf-poly1305, password: QTmLViU4VEmuwbOxUw4IXd, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0129, server: assets.trorays.com, port: 443, type: vless, uuid: b69a71ef-51dc-48c6-b3df-4c3533062606, tls: true, flow: xtls-rprx-vision, servername: assets.trorays.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: TR-SPEEDNODE-0104, server: 87.249.139.235, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.2-0145 | 1.965MB, server: 82.38.31.2, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇳🇱 NL-193.29.-3687-03MB, server: 193.29.139.227, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: fbx1Fw7mENCd7vZMvorQZ5, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.199-0161 | 0.256MB, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇳🇱 NL-193.29.-0536-77MB, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇺🇸 美国 CLOUDFLARE节点 7, server: 172.65.111.43, port: 22, type: vless, uuid: 8a38623a-3e7f-5598-bdc9-894cbad4c5b6, tls: false, network: http, http-opts: {method: GET, path: [/@monacoVPN@monacoVPN@monacoVPN@monacoVPN]}, udp: true}
+  - {name: RO-SPEEDNODE-0038, server: 84.239.49.185, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇬🇧 GB-82.38.31.189-0155 | 0.125MB, server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: FI-193.47.-1116-01MB, server: 193.47.60.186, port: 28687, type: ss, cipher: chacha20-ietf-poly1305, password: yKVMoB3AwiTEznpnoq2FYR, udp: true}
+  - {name: RO-SPEEDNODE-0094, server: 84.239.49.170, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇩🇪 DE-8.209.74.72-0115 | 32.991MB, server: 8.209.74.72, port: 20001, type: ss, cipher: chacha20-ietf-poly1305, password: PWpjPo3tqhPN4yRZ, udp: true}
+  - {name: RO-SPEEDNODE-0053, server: 84.239.49.184, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: BR-SPEEDNODE-0001, server: 152.233.28.201, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: 🇺🇸 美国 2, server: 159.112.235.52, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true}
+  - {name: RO-SPEEDNODE-0068, server: 95.173.199.87, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: 🇹🇼 TW-185.189-4615-.0MB, server: 185.189.160.105, port: 41632, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: RO-SPEEDNODE-0043, server: 84.239.49.162, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇨🇦 CA-149.22.-0683-24MB, server: 149.22.95.183, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇰🇷 KR-218.237-0130-86MB, server: 218.237.185.230, port: 4652, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: RO-SPEEDNODE-0060, server: 95.173.199.104, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
+  - {name: 🇯🇵 JP-47.79.1-0401-48MB, server: 47.79.144.115, port: 40003, type: ss, cipher: aes-256-gcm, password: GTZI5AbjNAeWQG0oVNptvWJogHNKiiKA, udp: true}
+  - {name: 🇩🇪 DE-148.253-0172-39MB, server: 148.253.208.76, port: 3478, type: ss, cipher: chacha20-ietf-poly1305, password: yu2XnSPWhmQjxn83iJA3DA, udp: true}
+  - {name: 🇯🇵 JP-149.22.-0147-85MB, server: 149.22.87.240, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-0224-33MB, server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇺🇸 美国 CLOUDFLARE节点 6, server: 104.16.174.12, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
+  - {name: 🇫🇷 FR-51.254.-1062-26MB, server: 51.254.128.106, port: 2083, type: ss, cipher: aes-256-gcm, password: FjG3IPbny+0ZYU4/p1vULP84GcKpGoZpWKAay16VhIw=, udp: true}
+  - {name: RO-SPEEDNODE-0033, server: 84.239.49.182, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇬🇧 GB-82.38.3-2060-43MB, server: 82.38.31.205, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇳🇱 NL-SPEEDNODE-0012, server: 185.229.191.68, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
+  - {name: 🇳🇱 NL-193.29.-9001-75MB, server: 193.29.139.235, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇬🇧 GB-141.98.-0111-94MB, server: 141.98.101.178, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: RO-SPEEDNODE-0028, server: 84.239.49.212, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇬🇧 GB-82.38.3-9206-38MB, server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: FI-77.83.2-2746-42MB, server: 77.83.247.206, port: 18284, type: ss, cipher: aes-128-gcm, password: tijsjk3iwzc6b10azb0y, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-8139-28MB, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-6512-56MB, server: 82.38.31.214, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇳🇱 NL-SPEEDNODE-0022, server: 79.127.227.57, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
+  - {name: RO-SPEEDNODE-0061, server: 95.173.199.85, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: 🇩🇪 DE-213.202-9279-65MB, server: 213.202.208.199, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: RO-SPEEDNODE-0100, server: 84.239.49.198, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇩🇪 DE-209.46.-2402-38MB, server: 209.46.102.22, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 1hhrqrokj3ag, udp: true}
+  - {name: 🇬🇧 GB-146.70.-0936-52MB, server: 146.70.61.37, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
+  - {name: RO-SPEEDNODE-0073, server: 84.239.14.147, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇬🇧 GB-82.38.31.10-0142 | 0.776MB, server: 82.38.31.10, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇯🇵 JP-149.22.-1382-94MB, server: 149.22.87.241, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇺🇸 US-37.19.1-3951-32MB, server: 37.19.198.243, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: RO-SPEEDNODE-0074, server: 84.239.49.209, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇬🇧 GB-141.98.-0416-77MB, server: 141.98.101.181, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇯🇵 JP-103.125-1902-89MB, server: 103.125.216.169, port: 443, type: trojan, password: s75Gtmy56sptTA39hmBH965YYx4ZgfQR_I, sni: 103.125.216.169, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.7-0146 | 1.488MB, server: 82.38.31.7, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: RO-SPEEDNODE-0086, server: 84.239.49.235, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇬🇧 GB-82.38.3-9210-55MB, server: 82.38.31.192, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇳🇱 NL-SPEEDNODE-0016, server: 185.229.191.93, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
+  - {name: 🇳🇱 NL-SPEEDNODE-0014, server: 185.229.191.157, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
+  - {name: 🇨🇦 CA-45.154.204.13-0149, server: ssca.irundns.net, port: 443, type: ssr, cipher: aes-128-cfb, password: $$Turb0VPN$$, protocol: auth_aes128_md5, obfs: http_post, protocol-param: "", obfs-param: "", udp: true}
+  - {name: 🇳🇱 NL-109.201-1128-88MB, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, udp: true}
+  - {name: RO-SPEEDNODE-0051, server: 95.173.199.86, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
+  - {name: 🇰🇷 KR-141.164-1870-27MB, server: 141.164.45.187, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: RO-SPEEDNODE-0040, server: 95.173.199.78, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: 🇳🇱 NL-SPEEDNODE-0015, server: 185.229.191.14, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: RO-SPEEDNODE-0091, server: 84.239.49.196, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇳🇱 NL-193.29.139.233-4427, server: 193.29.139.233, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true}
+  - {name: 🇯🇵 JP-103.125-7060-89MB, server: 103.125.219.70, port: 443, type: trojan, password: s75Gtmy56sptTA39hmBH965YYx4ZgfQR_I, sni: 103.125.219.70, skip-cert-verify: false, udp: true}
+  - {name: 🇳🇱 NL-SPEEDNODE-0013, server: 185.229.191.96, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
+  - {name: 🇬🇧 GB-141.98.-1121-63MB, server: 141.98.101.179, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-0168-86MB, server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: RO-SPEEDNODE-0062, server: 84.239.49.199, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇳🇱 NL-193.29.-1081-55MB, server: 193.29.139.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true}
+  - {name: 🇺🇸 US-156.146-0016-21MB, server: 156.146.38.168, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇯🇵 JP-103.106-2371-58MB, server: 103.106.228.175, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: ZA-102.133-1680-38MB, server: 102.133.165.160, port: 16233, type: ss, cipher: chacha20-ietf-poly1305, password: Xsy8Ox4yOV3xLlpxtjzs3X, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.218-0209 | 0.0MB, server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇳🇱 NL-193.29.-6401-37MB, server: 193.29.139.204, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.187-0152 | 0.118MB, server: 82.38.31.187, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.15-0096 | 66.029MB, server: 82.38.31.15, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: ID-130.94.94.15-0159 | 0.0MB, server: 130.94.94.15, port: 443, type: trojan, password: tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR, sni: 130.94.94.15, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 US-216.105-8288-71MB, server: 216.105.168.18, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hCCWOcIsK5wrFz4OX70rWf, udp: true}
+  - {name: RO-SPEEDNODE-0063, server: 95.173.199.84, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: 🇬🇧 GB-英国-GE-格鲁吉亚, server: 85.234.114.53, port: 443, type: vless, uuid: afcac633-0e1a-46c3-bef2-cc01cc0097c8, tls: true, flow: xtls-rprx-vision, servername: r1.mizulina.top, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: 🇺🇸 US-美国, server: 82.198.246.37, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.202-0079 | 60.16MB, server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: AT-38.180.197.41-0160, server: 38.180.197.41, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: ZA-102.37.-0176-46MB, server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true}
+  - {name: 🇺🇸 US-173.244-9610-84MB, server: 173.244.56.9, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇬🇧 GB-141.98.-0523-23MB, server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: RO-SPEEDNODE-0050, server: 84.239.49.180, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-69.164.-6680-91MB, server: 69.164.240.86, port: 10880, type: ss, cipher: aes-128-gcm, password: 3px0wmx0e81145g568ga, udp: true}
+  - {name: 🇩🇪 DE-94.103.-7010-04MB, server: de-1.hysteria.ltd, port: 9443, type: trojan, password: LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu, sni: de-1.hysteria.ltd, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0029, server: 84.239.49.233, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-156.146-7811-12MB, server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇺🇸 US-69.164.-4504-52MB, server: 69.164.240.83, port: 10878, type: ss, cipher: aes-128-gcm, password: t6d26id0pjzdo3x5wtlf, udp: true}
+  - {name: 🇺🇸 US-208.103.161.101-1625, server: 208.103.161.101, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true}
+  - {name: RO-SPEEDNODE-0035, server: 84.239.49.238, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇬🇧 GB-82.38.3-0349-33MB, server: 82.38.31.149, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇺🇸 美国 CLOUDFLARE节点 2, server: 104.21.227.134, port: 443, type: vless, uuid: eeb6823c-b926-4ea2-866a-5542edd26e59, tls: true, servername: t1s1.rittbo.kdns.fr, network: ws, ws-opts: {path: /, headers: {Host: t1s1.rittbo.kdns.fr}}, udp: true}
+  - {name: 🇬🇧 GB-130.94.78.17-0176, server: 130.94.78.17, port: 443, type: trojan, password: PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v, udp: true}
+  - {name: 🇺🇸 US-167.160.90.51-4449, server: 167.160.90.51, port: 11475, type: ss, cipher: aes-128-gcm, password: 523z2fgrd7jx0z5xv6o5, udp: true}
+  - {name: 🇺🇦 UA-SPEEDNODE-0109, server: 143.244.45.50, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: 🇰🇷 KR-211.178-1110-18MB, server: 211.178.105.134, port: 6123, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: RO-SPEEDNODE-0071, server: 84.239.49.187, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇯🇵 MY-马来西亚-JP-日本, server: v6.hdacd.com, port: 30806, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇦 CA-137.184.174.93-4448, server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
+  - {name: 🇹🇼 TW-36.224.128.4-0140 | 8.853MB, server: r3mrcg00129437x.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
+  - {name: 🇺🇸 美国 CLOUDFLARE节点, server: yx.cloudflare.182682.xyz, port: 443, type: vless, uuid: eeb6823c-b926-4ea2-866a-5542edd26e59, tls: true, servername: t1s1.rittbo.kdns.fr, network: ws, ws-opts: {path: /, headers: {Host: t1s1.rittbo.kdns.fr}}, udp: true}
+  - {name: 🇳🇱 NL-SPEEDNODE-0018, server: 185.229.191.13, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: 🇺🇸 US-108.181.0.177-0195 | 0.0MB, server: 108.181.0.177, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: G5p6ww4o67HB, udp: true}
+  - {name: CZ-46.8.113.142-0153 | 1.322MB, server: ch-2.bexum.fun, port: 443, type: trojan, password: LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu, sni: ch-2.bexum.fun, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 US-37.19.1-8018-65MB, server: 37.19.198.160, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.184-0162 | 0.142MB, server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇺🇦 UA-SPEEDNODE-0111, server: 143.244.45.55, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: 🇳🇱 NL-193.29.-5901-29MB, server: 193.29.139.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true}
+  - {name: 🇭🇰 HK-112.213-1126-09MB, server: 112.213.102.188, port: 41632, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: BR-SPEEDNODE-0002, server: 152.233.28.200, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, network: tcp, udp: true}
+  - {name: 🇳🇱 NL-SPEEDNODE-0019, server: 185.229.191.12, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, servername: ams1.fromblancwithlove.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: 🇺🇸 美国 CLOUDFLARE节点 4, server: dx.mmhh.eu.cc, port: 443, type: vless, uuid: e5cc16a6-ea42-46b2-82ae-ad2157e1641b, tls: true, servername: hhlfy.twiladaphne.ndjp.net, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: hhlfy.twiladaphne.ndjp.net}}, udp: true}
