@@ -1,229 +1,193 @@
 proxies:
-  - {name: 🇬🇧 GB-82.38.31.2-0141 | 0.0MB, server: 82.38.31.2, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇯🇵 JP-168.138.43.75-2134, server: 168.138.43.75, port: 80, type: vmess, uuid: 11c3627f-31e8-4695-dfbd-34076e2f1f5d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /cctv13.m3u8, headers: {Host: jp01.a0a.xyz}}, udp: true}
-  - {name: RELAY-104.-4013-97MB, server: yg1.ygkkk.dpdns.org, port: 80, type: vmess, uuid: f8975871-a7a0-4906-8835-a23c1258ca1e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: google.whatsapp.snapp.torob.basalam.zula.uplaod-music.ir.}}, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-7841-14MB, server: 82.38.31.149, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇯🇵 JP-149.22.-8164-45MB, server: 149.22.87.204, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇹🇼 TW-185.189-6015-41MB, server: 185.189.160.105, port: 41632, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: 🇯🇵 JP-149.22.-4208-12MB, server: 149.22.87.241, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇺🇸 US-美国-4, server: 147.90.235.195, port: 52625, type: hysteria2, password: 13d29042-ab82-4195-9cd4-2bafc518e201, auth: 13d29042-ab82-4195-9cd4-2bafc518e201, sni: apps.apple.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 US-美国-6, server: 156.229.164.1, port: 55000, type: hysteria2, password: 3a73ed62-94e5-4c36-856e-a87e2d2487f2, auth: 3a73ed62-94e5-4c36-856e-a87e2d2487f2, sni: www.bing.com, skip-cert-verify: true, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.7-0143 | 0.0MB, server: 82.38.31.7, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: RO-SPEEDNODE-0045, server: 84.239.49.159, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇫🇷 FR-3|3.3MB S, server: 35.180.229.83, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 🇭🇰 HK-216.250-6177-18MB, server: 216.250.97.82, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: 🇬🇧 GB-141.98.-0111-74MB, server: 141.98.101.178, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇰🇷 KR-141.164-1100-91MB, server: 141.164.45.187, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: RELAY-104.17.131.88-0757, server: 104.17.131.88, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-7795-19MB, server: 82.38.31.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇺🇸 US-美国-2, server: 3.15.193.107, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 🇨🇦 CA-1|2.1MB S, server: c87s5.portablesubmarines.com, port: 18339, type: vmess, uuid: 3cd9077d-76f7-4104-bd82-eb6916b89d43, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇫🇷 FR-法国, server: 62.210.24.143, port: 33888, type: tuic, password: dongtaiwang.com, uuid: 9adb384a-0f16-4501-a8f3-b6b2556fce87, sni: bing.com, skip-cert-verify: true, alpn: [h3], disable-sni: false, reduce-rtt: false, request-timeout: 0, udp-relay-mode: native}
-  - {name: 🇺🇸 US-198.62.62.23-0759, server: 198.62.62.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true}
-  - {name: RELAY-104.19.208.184-0719, server: 104.19.208.184, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true}
-  - {name: FI-193.47.-3861-87MB, server: 193.47.60.186, port: 28687, type: ss, cipher: chacha20-ietf-poly1305, password: yKVMoB3AwiTEznpnoq2FYR, udp: true}
-  - {name: 🇯🇵 JP-149.22.87.240-0100, server: 149.22.87.240, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇳🇱 NL-193.29.-7913-89MB, server: 193.29.139.204, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.15-0056 | 50.424MB, server: 82.38.31.15, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇿🇦 南非 5, server: 45.196.182.231, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3, skip-cert-verify: true, udp: true}
-  - {name: RO-SPEEDNODE-0025, server: 84.239.49.202, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RELAY-104.18.12.149-0648, server: 104.18.12.149, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true}
-  - {name: RO-SPEEDNODE-0041, server: 84.239.49.185, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-37.19.1-0519-37MB, server: 37.19.198.160, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: RELAY-104.18.6.147-2491, server: www.creationlong.org, port: 443, type: trojan, password: humanity, network: ws, ws-opts: {path: "%2Fassignment"}, udp: true}
-  - {name: 🇬🇧 GB-141.98.-0111-34MB, server: 141.98.101.181, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇰🇷 KR-211.178-1004-.0MB, server: 211.178.105.134, port: 6123, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: 🇺🇸 US-173.244.56.9-0079, server: 173.244.56.9, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇺🇸 US-208.103.161.110-0657, server: 208.103.161.110, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true}
-  - {name: 🇭🇰 HK-中国香港-DE-德国, server: planb.mojcn.com, port: 16644, type: vmess, uuid: 0db8b699-548d-4ed8-b720-6194783ecc9e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 445eb7ce2d66c34309d2e1dacbeaf3b9.mobgslb.tbcache.com}}, udp: true}
-  - {name: 🇰🇷 KR-218.237-0112-.0MB, server: p141.panda001.net, port: 4652, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: RELAY-104.16.174.44-0612, server: 104.16.174.44, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
-  - {name: 🇺🇸 美国, server: 66.234.150.252, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: sni.fi-m247-02.com, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-156.146-9103-41MB, server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇺🇸 US-216.24.57.1-0603, server: 216.24.57.1, port: 443, type: trojan, password: humanity, sni: www.calmloud.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmloud.com}}, udp: true}
-  - {name: RELAY-104.18.152.204-0606, server: 104.18.152.204, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
-  - {name: RELAY-199.181.197.143-2486, server: 199.181.197.143, port: 443, type: trojan, password: humanity, sni: www.calmloud.com, network: ws, ws-opts: {path: "%2Fassignment", headers: {Host: www.calmloud.com}}, udp: true}
-  - {name: RELAY-45.130.125.75-0647, server: 45.130.125.75, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true}
-  - {name: 🇰🇷 KR-141.164-7894-62MB, server: 141.164.45.187, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-  - {name: 🇺🇸 US-3.136.233.197-3397, server: 3.136.233.197, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: RELAY-104.18.152.219-0721, server: 104.18.152.219, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
-  - {name: 🇳🇱 NL-193.29.-1175-55MB, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: RELAY-104.18.152.97-0716, server: 104.18.152.97, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
-  - {name: RELAY-104.-0214-15MB, server: 104.17.124.179, port: 80, type: vmess, uuid: f8975871-a7a0-4906-8835-a23c1258ca1e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: google.whatsapp.snapp.torob.basalam.zula.uplaod-music.ir.}}, udp: true}
-  - {name: IT-103.241-4762-59MB, server: 103.241.66.76, port: 14605, type: ss, cipher: chacha20-ietf-poly1305, password: Uk8lfmvhYnx5rJvXxKrRqGRynd9gIpJ.iY, udp: true}
-  - {name: 🇺🇸 US-216.105-8260-15MB, server: 216.105.168.18, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hCCWOcIsK5wrFz4OX70rWf, udp: true}
-  - {name: 🇺🇸 US-156.146-0387-01MB, server: 156.146.38.167, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇰🇷 KR-221.139.79.57-0161, server: 221.139.79.57, port: 13979, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: RO-SPEEDNODE-0049, server: 84.239.49.219, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇩🇪 DE-8.209.74.72-0090, server: 8.209.74.72, port: 20001, type: ss, cipher: chacha20-ietf-poly1305, password: PWpjPo3tqhPN4yRZ, udp: true}
-  - {name: 🇺🇸 US-173.244-6608-01MB, server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: RELAY-104.-1248-.0MB, server: hl112.cowjump.site, port: 443, type: vmess, uuid: 0bf1cead-bdd4-4692-b3d4-6866ccb9f37a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hl112.cowjump.site}}, udp: true}
-  - {name: 🇫🇷 FR-15.237.-1082-36MB, server: 15.237.138.120, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 🇿🇦 南非 7, server: 45.196.182.181, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: sni.fi-m247-02.com, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0046, server: 84.239.49.247, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-美国-DE-德国-2, server: www.visa.com.br, port: 2087, type: vless, uuid: c416332e-2bde-4806-ac02-8f021c6e8f68, tls: true, servername: bbc.zjxc.de5.net, network: ws, ws-opts: {path: "/?proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: bbc.zjxc.de5.net}}, udp: true}
-  - {name: RELAY-141.101.90.101-0712, server: 141.101.90.101, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
-  - {name: RELAY-104.26.14.137-0587, server: 104.26.14.137, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
-  - {name: RELAY-104.16.174.36-0717, server: 104.16.174.36, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
-  - {name: RO-SPEEDNODE-0047, server: 84.239.49.235, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-141.98.-1318-28MB, server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: RELAY-185.18.250.245-0723, server: 185.18.250.245, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.194-0147, server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇬🇧 GB-146.70.-0460-65MB, server: 146.70.61.37, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
-  - {name: 🇮🇳 IN-103.111.114.80-0159 | 0.0MB, server: 103.111.114.80, port: 28061, type: ss, cipher: chacha20-ietf-poly1305, password: WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm, udp: true}
-  - {name: 🇨🇦 CA-137.184.174.93-0188 | 0.0MB, server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
-  - {name: 🇯🇵 JP-103.125-0581-16MB, server: 103.125.216.68, port: 443, type: trojan, password: T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf, skip-cert-verify: false, udp: true}
-  - {name: RELAY-104.19.229.21-0595, server: 104.19.229.21, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
-  - {name: RELAY-104.17.121.71-0666, server: 104.17.121.71, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true}
-  - {name: AT-185.126.236.44-2135, server: 185.126.236.44, port: 443, type: trojan, password: BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL, sni: www.mesaly.click, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-0791-09MB, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇦🇺 AU-87.121.-3127-23MB, server: tight-possum.rooster465.autos, port: 443, type: trojan, password: PI36027154, skip-cert-verify: false, udp: true}
-  - {name: RELAY-188.114.98.0-0663, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true}
-  - {name: RELAY-104.16.174.46-0720, server: 104.16.174.46, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
-  - {name: RELAY-162.159.17.189-0713, server: 162.159.17.189, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true}
-  - {name: 🇿🇦 南非 10, server: 45.196.182.237, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: sni.fi-m247-02.com, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.189-0052, server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇸🇬 US-美国-SG-新加坡, server: cf.cloudflare.182682.xyz, port: 443, type: vless, uuid: 26524cce-d514-4014-a426-365fb266a14d, tls: true, servername: vp685zjn.backend-node.danfeng3.xyz, client-fingerprint: chrome, network: ws, ws-opts: {path: /danfeng-2j7q21-obe7zv-3gz2-982it7pj, headers: {Host: vp685zjn.backend-node.danfeng3.xyz}}, udp: true}
-  - {name: RELAY-104.18.152.187-0652, server: 104.18.152.187, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.219-0137 | 0.0MB, server: 82.38.31.219, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇰🇷 KR-152.67.-0588-72MB, server: 152.67.218.38, port: 443, type: vmess, uuid: b5e9480a-b7aa-40a4-f9a7-5299b5e363b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 152.67.218.38}}, udp: true}
-  - {name: RELAY-172.64.147.166-0758, server: 172.64.147.166, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true}
-  - {name: 🇩🇪 DE-185.137-7485-59MB, server: 185.137.157.140, port: 443, type: trojan, password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-108.181-7701-47MB, server: 108.181.0.177, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: G5p6ww4o67HB, udp: true}
-  - {name: 🇸🇬 SG-45.32.1-2021-18MB, server: 45.32.122.179, port: 23027, type: ss, cipher: chacha20-ietf-poly1305, password: I-bP3lFh.dTG3XitF7XtVK83CZ7rI2Ut=n, udp: true}
-  - {name: 🇩🇪 DE-185.137-7521-17MB, server: 185.137.157.142, port: 443, type: trojan, password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CLOUDFLARE节点, server: 104.21.67.141, port: 8080, type: vless, uuid: 17239063-e23e-4e3d-8217-cafa67124003, tls: false, servername: zeus-panel-j9dmh2.zeus-2zgd21.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: zeus-panel-j9dmh2.zeus-2zgd21.workers.dev}}, udp: true}
-  - {name: 🇿🇦 南非 11, server: 45.196.182.239, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: sni.fi-m247-02.com, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.216-0059 | 0.908MB, server: 82.38.31.216, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇺🇸 US-38.54.64.247-0121, server: 38.54.64.247, port: 443, type: trojan, password: ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk, udp: true}
-  - {name: 🇭🇰 HK-112.213-0018-.0MB, server: 112.213.102.188, port: 41632, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: RO-SPEEDNODE-0028, server: 84.239.49.196, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RELAY-104.18.153.10-0585, server: 104.18.153.10, port: 443, type: trojan, password: f922fa0f-3311-4368-85ff-cf65e727c854, sni: space.byu.id.yxls.eu.cc, network: ws, ws-opts: {path: /br-orcl, headers: {Host: space.byu.id.yxls.eu.cc}}, udp: true}
-  - {name: 🇮🇳 IN-152.67.8.205-0131 | 0.224MB, server: 152.67.8.205, port: 80, type: vmess, uuid: 9db4c708-aef8-4359-821b-38e47990be0d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: 🇮🇳IN-152.67.8.205-0131 | 0.224MB, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.199-0129 | 0.0MB, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇬🇧 GB-94.156.-8114-27MB, server: 94.156.250.148, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: RELAY-104.20.6.134-0692, server: 104.20.6.134, port: 443, type: trojan, password: humanity, sni: www.calmloud.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmloud.com}}, udp: true}
-  - {name: 🇺🇸 US-美国-FI-芬兰-1, server: 45.196.182.243, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: https://t.me/WangCai2🇨🇳, skip-cert-verify: true, udp: true}
-  - {name: RO-SPEEDNODE-0017, server: 84.239.49.187, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: MD-94.131.-6811-96MB, server: 94.131.108.36, port: 443, type: vmess, uuid: 9855f1f0-a800-40d4-8b38-c7d3eb79302d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇸🇬 SG-新加坡-1, server: earthpro.wasmer.app, port: 443, type: vless, uuid: 9b0b4404-f1eb-4551-9b88-e0aac7843c86, tls: true, servername: earthpro.wasmer.app, network: ws, ws-opts: {path: /9b0b4404, headers: {Host: earthpro.wasmer.app}}, udp: true}
-  - {name: 🇺🇸 US-208.103.161.101-0756, server: 208.103.161.101, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true}
-  - {name: 🇨🇦 CA-108.181-8480-93MB, server: 108.181.118.10, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: G5p6ww4o67HB, udp: true}
-  - {name: 🇺🇸 US-156.146-6748-09MB, server: 156.146.38.170, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: IT-193.168-1106-27MB, server: 193.168.175.56, port: 14605, type: ss, cipher: chacha20-ietf-poly1305, password: Uk8lfmvhYnx5rJvXxKrRqGRynd9gIpJ.iY, udp: true}
-  - {name: 🇿🇦 南非 4, server: 45.196.182.141, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: sni.fi-m247-02.com, skip-cert-verify: false, udp: true}
-  - {name: RELAY-45.130.125.32-0611, server: 45.130.125.32, port: 443, type: trojan, password: humanity, sni: www.calmloud.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmloud.com}}, udp: true}
-  - {name: 🇹🇼 TW-61.231.-0227-32MB, server: r3mrcg001286ek2.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
-  - {name: 🇳🇱 NL-108.181-1018-.0MB, server: 108.181.126.122, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: CJmTCCx7Ltud, udp: true}
-  - {name: 🇯🇵 JP-13.230.-2936-92MB, server: large-baboon.rooster465.autos, port: 443, type: trojan, password: PI36027154, skip-cert-verify: false, udp: true}
-  - {name: NO-185.213-0030-76MB, server: 185.213.23.63, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: RELAY-104.17.185.207-2256, server: bestcf.030101.xyz, port: 80, type: vmess, uuid: f8975871-a7a0-4906-8835-a23c1258ca1e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: google.whatsapp.snapp.torob.basalam.zula.uplaod-music.ir.}}, udp: true}
-  - {name: 🇺🇸 美国3| RIPAOJIEDIAN 2, server: 95.40.58.154, port: 44265, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true, udp: true}
-  - {name: RELAY-104.18.152.208-0651, server: 104.18.152.208, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
-  - {name: 🇸🇬 SG-13.212.-9001-66MB, server: rich-mule.rooster465.autos, port: 443, type: trojan, password: PI36027154, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-147.90.234.133-0152 | 0.0MB, server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.16-0088 | 9.29MB, server: 82.38.31.16, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: RELAY-172.66.47.69-0653, server: 172.66.47.69, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true}
-  - {name: 🇺🇸 美国 CLOUDFLARE节点 2, server: 104.18.152.54, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, alpn: ["h3,h2"], skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-5047-58MB, server: 82.38.31.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇺🇸 US-156.146-0566-28MB, server: 156.146.38.168, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇿🇦 南非, server: 45.196.182.160, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: sni.fi-m247-02.com, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-38.60.2-2604-61MB, server: 38.60.202.163, port: 443, type: trojan, password: ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed, sni: 38.60.202.163, skip-cert-verify: false, udp: true}
-  - {name: RELAY-104.16.174.117-0714, server: 104.16.174.117, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.214-0112 | 0.12MB, server: 82.38.31.214, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: RO-SPEEDNODE-0050, server: 193.176.84.32, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-82.38.31.192-0056, server: 82.38.31.192, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.186-0076 | 33.0MB, server: 82.38.31.186, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇸🇬 SG-新加坡, server: 104.234.233.100, port: 55000, type: hysteria2, password: 140dfd67-61be-45e8-b234-0a5529d47ebc, auth: 140dfd67-61be-45e8-b234-0a5529d47ebc, sni: www.bing.com, skip-cert-verify: true, udp: true}
-  - {name: BR-38.180.221.145-2487, server: 38.180.221.145, port: 17283, type: ss, cipher: chacha20-ietf-poly1305, password: bwjNPcwgz5+1gCyi+rB+nfqugw38B7tqVa, udp: true}
-  - {name: 🇬🇧 GB-141.98.-9201-52MB, server: 141.98.101.179, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇩🇪 DE-185.137-5153-98MB, server: 185.137.157.135, port: 443, type: trojan, password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0044, server: 84.239.49.209, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-美国-FI-芬兰, server: 45.196.182.129, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: https://t.me/WangCai2🇨🇳, skip-cert-verify: true, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.10-0147 | 0.0MB, server: 82.38.31.10, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: RELAY-172.-5267-.0MB, server: cf.tencentapp.cn, port: 80, type: vmess, uuid: f8975871-a7a0-4906-8835-a23c1258ca1e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: google.whatsapp.snapp.torob.basalam.zula.uplaod-music.ir.}}, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.217-0069 | 0.476MB, server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: RELAY-104.16.174.12-2492, server: 104.16.174.12, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: "%2Fassignment", headers: {Host: www.ignitelimit.com}}, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-7200-21MB, server: 82.38.31.205, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇮🇳 IN-103.111.114.82-0155 | 0.0MB, server: 103.111.114.82, port: 28061, type: ss, cipher: chacha20-ietf-poly1305, password: WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm, udp: true}
-  - {name: RO-SPEEDNODE-0051, server: 193.176.84.31, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RELAY-172.66.44.211-0711, server: 172.66.44.211, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true}
-  - {name: RO-SPEEDNODE-0040, server: 84.239.14.160, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RELAY-104.16.174.71-0718, server: 104.16.174.71, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
-  - {name: RELAY-141.193.213.11-0695, server: 141.193.213.11, port: 443, type: trojan, password: humanity, sni: www.calmloud.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmloud.com}}, udp: true}
-  - {name: RELAY-172.67.180.92-0658, server: 172.67.180.92, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true}
-  - {name: RELAY-141.193.213.30-0691, server: 141.193.213.30, port: 443, type: trojan, password: f922fa0f-3311-4368-85ff-cf65e727c854, sni: space.byu.id.yxls.eu.cc, network: ws, ws-opts: {path: /br-orcl, headers: {Host: space.byu.id.yxls.eu.cc}}, udp: true}
-  - {name: AT-212.183.88.136-0753, server: 212.183.88.136, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true}
-  - {name: 🇫🇷 FR-2|3.5MB S, server: 51.44.220.197, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.35-0115, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: SA-149.104.104.58-0133 | 0.0MB, server: 149.104.104.58, port: 443, type: trojan, password: S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix, sni: 149.104.104.58, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 日本| RIPAOJIEDIAN 2, server: 3.112.52.247, port: 27826, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true, udp: true}
-  - {name: 🇩🇪 DE-209.46.-0200-69MB, server: 209.46.102.22, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 1hhrqrokj3ag, udp: true}
-  - {name: 🇩🇪 DE-185.137-0501-96MB, server: 185.137.157.128, port: 443, type: trojan, password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q, skip-cert-verify: false, udp: true}
-  - {name: RELAY-172.-4006-31MB, server: yg2.ygkkk.dpdns.org, port: 80, type: vmess, uuid: f8975871-a7a0-4906-8835-a23c1258ca1e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: google.whatsapp.snapp.torob.basalam.zula.uplaod-music.ir.}}, udp: true}
-  - {name: 🇭🇰 HK-185.244.208.219-2589, server: moved-osprey.rooster465.autos, port: 443, type: trojan, password: PI36027154, sni: moved-osprey.rooster465.autos, udp: true}
-  - {name: 🇺🇸 US-69.84.182.49-0105, server: 69.84.182.49, port: 80, type: vmess, uuid: f8975871-a7a0-4906-8835-a23c1258ca1e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: google.whatsapp.snapp.torob.basalam.zula.uplaod-music.ir.}}, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-5540-54MB, server: 82.38.31.155, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇳🇱 NL-109.201-1731-61MB, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, udp: true}
-  - {name: RELAY-172.64.152.23-0693, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true}
-  - {name: RELAY-45.130.125.126-0599, server: 45.130.125.126, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true}
-  - {name: 🇺🇸 US-美国-FI-芬兰-2, server: 45.196.182.179, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: https://t.me/WangCai2🇨🇳, skip-cert-verify: true, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.35-0423, server: 82.38.31.35, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇺🇸 US-美国-1, server: vpn-us-003.fastervpn.world, port: 443, type: hysteria2, password: H7mP2xY9kJ4nQ8wR5tF6vB3z, auth: H7mP2xY9kJ4nQ8wR5tF6vB3z, sni: vpn-us-003.fastervpn.world, skip-cert-verify: true, udp: true}
-  - {name: RO-SPEEDNODE-0038, server: 84.239.49.57, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-38.54.80.160-0124 | 0.0MB, server: 38.54.80.160, port: 16292, type: ss, cipher: chacha20-ietf-poly1305, password: r_NRe-+WRq2zVqMpCnJtTESlT8WyffHyFy, udp: true}
-  - {name: 🇰🇷 KR-38.60.220.65-0150 | 0.0MB, server: 38.60.220.65, port: 443, type: trojan, password: t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-165.215.250.14-0649, server: 165.215.250.14, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true}
-  - {name: RO-SPEEDNODE-0030, server: 84.239.49.204, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-37.19.1-6862-57MB, server: 37.19.198.236, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: RELAY-104.16.174.36-0733, server: 104.16.174.36, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
+  - {name: RELAY-91.193.58.77-0621, server: 91.193.58.77, port: 443, type: trojan, password: humanity, sni: www.calmloud.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmloud.com}}, udp: true}
+  - {name: 🇯🇵 JP-149.22.-0028-52MB, server: 149.22.87.204, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
   - {name: 🇺🇸 US-美国-DE-德国-1, server: 162.159.152.48, port: 443, type: vless, uuid: c416332e-2bde-4806-ac02-8f021c6e8f68, tls: true, servername: bbc.zjxc.de5.net, network: ws, ws-opts: {path: "/?proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: bbc.zjxc.de5.net}}, udp: true}
-  - {name: 🇷🇺 RU-俄罗斯, server: 46.17.40.117, port: 51385, type: hysteria2, password: a8a5b34d-fe46-487d-bd6a-d9f3101525fd, auth: a8a5b34d-fe46-487d-bd6a-d9f3101525fd, sni: music.apple.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 US-52.38.1-5452-24MB, server: pro-tortoise.rooster465.autos, port: 443, type: trojan, password: PI36027154, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 2, server: 66.234.150.239, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: sni.fi-m247-02.com, skip-cert-verify: false, udp: true}
-  - {name: 🇩🇪 DE-185.137-1185-28MB, server: 185.137.157.138, port: 443, type: trojan, password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q, skip-cert-verify: false, udp: true}
-  - {name: RELAY-104.16.72.2-0596, server: 104.16.72.2, port: 443, type: trojan, password: f922fa0f-3311-4368-85ff-cf65e727c854, sni: space.byu.id.yxls.eu.cc, network: ws, ws-opts: {path: /br-orcl, headers: {Host: space.byu.id.yxls.eu.cc}}, udp: true}
-  - {name: 🇺🇸 US-美国-5, server: 107.173.7.186, port: 2095, type: vmess, uuid: 383737a2-a196-44b6-a9ac-4f8cc23c9637, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: 107.173.7.186, network: ws, ws-opts: {path: 383737a2-a196-44b6-a9ac-4f8cc23c9637-vm}, udp: true}
-  - {name: RELAY-188.114.96.3-0588, server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true}
-  - {name: 🇿🇦 南非 2, server: 45.196.182.250, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: sni.fi-m247-02.com, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.17-0092 | 7.964MB, server: 82.38.31.17, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: RELAY-104.21.40.34-0590, server: 104.21.40.34, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true}
-  - {name: 🇿🇦 南非 6, server: 45.196.182.182, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: sni.fi-m247-02.com, skip-cert-verify: false, udp: true}
-  - {name: RELAY-104.18.152.210-0760, server: 104.18.152.210, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
-  - {name: ZA-102.133-8650-78MB, server: 102.133.165.160, port: 16233, type: ss, cipher: chacha20-ietf-poly1305, password: Xsy8Ox4yOV3xLlpxtjzs3X, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-4010-18MB, server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: RELAY-104.16.72.101-0600, server: 104.16.72.101, port: 443, type: trojan, password: 86957ec0-b213-433b-a43b-51f2175e0ec3, sni: space.byu.id.yxls.eu.cc, network: ws, ws-opts: {path: /au-do, headers: {Host: space.byu.id.yxls.eu.cc}}, udp: true}
-  - {name: 🇨🇦 CA-149.22.-3198-07MB, server: 149.22.95.183, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇺🇸 US-3.148.210.179-2595, server: 3.148.210.179, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: RELAY-108.162.196.71-0574, server: auto.mhjstudio.ir, port: 443, type: trojan, password: dfdse334053vuohm, sni: alternative.mhjstudio.ir, network: ws, ws-opts: {path: /, headers: {Host: alternative.mhjstudio.ir}}, udp: true}
-  - {name: BR-38.180.-1222-13MB, server: 38.180.221.143, port: 17283, type: ss, cipher: chacha20-ietf-poly1305, password: bwjNPcwgz5+1gCyi+rB+nfqugw38B7tqVa, udp: true}
-  - {name: RELAY-91.193.58.77-0605, server: 91.193.58.77, port: 443, type: trojan, password: humanity, sni: www.calmloud.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmloud.com}}, udp: true}
-  - {name: 🇳🇱 NL-92.112.126.90-0144 | 0.0MB, server: switcher-nick-croquet.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9tqhMdIrTkgQ46PvhyAtMH, udp: true}
-  - {name: 🇿🇦 南非 9, server: 45.196.182.215, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: sni.fi-m247-02.com, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-37.19.1-0448-67MB, server: 37.19.198.243, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: RELAY-45.130.125.160-0589, server: 45.130.125.160, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true}
-  - {name: 🇺🇸 US-18.222.166.251-0085 | 0.0MB, server: 18.222.166.251, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: RELAY-104.18.152.225-0607, server: 104.18.152.225, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-0970-88MB, server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: RO-SPEEDNODE-0029, server: 84.239.49.211, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇰🇷 KR-218.237-0160-25MB, server: 218.237.185.230, port: 4652, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: RELAY-104.16.72.41-0597, server: 104.16.72.41, port: 443, type: trojan, password: 86957ec0-b213-433b-a43b-51f2175e0ec3, sni: space.byu.id.yxls.eu.cc, network: ws, ws-opts: {path: /au-do, headers: {Host: space.byu.id.yxls.eu.cc}}, udp: true}
-  - {name: RELAY-45.130.125.96-0592, server: 45.130.125.96, port: 443, type: trojan, password: humanity, sni: www.calmloud.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmloud.com}}, udp: true}
-  - {name: RELAY-104.17.121.43-0591, server: 104.17.121.43, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true}
-  - {name: 🇳🇱 NL-108.181.58.239-0083 | 0.0MB, server: 108.181.58.239, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: CJmTCCx7Ltud, udp: true}
+  - {name: 🇺🇸 US-美国-DE-德国-2, server: www.visa.com.br, port: 2087, type: vless, uuid: c416332e-2bde-4806-ac02-8f021c6e8f68, tls: true, servername: bbc.zjxc.de5.net, network: ws, ws-opts: {path: "/?proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: bbc.zjxc.de5.net}}, udp: true}
+  - {name: BG-89.44.197.181-6256, server: 89.44.197.181, port: 31348, type: ss, cipher: chacha20-ietf-poly1305, password: zDLmeWRsfcFdKT1Tpy02xodEToqCldTxvZcRoPIZZtBdnIEL, udp: true}
+  - {name: RELAY-172.-7020-04MB, server: yg2.ygkkk.dpdns.org, port: 80, type: vmess, uuid: f8975871-a7a0-4906-8835-a23c1258ca1e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: google.whatsapp.snapp.torob.basalam.zula.uplaod-music.ir.}}, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.218-0065 | 0.0MB, server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: RELAY-45.130.125.75-0663, server: 45.130.125.75, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true}
+  - {name: 🇩🇪 DE-德国, server: ff2.yuntong.click, port: 443, type: hysteria2, password: f7cb07a0-e6f9-4d22-a60e-c61854450c89, auth: f7cb07a0-e6f9-4d22-a60e-c61854450c89, sni: ff2.yuntong.click, skip-cert-verify: true, obfs: salamander, obfs-password: eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=, udp: true}
+  - {name: 🇺🇸 US-美国-FI-芬兰, server: 45.196.182.129, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: https://t.me/WangCai2🇨🇳, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US-37.19.1-2803-45MB, server: 37.19.198.236, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: RELAY-104.16.174.44-0628, server: 104.16.174.44, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
+  - {name: RO-SPEEDNODE-0017, server: 84.239.49.187, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇬🇧 GB-82.38.31.192-6187, server: 82.38.31.192, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇺🇸 US-37.19.1-8679-64MB, server: 37.19.198.243, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇫🇷 FR-法国, server: 62.210.24.143, port: 33888, type: tuic, password: dongtaiwang.com, uuid: 9adb384a-0f16-4501-a8f3-b6b2556fce87, sni: bing.com, skip-cert-verify: true, alpn: [h3], disable-sni: false, reduce-rtt: false, request-timeout: 0, udp-relay-mode: native}
+  - {name: ID-130.94.94.15-0150 | 6.273MB, server: 130.94.94.15, port: 443, type: trojan, password: tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR, sni: 130.94.94.15, skip-cert-verify: false, udp: true}
+  - {name: RELAY-45.130.125.96-0608, server: 45.130.125.96, port: 443, type: trojan, password: humanity, sni: www.calmloud.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmloud.com}}, udp: true}
+  - {name: RELAY-188.114.98.0-0679, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true}
+  - {name: 🇺🇸 US-173.249.209.146-6308, server: 173.249.209.146, port: 20086, type: vmess, uuid: 3935c2dc-dbb0-43f7-b367-fe89abe87fdf, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇯🇵 JP-149.22.-8042-45MB, server: 149.22.87.240, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇿🇦 南非 9, server: 45.196.182.131, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: sni.fi-m247-02.com, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0046, server: 84.239.49.247, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇬🇧 GB-94.156.-1005-27MB, server: 94.156.250.148, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: 🇫🇷 FR-13.36.1-6490-27MB, server: 13.36.174.32, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: RELAY-104.18.152.219-0737, server: 104.18.152.219, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-3814-49MB, server: 82.38.31.155, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇺🇸 US-208.103.161.101-0772, server: 208.103.161.101, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true}
+  - {name: 🇺🇸 US-美国-4, server: 147.90.235.195, port: 52625, type: hysteria2, password: 13d29042-ab82-4195-9cd4-2bafc518e201, auth: 13d29042-ab82-4195-9cd4-2bafc518e201, sni: apps.apple.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US-208.103.161.110-0673, server: 208.103.161.110, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true}
+  - {name: 🇿🇦 南非 7, server: 45.196.182.162, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: sni.fi-m247-02.com, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-9110-46MB, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇺🇸 US-173.244-7605-12MB, server: 173.244.56.9, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇿🇦 南非 5, server: 45.196.182.220, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: sni.fi-m247-02.com, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.191-0064 | 0.0MB, server: 82.38.31.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: RELAY-172.66.47.69-0669, server: 172.66.47.69, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true}
+  - {name: RELAY-104.16.72.101-0616, server: 104.16.72.101, port: 443, type: trojan, password: 86957ec0-b213-433b-a43b-51f2175e0ec3, sni: space.byu.id.yxls.eu.cc, network: ws, ws-opts: {path: /au-do, headers: {Host: space.byu.id.yxls.eu.cc}}, udp: true}
+  - {name: 🇿🇦 南非 6, server: 45.196.182.144, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: sni.fi-m247-02.com, skip-cert-verify: false, udp: true}
+  - {name: RELAY-104.18.152.210-0776, server: 104.18.152.210, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
+  - {name: 🇦🇺 AU-87.121.-0903-29MB, server: tight-possum.rooster465.autos, port: 443, type: trojan, password: PI36027154, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 US-107.173.7.186-0447, server: 107.173.7.186, port: 2095, type: vmess, uuid: 383737a2-a196-44b6-a9ac-4f8cc23c9637, alterId: 0, cipher: auto, tls: false, servername: 107.173.7.186, network: ws, ws-opts: {path: 383737a2-a196-44b6-a9ac-4f8cc23c9637-vm}, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.17-0111 | 0.786MB, server: 82.38.31.17, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
   - {name: 🇺🇸 US-美国-DE-德国, server: 162.159.36.42, port: 443, type: vless, uuid: c416332e-2bde-4806-ac02-8f021c6e8f68, tls: true, servername: bbc.zjxc.de5.net, network: ws, ws-opts: {path: "/?proxyip=proxyip.us.fxxk.dedyn.io", headers: {Host: bbc.zjxc.de5.net}}, udp: true}
-  - {name: RELAY-104.16.71.213-0593, server: 104.16.71.213, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true}
-  - {name: 🇩🇪 DE-213.202-0218-43MB, server: 213.202.208.199, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: 🇳🇱 NL-193.29.-3210-62MB, server: 193.29.139.235, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇬🇧 GB-141.98.-5718-69MB, server: 141.98.101.178, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: RELAY-104.18.152.97-0732, server: 104.18.152.97, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
+  - {name: RELAY-104.17.121.43-0607, server: 104.17.121.43, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true}
+  - {name: 🇺🇸 US-156.146-8064-58MB, server: 156.146.38.170, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: RELAY-104.16.174.117-0730, server: 104.16.174.117, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
+  - {name: 🇵🇱 PL-217.30.10.70-6298, server: 217.30.10.70, port: 9032, type: ss, cipher: aes-256-cfb, password: UWZQeLRWnkqgkseq, udp: true}
+  - {name: 🇮🇳 IN-152.67.8.205-0134, server: 152.67.8.205, port: 80, type: vmess, uuid: 9db4c708-aef8-4359-821b-38e47990be0d, alterId: 0, cipher: auto, tls: false, servername: 152.67.8.205, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: ZA-102.37.-2011-98MB, server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.194-0062 | 8.74MB, server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
   - {name: RO-SPEEDNODE-0052, server: 193.176.84.37, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-美国-3, server: 172.96.141.4, port: 52738, type: hysteria2, password: cb887032-0447-4216-be3c-7333ecdcda9a, auth: cb887032-0447-4216-be3c-7333ecdcda9a, sni: api.push.apple.com, skip-cert-verify: true, udp: true}
-  - {name: RELAY-8.6.112.0-0646, server: 8.6.112.0, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true}
-  - {name: 🇺🇸 US-37.19.1-4290-89MB, server: 37.19.198.244, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-5207-04MB, server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇿🇦 南非 3, server: 45.196.182.234, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: sni.fi-m247-02.com, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.176-0123 | 0.065MB, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: RELAY-141.193.213.20-0602, server: blog.webex.com, port: 443, type: trojan, password: afbcd89a-5a90-4a44-a42a-be08f444aa3f, sni: unnes.ac.id.yxls.eu.cc, network: ws, ws-opts: {path: /br-orcl, headers: {Host: unnes.ac.id.yxls.eu.cc}}, udp: true}
-  - {name: 🇩🇪 DE-185.137-0715-14MB, server: 185.137.157.145, port: 443, type: trojan, password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q, skip-cert-verify: false, udp: true}
-  - {name: ZA-102.37.-2512-56MB, server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-1090-06MB, server: 82.38.31.187, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: RELAY-104.18.152.229-0659, server: 104.18.152.229, port: 443, type: trojan, password: humanity, sni: www.calmloud.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmloud.com}}, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.218-0138 | 0.047MB, server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇫🇷 FR-38.60.1-0691-48MB, server: 38.60.168.129, port: 443, type: trojan, password: Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.15-0075 | 84.673MB, server: 82.38.31.15, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: RO-SPEEDNODE-0045, server: 84.239.49.159, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RELAY-104.19.229.21-0611, server: 104.19.229.21, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
+  - {name: RO-SPEEDNODE-0038, server: 84.239.49.57, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RELAY-45.130.125.126-0615, server: 45.130.125.126, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true}
+  - {name: 🇺🇸 US-38.54.6-4291-99MB, server: 38.54.64.247, port: 443, type: trojan, password: ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk, skip-cert-verify: false, udp: true}
+  - {name: RELAY-8.6.112.0-0662, server: 8.6.112.0, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true}
+  - {name: 🇺🇸 US-38.54.8-0004-15MB, server: 38.54.80.160, port: 16292, type: ss, cipher: chacha20-ietf-poly1305, password: r_NRe-+WRq2zVqMpCnJtTESlT8WyffHyFy, udp: true}
+  - {name: RELAY-104.18.152.229-0675, server: 104.18.152.229, port: 443, type: trojan, password: humanity, sni: www.calmloud.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmloud.com}}, udp: true}
+  - {name: 🇳🇱 NL-193.29.-4969-82MB, server: 193.29.139.204, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇿🇦 南非, server: 45.196.182.192, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: sni.fi-m247-02.com, skip-cert-verify: false, udp: true}
+  - {name: RELAY-104.17.121.71-0682, server: 104.17.121.71, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true}
+  - {name: 🇿🇦 南非 2, server: 45.196.182.217, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: sni.fi-m247-02.com, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.214-0145, server: 82.38.31.214, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇺🇸 US-18.222.-1362-68MB, server: 18.222.166.251, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: RO-SPEEDNODE-0044, server: 84.239.49.209, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-3.148.2-2193-61MB, server: 3.148.210.179, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇭🇰 HK-216.250-3330-13MB, server: 216.250.97.82, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: 🇯🇵 JP-168.138.43.75-2150, server: 168.138.43.75, port: 80, type: vmess, uuid: 11c3627f-31e8-4695-dfbd-34076e2f1f5d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /cctv13.m3u8, headers: {Host: jp01.a0a.xyz}}, udp: true}
+  - {name: 🇺🇸 US-156.146-9615-09MB, server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: RELAY-104.-3214-64MB, server: yg1.ygkkk.dpdns.org, port: 80, type: vmess, uuid: f8975871-a7a0-4906-8835-a23c1258ca1e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: google.whatsapp.snapp.torob.basalam.zula.uplaod-music.ir.}}, udp: true}
+  - {name: 🇺🇸 US-156.146-0600-28MB, server: 156.146.38.168, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇺🇸 US-37.19.1-0087-34MB, server: 37.19.198.244, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: RELAY-45.130.125.32-0627, server: 45.130.125.32, port: 443, type: trojan, password: humanity, sni: www.calmloud.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmloud.com}}, udp: true}
+  - {name: 🇯🇵 JP-13.230.-4943-84MB, server: large-baboon.rooster465.autos, port: 443, type: trojan, password: PI36027154, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.7-0133 | 10.492MB, server: 82.38.31.7, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇷🇺 RU-俄罗斯, server: 46.17.40.117, port: 51385, type: hysteria2, password: a8a5b34d-fe46-487d-bd6a-d9f3101525fd, auth: a8a5b34d-fe46-487d-bd6a-d9f3101525fd, sni: music.apple.com, skip-cert-verify: true, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-0719-12MB, server: 82.38.31.149, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: VN-38.60.2-0112-83MB, server: 38.60.252.118, port: 443, type: trojan, password: NAdtbpuyJXPH=CfKmdBqD2YVbzdvwAtuxw, sni: 38.60.252.118, skip-cert-verify: false, udp: true}
+  - {name: RELAY-104.16.174.71-0734, server: 104.16.174.71, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
+  - {name: 🇰🇷 KR-141.164-0170-31MB, server: 141.164.45.187, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: 🇺🇸 美国 2, server: 66.234.150.245, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: sni.fi-m247-02.com, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0028, server: 84.239.49.196, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇧🇷 巴西圣保罗 CLOUDFLARE节点, server: 188.114.96.4, port: 443, type: trojan, password: humanity, sni: www.calmloud.com, alpn: [http%2F1.1], skip-cert-verify: true, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmloud.com}}, udp: true}
+  - {name: RELAY-104.20.6.134-0708, server: 104.20.6.134, port: 443, type: trojan, password: humanity, sni: www.calmloud.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmloud.com}}, udp: true}
+  - {name: RO-SPEEDNODE-0050, server: 193.176.84.32, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-165.215.250.14-0665, server: 165.215.250.14, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true}
+  - {name: RO-SPEEDNODE-0049, server: 84.239.49.219, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RELAY-104.18.152.204-0622, server: 104.18.152.204, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
+  - {name: 🇿🇦 南非 4, server: 45.196.182.218, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: sni.fi-m247-02.com, skip-cert-verify: false, udp: true}
+  - {name: RELAY-104.16.71.213-0609, server: 104.16.71.213, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true}
+  - {name: 🇹🇼 TW-61.231.-0901-61MB, server: r3mrcg001286ek2.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
+  - {name: 🇺🇸 US-198.62.62.23-0775, server: 198.62.62.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-2900-58MB, server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇩🇪 DE-209.46.-2800-13MB, server: 209.46.102.22, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 1hhrqrokj3ag, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.184-0067 | 0.0MB, server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: RELAY-108.162.196.71-0590, server: auto.mhjstudio.ir, port: 443, type: trojan, password: dfdse334053vuohm, sni: alternative.mhjstudio.ir, network: ws, ws-opts: {path: /, headers: {Host: alternative.mhjstudio.ir}}, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.210-0210 | 0.0MB, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: RELAY-104.18.152.225-0623, server: 104.18.152.225, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
+  - {name: RO-SPEEDNODE-0029, server: 84.239.49.211, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RELAY-104.21.40.34-0606, server: 104.21.40.34, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true}
+  - {name: 🇺🇸 US-147.90.-2318-19MB, server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true}
+  - {name: 🇰🇷 KR-221.139-5075-48MB, server: 221.139.79.57, port: 13979, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: RELAY-172.66.44.211-0727, server: 172.66.44.211, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true}
+  - {name: RO-SPEEDNODE-0047, server: 84.239.49.235, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RELAY-172.64.147.166-0774, server: 172.64.147.166, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true}
+  - {name: 🇬🇧 GB-141.98.-4119-69MB, server: 141.98.101.179, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: RO-SPEEDNODE-0051, server: 193.176.84.31, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇳🇱 NL-193.29.-2519-97MB, server: 193.29.139.235, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇰🇷 KR-38.60.220.65-0170 | 0.051MB, server: 38.60.220.65, port: 443, type: trojan, password: t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.208-0069 | 0.043MB, server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇺🇸 US-美国-1, server: vpn-us-003.fastervpn.world, port: 443, type: hysteria2, password: H7mP2xY9kJ4nQ8wR5tF6vB3z, auth: H7mP2xY9kJ4nQ8wR5tF6vB3z, sni: vpn-us-003.fastervpn.world, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇦 CA-149.22.-9511-23MB, server: 149.22.95.183, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: RO-SPEEDNODE-0040, server: 84.239.14.160, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇬🇧 GB-82.38.31.35-0446, server: 82.38.31.35, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇸🇬 SG-45.32.1-1122-91MB, server: 45.32.122.179, port: 23027, type: ss, cipher: chacha20-ietf-poly1305, password: I-bP3lFh.dTG3XitF7XtVK83CZ7rI2Ut=n, udp: true}
+  - {name: RELAY-141.101.90.101-0728, server: 141.101.90.101, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
+  - {name: RO-SPEEDNODE-0030, server: 84.239.49.204, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RELAY-162.159.17.189-0729, server: 162.159.17.189, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true}
+  - {name: BR-38.180.-3420-85MB, server: 38.180.221.143, port: 17283, type: ss, cipher: chacha20-ietf-poly1305, password: bwjNPcwgz5+1gCyi+rB+nfqugw38B7tqVa, udp: true}
+  - {name: RELAY-104.16.72.41-0613, server: 104.16.72.41, port: 443, type: trojan, password: 86957ec0-b213-433b-a43b-51f2175e0ec3, sni: space.byu.id.yxls.eu.cc, network: ws, ws-opts: {path: /au-do, headers: {Host: space.byu.id.yxls.eu.cc}}, udp: true}
+  - {name: RELAY-45.130.125.160-0605, server: 45.130.125.160, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true}
+  - {name: RELAY-104.26.14.137-0603, server: 104.26.14.137, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
+  - {name: 🇳🇱 NL-108.181-4700-99MB, server: 108.181.126.122, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: CJmTCCx7Ltud, udp: true}
+  - {name: 🇯🇵 JP-103.125-3811-96MB, server: 103.125.216.18, port: 443, type: trojan, password: T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 HK-103.149.182.79-6315, server: 103.149.182.79, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true}
+  - {name: RO-SPEEDNODE-0041, server: 84.239.49.185, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇰🇷 KR-141.164-5680-11MB, server: 141.164.45.187, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: 🇺🇸 US-108.181-0919-55MB, server: 108.181.0.177, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: G5p6ww4o67HB, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.10-0138 | 4.272MB, server: 82.38.31.10, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇬🇧 GB-141.98.-0111-66MB, server: 141.98.101.181, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: RELAY-104.19.208.184-0735, server: 104.19.208.184, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true}
+  - {name: RO-SPEEDNODE-0025, server: 84.239.49.202, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: MD-94.131.-2208-96MB, server: 94.131.108.36, port: 443, type: vmess, uuid: 9855f1f0-a800-40d4-8b38-c7d3eb79302d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: AT-212.183.88.136-0769, server: 212.183.88.136, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true}
+  - {name: 🇬🇧 GB-146.70.-6691-58MB, server: 146.70.61.37, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
+  - {name: 🇺🇸 US-216.24.57.1-0619, server: 216.24.57.1, port: 443, type: trojan, password: humanity, sni: www.calmloud.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmloud.com}}, udp: true}
+  - {name: 🇸🇬 SG-13.212.-6516-01MB, server: rich-mule.rooster465.autos, port: 443, type: trojan, password: PI36027154, skip-cert-verify: false, udp: true}
+  - {name: RELAY-104.18.152.208-0667, server: 104.18.152.208, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.189-0202 | 0.0MB, server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇳🇱 NL-109.201-7838-57MB, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, udp: true}
+  - {name: 🇩🇪 DE-8.209.74.72-0097 | 47.949MB, server: 8.209.74.72, port: 20001, type: ss, cipher: chacha20-ietf-poly1305, password: PWpjPo3tqhPN4yRZ, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-8130-02MB, server: 82.38.31.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: RELAY-104.18.152.187-0668, server: 104.18.152.187, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
+  - {name: 🇿🇦 南非 12, server: 45.196.182.230, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: sni.fi-m247-02.com, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.2-0140 | 5.052MB, server: 82.38.31.2, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇺🇸 US-37.19.1-8700-41MB, server: 37.19.198.160, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇬🇧 GB-141.98.-0194-77MB, server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: SA-149.104-0625-56MB, server: 149.104.104.58, port: 443, type: trojan, password: S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix, sni: 149.104.104.58, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇦 CA-137.184-0957-71MB, server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
+  - {name: 🇳🇱 NL-92.112.-6419-99MB, server: switcher-nick-croquet.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9tqhMdIrTkgQ46PvhyAtMH, udp: true}
+  - {name: 🇵🇱 PL-217.30.10.70-6295, server: 217.30.10.70, port: 9046, type: ss, cipher: aes-256-cfb, password: NvS8N4Vf8qAGPSCL, udp: true}
+  - {name: RELAY-104.17.131.88-0773, server: 104.17.131.88, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true}
+  - {name: 🇰🇷 KR-218.237-2540-98MB, server: 218.237.185.230, port: 4652, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇸🇬 SG-新加坡-1, server: earthpro.wasmer.app, port: 443, type: vless, uuid: 9b0b4404-f1eb-4551-9b88-e0aac7843c86, tls: true, servername: earthpro.wasmer.app, network: ws, ws-opts: {path: /9b0b4404, headers: {Host: earthpro.wasmer.app}}, udp: true}
+  - {name: 🇰🇷 KR-211.178-0452-21MB, server: 211.178.105.134, port: 6123, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇨🇦 CA-108.181-8100-09MB, server: 108.181.118.10, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: G5p6ww4o67HB, udp: true}
+  - {name: 🇿🇦 南非 10, server: 45.196.182.146, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: sni.fi-m247-02.com, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-0122-78MB, server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇯🇵 JP-149.22.-7840-87MB, server: 149.22.87.241, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: RELAY-104.16.174.46-0736, server: 104.16.174.46, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true}
+  - {name: 🇰🇷 KR-218.237-0803-83MB, server: p141.panda001.net, port: 4652, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: RELAY-188.114.96.3-0604, server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true}
+  - {name: RELAY-172.67.180.92-0674, server: 172.67.180.92, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true}
+  - {name: 🇳🇱 NL-193.29.-0110-07MB, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: RELAY-185.18.250.245-0739, server: 185.18.250.245, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.219-0123, server: 82.38.31.219, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇺🇸 US-216.105.168.18-6234, server: 216.105.168.18, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hCCWOcIsK5wrFz4OX70rWf, udp: true}
+  - {name: 🇫🇷 FR-2|2.0MB S, server: 35.180.229.83, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇮🇳 IN-103.111-7111-03MB, server: 103.111.114.82, port: 28061, type: ss, cipher: chacha20-ietf-poly1305, password: WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm, udp: true}
+  - {name: 🇺🇸 US-美国-FI-芬兰-1, server: 45.196.182.243, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: https://t.me/WangCai2🇨🇳, skip-cert-verify: true, udp: true}
+  - {name: RELAY-141.193.213.11-0711, server: 141.193.213.11, port: 443, type: trojan, password: humanity, sni: www.calmloud.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmloud.com}}, udp: true}
+  - {name: RELAY-172.64.152.23-0709, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.216-0160, server: 82.38.31.216, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: RELAY-104.-7971-02MB, server: 104.17.124.179, port: 80, type: vmess, uuid: f8975871-a7a0-4906-8835-a23c1258ca1e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: google.whatsapp.snapp.torob.basalam.zula.uplaod-music.ir.}}, udp: true}
+  - {name: 🇺🇸 US-173.244-8586-17MB, server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇺🇸 US-156.146-3816-64MB, server: 156.146.38.167, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: RELAY-104.-2222-78MB, server: hl112.cowjump.site, port: 443, type: vmess, uuid: 0bf1cead-bdd4-4692-b3d4-6866ccb9f37a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hl112.cowjump.site}}, udp: true}
+  - {name: 🇯🇵 JP-103.125-7661-09MB, server: 103.125.216.68, port: 443, type: trojan, password: T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf, skip-cert-verify: false, udp: true}
+  - {name: 🇿🇦 南非 11, server: 45.196.182.154, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: sni.fi-m247-02.com, skip-cert-verify: false, udp: true}
+  - {name: RELAY-104.18.12.149-0664, server: 104.18.12.149, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true}
+  - {name: 🇺🇸 US-美国-FI-芬兰-2, server: 45.196.182.179, port: 8449, type: hysteria2, password: 03e7f55f-22f8-4564-880f-b86c8cdbf140, auth: 03e7f55f-22f8-4564-880f-b86c8cdbf140, sni: https://t.me/WangCai2🇨🇳, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 SG-新加坡, server: 104.234.233.100, port: 55000, type: hysteria2, password: 140dfd67-61be-45e8-b234-0a5529d47ebc, auth: 140dfd67-61be-45e8-b234-0a5529d47ebc, sni: www.bing.com, skip-cert-verify: true, udp: true}
+  - {name: FI-193.47.-8869-75MB, server: 193.47.60.186, port: 28687, type: ss, cipher: chacha20-ietf-poly1305, password: yKVMoB3AwiTEznpnoq2FYR, udp: true}
+  - {name: 🇹🇼 TW-185.189-0561-96MB, server: 185.189.160.105, port: 41632, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: ZA-102.133-8096-59MB, server: 102.133.165.160, port: 16233, type: ss, cipher: chacha20-ietf-poly1305, password: Xsy8Ox4yOV3xLlpxtjzs3X, udp: true}
+  - {name: 🇺🇸 US-52.38.1-2107-05MB, server: pro-tortoise.rooster465.autos, port: 443, type: trojan, password: PI36027154, skip-cert-verify: false, udp: true}
