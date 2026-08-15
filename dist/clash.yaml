@@ -1,371 +1,364 @@
 proxies:
+  - {name: 🇬🇧 GB-82.38.3-0144-81MB, server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
   - {name: 🇺🇸 US-SPEEDNODE-0134, server: 138.199.35.209, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0068, server: 84.239.49.233, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-82.38.3-0401-64MB, server: 82.38.31.155, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: RO-SPEEDNODE-0031, server: 84.239.49.168, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇦🇺 AU-87.121.33.82-0208, server: darling-mutt.rooster465.autos, port: 443, type: trojan, password: AE62539071, udp: true}
-  - {name: 🇳🇱 NL-193.29.-2048-84MB, server: 193.29.139.204, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: RO-SPEEDNODE-0105, server: 84.239.49.165, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-82.38.31.2-0230, server: 82.38.31.2, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇬🇧 GB-146.70.-6308-91MB, server: 146.70.61.37, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
-  - {name: RO-SPEEDNODE-0042, server: 84.239.49.241, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-82.38.3-8024-03MB, server: 82.38.31.205, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: IE-54.170.-5843-72MB, server: unbiased-garfish.rooster465.autos, port: 443, type: trojan, password: AE62539071, skip-cert-verify: false, udp: true}
-  - {name: 🇳🇱 NL-193.29.-0992-62MB, server: 193.29.139.147, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇸🇬 SG-13.212.-2113-86MB, server: integral-quetzal.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: integral-quetzal.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 JP-16|3.5MB S, server: 54.238.194.119, port: 443, type: trojan, password: FH72359861, sni: relaxing-marten.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0069, server: 84.239.49.231, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-18.178.-1012-97MB, server: 18.178.132.111, port: 443, type: trojan, password: ND91608427, sni: devoted-heron.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 KR-3|5.0MB S, server: 54.180.158.231, port: 443, type: trojan, password: FH72359861, sni: precise-locust.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-4908-21MB, server: 82.38.31.174, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇬🇧 英国 2, server: 86.53.105.117, port: 33015, type: hysteria2, password: dbab9df7-5c0a-4726-8574-11e34972b67d, auth: dbab9df7-5c0a-4726-8574-11e34972b67d, sni: www.bing.com, skip-cert-verify: true, udp: true}
-  - {name: 🇰🇷 KR-54.180.-2007-31MB, server: 54.180.228.238, port: 443, type: trojan, password: ND91608427, sni: pure-ram.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0075, server: 84.239.49.163, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-54.64.2-4505-35MB, server: 54.64.255.224, port: 443, type: trojan, password: AE62539071, sni: maximum-elk.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇳🇱 NL-SPEEDNODE-0022, server: 84.17.47.125, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0111, server: 84.239.49.164, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0046, server: 193.176.84.16, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇭🇰 HK-185.244-8118-93MB, server: 185.244.208.13, port: 443, type: trojan, password: ND91608427, sni: ace-starling.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0115, server: 193.176.84.23, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
-  - {name: IE-1|2.3MB S, server: 3.253.78.205, port: 443, type: trojan, password: FH72359861, sni: balanced-heron.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇳🇱 NL-SPEEDNODE-0023, server: 84.17.47.150, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇰🇷 KR-43.201.56.44-0182, server: distinct-llama.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: distinct-llama.rooster465.autos, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0141, server: fan.226278.xyz, port: 443, type: http, tls: true}
-  - {name: 🇬🇧 GB-82.38.3-0011-69MB, server: 82.38.31.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇯🇵 JP-3.112.2-1302-34MB, server: 3.112.223.141, port: 443, type: trojan, password: ND91608427, sni: internal-sunbird.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0056, server: 84.239.14.147, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0097, server: 84.239.49.39, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0047, server: 193.176.84.33, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-82.38.3-0169-35MB, server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇰🇷 KR-3.35.140.99-0190, server: moved-meerkat.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: moved-meerkat.rooster465.autos, udp: true}
-  - {name: 🇯🇵 JP-57.180.-1581-77MB, server: picked-guinea.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: picked-guinea.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇦 CA-108.181-8080-16MB, server: 108.181.118.10, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: G5p6ww4o67HB, udp: true}
-  - {name: 🇰🇷 KR-13.125.-9085-47MB, server: saving-octopus.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: saving-octopus.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 KR-43.203.-3155-75MB, server: charming-puma.rooster465.autos, port: 443, type: trojan, password: FH72359861, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0030, server: 84.239.49.202, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇰🇷 KR-3.38.106.2-0171, server: 3.38.106.2, port: 443, type: trojan, password: ND91608427, sni: communal-sunbird.rooster465.autos, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-6281-88MB, server: 82.38.31.214, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇳🇱 NL-89.39.7-1250-87MB, server: pro-crane.rooster465.autos, port: 443, type: trojan, password: FH72359861, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 KR-13.125.71.58-4572, server: capable-jay.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: capable-jay.rooster465.autos, udp: true}
-  - {name: 🇯🇵 JP-52.194.-2531-54MB, server: clear-heron.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: clear-heron.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 JP-13.115.-8283-02MB, server: polished-imp.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: polished-imp.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 CN-中国-HK-中国香港, server: v9.hdacd.com, port: 30809, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: RO-SPEEDNODE-0091, server: 193.176.84.29, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇳🇱 NL-108.181-2620-87MB, server: 108.181.126.122, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: CJmTCCx7Ltud, udp: true}
-  - {name: 🇰🇷 KR-13.125.-5148-71MB, server: viable-serval.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: viable-serval.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 KR-43.202.-5601-23MB, server: 43.202.56.122, port: 443, type: trojan, password: ND91608427, sni: striking-maggot.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0063, server: 84.239.49.223, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0103, server: 84.239.49.239, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇳🇱 NL-193.169-4634-43MB, server: thorough-falcon.rooster465.autos, port: 443, type: trojan, password: AE62539071, skip-cert-verify: false, udp: true}
-  - {name: 🇹🇼 TW-36.224.164.59-0215, server: r3mrcg001287h3p.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: b1ae0fce-9340-4f2e-882d-fdb2218e2e2b, udp: true}
-  - {name: RO-SPEEDNODE-0052, server: 84.239.14.159, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-52.68.1-2001-47MB, server: 52.68.175.30, port: 443, type: trojan, password: AE62539071, sni: on-roughy.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0144, server: 156.146.59.5, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0139, server: 138.199.35.199, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-4|3.2MB S, server: driven-bulldog.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: driven-bulldog.rooster465.autos, skip-cert-verify: true, udp: true}
-  - {name: 🇦🇺 AU-87.121.-8280-21MB, server: wanted-marmoset.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: wanted-marmoset.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇫🇷 FR-51.44.1-1502-33MB, server: distinct-quail.rooster465.autos, port: 443, type: trojan, password: AE62539071, skip-cert-verify: false, udp: true}
-  - {name: 🇦🇹 NL-荷兰-AT-奥地利, server: 212.23.221.62, port: 443, type: vless, uuid: e911c552-3a98-41e0-b5fb-0dd3879887b7, tls: true, servername: vod.ensf.top, client-fingerprint: chrome, network: ws, ws-opts: {path: /api/v1/irc, headers: {Host: vod.ensf.top}}, udp: true}
-  - {name: 🇯🇵 JP-54.95.1-4823-09MB, server: 54.95.128.248, port: 443, type: trojan, password: AE62539071, sni: engaged-ram.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0121, server: 138.199.35.215, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-35.72.13.34-0150, server: casual-bee.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: casual-bee.rooster465.autos, udp: true}
-  - {name: IE-34.251.-2524-01MB, server: 34.251.228.118, port: 443, type: trojan, password: UO36402987, sni: definite-ladybird.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 JP-13.231.-3111-97MB, server: better-molly.rooster465.autos, port: 443, type: trojan, password: ND91608427, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 JP-13.158.-5851-99MB, server: literate-cow.rooster465.autos, port: 443, type: trojan, password: AE62539071, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 JP-3.112.2-7113-45MB, server: 3.112.238.99, port: 443, type: trojan, password: ND91608427, sni: stunning-mite.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0100, server: 84.239.49.37, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0147, server: 156.146.59.33, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇰🇷 KR-43.203.-1570-91MB, server: 43.203.244.203, port: 443, type: trojan, password: ND91608427, sni: grateful-owl.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-37.19.1-4302-46MB, server: 37.19.198.244, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: RO-SPEEDNODE-0033, server: 84.239.14.148, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-44.244.-3704-51MB, server: 44.244.3.114, port: 443, type: trojan, password: ND91608427, sni: pet-ghost.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-0018-58MB, server: 82.38.31.192, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇰🇷 KR-43.201.-6419-64MB, server: firm-krill.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: firm-krill.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0142, server: 156.146.59.4, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇰🇷 KR-43.201.-8445-17MB, server: 43.201.56.44, port: 443, type: trojan, password: ND91608427, sni: distinct-llama.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0118, server: 172.66.44.97, port: 443, type: vless, uuid: 83afd88f-200f-4d89-bfc7-66eff160c1d8, tls: true, servername: josni.hoyes.cloudns.ch, network: ws, ws-opts: {path: "/musiclovers85_musiclovers85?ed=512", headers: {Host: josni.hoyes.cloudns.ch}}, udp: true}
-  - {name: 🇯🇵 JP-3.113.24.17-0140, server: 3.113.24.17, port: 443, type: trojan, password: ND91608427, sni: nearby-egret.rooster465.autos, udp: true}
-  - {name: 🇵🇱 PL-202.78.-4330-41MB, server: relaxed-gull.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: relaxed-gull.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-3109-26MB, server: 82.38.31.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇵🇱 PL-202.78.-3947-56MB, server: tolerant-mosquito.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: tolerant-mosquito.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0080, server: 84.239.49.170, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇫🇷 FR-15.237.-0394-49MB, server: fancy-skink.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: fancy-skink.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-44.244.-9013-94MB, server: pet-ghost.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: pet-ghost.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 JP-3.112.1-2211-03MB, server: adjusted-labrador.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: adjusted-labrador.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0146, server: 156.146.59.23, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 美国 CLOUDFLARE节点 2, server: 104.20.17.127, port: 443, type: vless, uuid: 50414e45-4c5f-5a45-5553-ef859652a80e, tls: true, servername: trex-panel-nubj0s.samifakor.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /stream/TrexBridge/ef859652a80e, headers: {Host: trex-panel-nubj0s.samifakor.workers.dev}}, udp: true}
-  - {name: 🇯🇵 JP-13.193.-8428-89MB, server: main-impala.rooster465.autos, port: 443, type: trojan, password: AE62539071, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 JP-54.64.2-8582-18MB, server: maximum-elk.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: maximum-elk.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0081, server: 84.239.49.182, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0073, server: 84.239.49.62, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
-  - {name: 🇩🇪 DE-2|4.2MB S, server: 35.159.21.7, port: 443, type: trojan, password: FH72359861, sni: summary-lemming.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-7278-33MB, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇺🇸 US-37.19.1-1124-56MB, server: 37.19.198.160, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0155, server: 156.146.59.27, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0039, server: 84.239.49.253, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇰🇷 KR-3.36.59.34-0159, server: select-ferret.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: select-ferret.rooster465.autos, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0132, server: 138.199.35.220, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-176.97.-6421-39MB, server: 176.97.73.215, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: ma6zc4JoLRJA, udp: true}
-  - {name: RO-SPEEDNODE-0048, server: 193.176.84.30, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-82.38.31.198-0196, server: 82.38.31.198, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇯🇵 JP-2|1.9MB S, server: equal-labrador.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: equal-labrador.rooster465.autos, skip-cert-verify: true, udp: true}
-  - {name: RO-SPEEDNODE-0058, server: 84.239.49.199, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇩🇪 DE-SPEEDNODE-0001, server: 167.172.172.190, port: 443, type: http, username: testuser1, password: e4b72b531a2d10900519, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-82.38.31.49-0090, server: 82.38.31.49, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇺🇸 US-108.181-6877-07MB, server: 108.181.0.177, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: G5p6ww4o67HB, udp: true}
-  - {name: RO-SPEEDNODE-0082, server: 84.239.49.197, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0112, server: 84.239.49.183, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇰🇷 KR-43.202.-5126-74MB, server: striking-maggot.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: striking-maggot.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0157, server: 156.146.59.10, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-82.38.31.16-0064, server: 82.38.31.16, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇦🇺 AU-87.121.-2300-07MB, server: together-dingo.rooster465.autos, port: 443, type: trojan, password: AE62539071, skip-cert-verify: false, udp: true}
-  - {name: ZA-102.37.-2615-68MB, server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true}
-  - {name: RO-SPEEDNODE-0108, server: 193.176.84.32, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇰🇷 KR-211.178.105.134-0246, server: 211.178.105.134, port: 6123, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: NO-185.213.23.63-4634, server: 185.213.23.63, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
-  - {name: 🇯🇵 JP-18.178.-4111-11MB, server: devoted-heron.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: devoted-heron.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0135, server: 138.199.35.204, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0040, server: 193.176.84.17, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0159, server: 156.146.59.11, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-54.249.-4275-96MB, server: eager-camel.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: eager-camel.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0071, server: 84.239.49.217, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-44.242.-9208-66MB, server: 44.242.235.129, port: 443, type: trojan, password: ND91608427, sni: devoted-tapir.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.57-0084, server: 82.38.31.57, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇳🇱 NL-193.29.-1695-22MB, server: 193.29.139.235, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇯🇵 JP-12|2.8MB S, server: 18.183.226.106, port: 443, type: trojan, password: FH72359861, sni: living-hagfish.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0083, server: 84.239.49.157, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
-  - {name: 🇨🇦 CA-149.22.95.183-0102, server: 149.22.95.183, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇵🇱 PL-202.78.-3613-89MB, server: relative-locust.rooster465.autos, port: 443, type: trojan, password: AE62539071, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0107, server: 84.239.49.173, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
-  - {name: 🇫🇷 FR-15.237.-0215-48MB, server: 15.237.137.197, port: 443, type: trojan, password: ND91608427, sni: fancy-skink.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇳🇱 NL-193.29.-3100-18MB, server: 193.29.139.223, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇺🇸 US-54.244.-5642-19MB, server: sharing-duck.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: sharing-duck.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0043, server: 193.176.84.38, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-6|5.0MB S, server: communal-troll.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: communal-troll.rooster465.autos, skip-cert-verify: true, udp: true}
-  - {name: RO-SPEEDNODE-0104, server: 84.239.49.207, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0044, server: 193.176.84.35, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-54.250.-2201-58MB, server: premium-weevil.rooster465.autos, port: 443, type: trojan, password: AE62539071, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0119, server: fan.596189.xyz, port: 443, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-82.38.31.35-0086, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇯🇵 JP-3.112.2-0398-88MB, server: stunning-mite.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: stunning-mite.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0076, server: 84.239.49.58, port: 9002, type: http, username: "null", password: "null", tls: true, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-57.180.-2527-16MB, server: 57.180.27.225, port: 443, type: trojan, password: ND91608427, sni: picked-guinea.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 JP-9|4.5MB S, server: living-hagfish.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: living-hagfish.rooster465.autos, skip-cert-verify: true, udp: true}
-  - {name: RO-SPEEDNODE-0089, server: 193.176.84.34, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-198.98.-8081-67MB, server: 198.98.53.130, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: eDfN7SODQceIOmIAbtJJtK, udp: true}
-  - {name: RO-SPEEDNODE-0045, server: 84.239.49.181, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇰🇷 KR-43.201.-9708-15MB, server: exotic-chow.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: exotic-chow.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 HK-185.244-2280-51MB, server: upright-bedbug.rooster465.autos, port: 443, type: trojan, password: AE62539071, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0034, server: 84.239.49.178, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0093, server: 84.239.49.204, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: IE-54.74.1-4009-41MB, server: 54.74.159.195, port: 443, type: trojan, password: AE62539071, sni: kind-stork.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇳🇱 NL-108.181-1925-46MB, server: 108.181.58.239, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: CJmTCCx7Ltud, udp: true}
-  - {name: 🇯🇵 JP-5|5.6MB S, server: lasting-jaguar.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: lasting-jaguar.rooster465.autos, skip-cert-verify: true, udp: true}
-  - {name: 🇫🇷 FR-SPEEDNODE-0002, server: 51.159.225.196, port: 23856, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇭🇰 HK-91.199.-0214-64MB, server: 91.199.84.120, port: 443, type: trojan, password: ND91608427, sni: dynamic-grubworm.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇷🇺 俄罗斯, server: srvhy1.ezcon24.online, port: 8443, type: hysteria2, password: 130e6aab-9eba-441e-9021-22cbccc72832, auth: 130e6aab-9eba-441e-9021-22cbccc72832, sni: srvhy1.ezcon24.online, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0066, server: 84.239.49.240, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0109, server: 84.239.14.153, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-217.28.129.81-0239, server: autodiscover.fuzzyaytor.cyou, port: 42982, type: ss, cipher: chacha20-ietf-poly1305, password: yTEXWB6XBHyv9SfQJzCSRWCnRYutFdUXg1wbcbutxPwZE6Uxcurka3GkoatgEdX483XZSHeJp3jXcTShLCRM8rPgMF3vYNfS, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0145, server: 156.146.59.21, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-18.181.-2122-83MB, server: 18.181.194.227, port: 443, type: trojan, password: ND91608427, sni: moral-buzzard.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇳🇱 NL-SPEEDNODE-0017, server: 84.17.47.147, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇸🇬 SG-9|1.1MB S, server: 54.254.235.88, port: 443, type: trojan, password: FH72359861, sni: charming-ox.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 JP-54.249.-2463-48MB, server: social-mutt.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: social-mutt.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 KR-43.203.119.20-0177, server: 43.203.119.20, port: 443, type: trojan, password: ND91608427, sni: uncommon-feline.rooster465.autos, udp: true}
-  - {name: RO-SPEEDNODE-0084, server: 84.239.49.171, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇰🇷 KR-43.203.-0526-61MB, server: uncommon-feline.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: uncommon-feline.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 JP-18.183.-3612-59MB, server: 18.183.182.132, port: 443, type: trojan, password: AE62539071, sni: exciting-grizzly.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 JP-149.22.-4043-76MB, server: 149.22.87.240, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-4714-81MB, server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-8940-21MB, server: 82.38.31.174, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇩🇪 DE-18.198.-8312-42MB, server: teaching-gnu.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: teaching-gnu.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0154, server: 156.146.59.15, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0035, server: 84.239.49.201, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0094, server: 193.176.84.19, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0028, server: 84.239.49.49, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0067, server: 84.239.49.56, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇳🇱 NL-SPEEDNODE-0019, server: 84.17.47.148, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
-  - {name: 🇦🇺 AU-87.121.-8098-05MB, server: humorous-llama.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: humorous-llama.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-173.244-5606-39MB, server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇯🇵 JP-10|4.8MB S, server: 13.231.180.231, port: 443, type: trojan, password: FH72359861, sni: set-gazelle.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 JP-7|3.2MB S, server: grateful-leech.rooster465.autos, port: 443, type: trojan, password: FH72359861, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0124, server: 138.199.35.210, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0149, server: 156.146.59.19, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0151, server: 156.146.59.41, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-18.181.-9011-94MB, server: 18.181.164.216, port: 443, type: trojan, password: ND91608427, sni: upright-impala.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.176-0234, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: RO-SPEEDNODE-0078, server: 84.239.49.245, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇸🇬 SG-5|1.3MB S, server: charming-ox.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: charming-ox.rooster465.autos, skip-cert-verify: true, udp: true}
-  - {name: 🇯🇵 JP-18.181.-7147-95MB, server: moral-buzzard.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: moral-buzzard.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 KR-43.203.-4019-64MB, server: grateful-owl.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: grateful-owl.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0032, server: 84.239.49.59, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-18.181.-8107-08MB, server: upright-impala.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: upright-impala.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0061, server: 84.239.49.191, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-156.146-9619-05MB, server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇭🇰 HK-91.199.84.120-0203, server: dynamic-grubworm.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: dynamic-grubworm.rooster465.autos, udp: true}
-  - {name: RO-SPEEDNODE-0059, server: 84.239.49.196, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-18.183.-8116-86MB, server: exciting-grizzly.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: exciting-grizzly.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 KR-3.38.106.2-0166, server: communal-sunbird.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: communal-sunbird.rooster465.autos, udp: true}
-  - {name: 🇯🇵 JP-57.180.-6310-79MB, server: 57.180.13.78, port: 443, type: trojan, password: ND91608427, sni: healthy-louse.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0038, server: 84.239.49.189, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-13.114.-2510-37MB, server: 13.114.122.131, port: 443, type: trojan, password: AE62539071, sni: whole-grub.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-156.146-8312-55MB, server: 156.146.38.168, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇳🇱 NL-193.29.-1509-22MB, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: RO-SPEEDNODE-0055, server: 84.239.49.43, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-149.22.-8101-46MB, server: 149.22.87.204, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇰🇷 KR-3.36.108.20-0165, server: sacred-hound.rooster465.autos, port: 443, type: trojan, password: AE62539071, udp: true}
-  - {name: RO-SPEEDNODE-0077, server: 84.239.14.152, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-11|4.8MB S, server: 13.231.237.228, port: 443, type: trojan, password: FH72359861, sni: classic-pug.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: ZA-102.133-0161-37MB, server: 102.133.165.160, port: 16233, type: ss, cipher: chacha20-ietf-poly1305, password: Xsy8Ox4yOV3xLlpxtjzs3X, udp: true}
-  - {name: 🇰🇷 KR-3.35.140.99-0172, server: 3.35.140.99, port: 443, type: trojan, password: ND91608427, sni: moved-meerkat.rooster465.autos, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0156, server: 156.146.59.34, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇫🇷 FR-51.44.160.58-0236, server: great-krill.rooster465.autos, port: 443, type: trojan, password: QV31589740, sni: great-krill.rooster465.autos, udp: true}
-  - {name: 🇭🇰 HK-185.244-0725-52MB, server: strong-haddock.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: strong-haddock.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0088, server: 193.176.84.20, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇰🇷 KR-43.203.-0644-73MB, server: definite-malamute.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: definite-malamute.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 JP-3|5.8MB S, server: bright-quagga.rooster465.autos, port: 443, type: trojan, password: FH72359861, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 US-156.146-8337-89MB, server: 156.146.38.170, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇰🇷 KR-43.201.103.8-0184, server: intimate-moray.rooster465.autos, port: 443, type: trojan, password: ND91608427, udp: true}
-  - {name: IE-54.72.58.12-0390, server: darling-mongrel.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: darling-mongrel.rooster465.autos, udp: true}
-  - {name: 🇰🇷 KR-43.203.-1609-12MB, server: massive-ocelot.rooster465.autos, port: 443, type: trojan, password: FH72359861, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-37.19.1-0265-23MB, server: 37.19.198.236, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇯🇵 JP-14|5.7MB S, server: 3.112.250.103, port: 443, type: trojan, password: FH72359861, sni: flexible-pony.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 JP-160.16.-8117-97MB, server: t11.qifei.app, port: 55682, type: trojan, password: 7d8e6db4-96cc-4710-afc0-619edde2d7a1, sni: t11.qifei.app, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0057, server: 84.239.49.50, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-13.113.-0766-35MB, server: trusting-elf.rooster465.autos, port: 443, type: trojan, password: FH72359861, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 俄勒冈州波特兰AMAZON数据中心, server: vpn-us-006.fastervpn.world, port: 443, type: hysteria2, password: H7mP2xY9kJ4nQ8wR5tF6vB3z, auth: H7mP2xY9kJ4nQ8wR5tF6vB3z, sni: vpn-us-006.fastervpn.world, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0143, server: 156.146.59.28, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-1|2.7MB S, server: rush-6it6b.teeopp.quest, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: rush-6it6b.teeopp.quest, network: ws, ws-opts: {path: /video/kz49hf/gbin5jve.m3u8, headers: {Host: rush-6it6b.teeopp.quest}}, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0150, server: 156.146.59.31, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0158, server: 156.146.59.39, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-82.38.31.10-0231, server: 82.38.31.10, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0130, server: 138.199.35.214, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0085, server: 84.239.49.194, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-82.38.3-0817-24MB, server: 82.38.31.187, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇨🇦 CA-137.184-3610-13MB, server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.15-0082, server: 82.38.31.15, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇰🇷 KR-3.36.13-1808-97MB, server: humorous-malamute.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: humorous-malamute.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0102, server: 84.239.49.160, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-173.244.56.9-4596, server: 173.244.56.9, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇰🇷 KR-13.125.-5056-17MB, server: kind-grizzly.rooster465.autos, port: 443, type: trojan, password: FH72359861, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-1299-52MB, server: 82.38.31.149, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇩🇪 DE-3.120.70.66-1658, server: renewed-porpoise.rooster465.autos, port: 443, type: trojan, password: FH72359861, udp: true}
-  - {name: RO-SPEEDNODE-0090, server: 193.176.84.24, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇵🇱 PL-202.78.-0616-27MB, server: 202.78.163.248, port: 443, type: trojan, password: ND91608427, sni: relaxed-gull.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇳🇱 NL-SPEEDNODE-0021, server: 84.17.47.149, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0070, server: 84.239.49.192, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0101, server: 84.239.49.211, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-45.32.16.53-4635, server: 45.32.16.53, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: uTBjZhDmOMwBVAJI, udp: true}
-  - {name: 🇯🇵 JP-54.65.1-1668-37MB, server: tough-robin.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: tough-robin.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0041, server: 84.239.49.229, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-美国, server: www.wto.org, port: 2053, type: vless, uuid: 65c56e1f-5c41-40bc-b0b5-9346772476ca, tls: true, servername: usa.105794.xyz, client-fingerprint: edge, network: ws, ws-opts: {path: /download/v3/installer-x64.bin, headers: {Host: usa.105794.xyz}}, udp: true}
-  - {name: RO-SPEEDNODE-0099, server: 84.239.49.234, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-82.38.31.34-0066, server: 82.38.31.34, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇯🇵 JP-18.179.-1412-36MB, server: supreme-lobster.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: supreme-lobster.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇷🇺 RU-俄罗斯-1, server: 87.228.122.100, port: 2200, type: vless, uuid: 099c6e3f-e8d3-41d4-95f2-ef2eafb51cdc, tls: false, network: ws, ws-opts: {path: /v1, headers: {Host: rzd.ru}}, udp: true}
-  - {name: 🇯🇵 JP-15|4.2MB S, server: 52.196.34.5, port: 443, type: trojan, password: FH72359861, sni: welcome-owl.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇵🇱 PL-202.78.-6380-41MB, server: 202.78.163.148, port: 443, type: trojan, password: ND91608427, sni: discrete-basilisk.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-1821-33MB, server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇯🇵 JP-17|2.1MB S, server: 54.64.38.110, port: 443, type: trojan, password: FH72359861, sni: equal-labrador.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 JP-13.230.-9061-22MB, server: real-werewolf.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: real-werewolf.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 GB-94.156.-4100-93MB, server: 94.156.250.148, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: 🇩🇪 DE-209.46.-2262-28MB, server: 209.46.102.22, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 1hhrqrokj3ag, udp: true}
-  - {name: 🇯🇵 JP-52.194.-1211-27MB, server: 52.194.223.176, port: 443, type: trojan, password: AE62539071, sni: clear-heron.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0153, server: 156.146.59.25, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: IE-34.251.-5824-96MB, server: definite-ladybird.rooster465.autos, port: 443, type: trojan, password: UO36402987, sni: definite-ladybird.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 JP-54.65.1-7088-47MB, server: 54.65.167.167, port: 443, type: trojan, password: ND91608427, sni: tough-robin.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 JP-13|4.7MB S, server: 18.183.245.11, port: 443, type: trojan, password: FH72359861, sni: bright-buffalo.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 KR-43.203.-7677-31MB, server: 43.203.247.197, port: 443, type: trojan, password: ND91608427, sni: definite-malamute.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 JP-3.112.2-1312-08MB, server: internal-sunbird.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: internal-sunbird.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 KR-2|5.5MB S, server: 43.202.61.210, port: 443, type: trojan, password: FH72359861, sni: loyal-molly.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-44.242.-4139-28MB, server: devoted-tapir.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: devoted-tapir.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0138, server: 138.199.35.211, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇳🇱 NL-193.29.-0818-12MB, server: 193.29.139.168, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0148, server: 156.146.59.9, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0086, server: 193.176.84.25, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-3.112.1-7111-62MB, server: 3.112.15.214, port: 443, type: trojan, password: ND91608427, sni: adjusted-labrador.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0140, server: 138.199.35.213, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-3.113.24.17-0115, server: nearby-egret.rooster465.autos, port: 443, type: trojan, password: ND91608427, udp: true}
-  - {name: 🇰🇷 KR-3.36.13-0181-49MB, server: 3.36.131.218, port: 443, type: trojan, password: ND91608427, sni: humorous-malamute.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.48-0060, server: 82.38.31.48, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇯🇵 JP-52.196.-8118-95MB, server: thankful-mustang.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: thankful-mustang.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 KR-221.139.79.57-0245, server: 221.139.79.57, port: 13979, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: 🇯🇵 JP-18.181.-2100-77MB, server: sure-humpback.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: sure-humpback.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 KR-3.38.15-1921-84MB, server: apt-whippet.rooster465.autos, port: 443, type: trojan, password: FH72359861, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0133, server: 138.199.35.197, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-美国-TH-泰国-2, server: 52.84.199.28, port: 443, type: vless, uuid: 7ce54bb3-d612-4aa7-be08-089d3c461d53, tls: true, servername: d1yxsk0zprgivr.cloudfront.net, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: d1yxsk0zprgivr.cloudfront.net}}, udp: true}
   - {name: RO-SPEEDNODE-0072, server: 84.239.49.230, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-141.98.-1035-94MB, server: 141.98.101.181, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇺🇸 US-44.246.-0015-98MB, server: fleet-bonefish.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: fleet-bonefish.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0051, server: 84.239.49.40, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-216.105-2061-49MB, server: 216.105.168.18, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hCCWOcIsK5wrFz4OX70rWf, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-1618-92MB, server: 82.38.31.186, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇯🇵 JP-13.231.-2163-55MB, server: 13.231.232.184, port: 443, type: trojan, password: ND91608427, sni: better-molly.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 英国, server: 185.109.48.13, port: 2053, type: vless, uuid: c7e9c591-2764-423a-afca-efbd010fd396, tls: true, servername: forfreeuse.rtqa.ru, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: forfreeuse.rtqa.ru}}, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-1007-85MB, server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: RO-SPEEDNODE-0026, server: 193.176.84.39, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
-  - {name: 🇭🇰 HK-91.199.84.155-0392, server: modern-bedbug.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: modern-bedbug.rooster465.autos, udp: true}
-  - {name: RO-SPEEDNODE-0036, server: 84.239.49.162, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇵🇱 PL-202.78.-3018-76MB, server: discrete-basilisk.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: discrete-basilisk.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0049, server: 84.239.49.185, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0113, server: 84.239.49.187, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-82.38.31.36-0069, server: 82.38.31.36, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇹🇼 TW-61.231.48.199-0214, server: r3mrcg001286ek2.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
-  - {name: 🇰🇷 KR-141.164.45.187-4565, server: 141.164.45.187, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: 🇩🇪 DE-18.194.-3121-62MB, server: sterling-macaw.rooster465.autos, port: 443, type: trojan, password: AE62539071, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0064, server: 84.239.49.225, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0037, server: 84.239.49.244, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇰🇷 KR-52.79.2-1021-13MB, server: 52.79.210.229, port: 443, type: trojan, password: ND91608427, sni: chief-bluegill.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 HK-95.40.8.2-0151, server: 2c.fast9988.com, port: 50887, type: trojan, password: 6ec301428255a78a1d826988d86cc87e, sni: www.nintendogames.net, udp: true}
-  - {name: 🇯🇵 JP-54.249.-1384-42MB, server: 54.249.34.120, port: 443, type: trojan, password: ND91608427, sni: social-mutt.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 JP-8|3.9MB S, server: engaged-lionfish.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: engaged-lionfish.rooster465.autos, skip-cert-verify: true, udp: true}
-  - {name: RO-SPEEDNODE-0060, server: 84.239.14.156, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-82.38.3-1008-22MB, server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: IE-54.74.1-0910-11MB, server: kind-stork.rooster465.autos, port: 443, type: trojan, password: AE62539071, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-3718-08MB, server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇯🇵 JP-18.183.-0116-86MB, server: exciting-grizzly.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: exciting-grizzly.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.35-0086, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: RO-SPEEDNODE-0110, server: 193.176.84.31, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
+  - {name: 🇳🇱 NL-193.29.-2799-84MB, server: 193.29.139.204, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: RO-SPEEDNODE-0089, server: 193.176.84.34, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇳🇱 NL-89.39.7-2501-87MB, server: pro-crane.rooster465.autos, port: 443, type: trojan, password: FH72359861, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0118, server: 172.66.44.97, port: 443, type: vless, uuid: 83afd88f-200f-4d89-bfc7-66eff160c1d8, tls: true, servername: josni.hoyes.cloudns.ch, network: ws, ws-opts: {path: "/musiclovers85_musiclovers85?ed=512", headers: {Host: josni.hoyes.cloudns.ch}}, udp: true}
+  - {name: 🇺🇸 US-44.242.-2591-28MB, server: devoted-tapir.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: devoted-tapir.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0046, server: 193.176.84.16, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0033, server: 84.239.14.148, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇰🇷 KR-43.203.-4622-64MB, server: grateful-owl.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: grateful-owl.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 KR-13.125.71.58-4572, server: capable-jay.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: capable-jay.rooster465.autos, udp: true}
+  - {name: RO-SPEEDNODE-0081, server: 84.239.49.182, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: IE-54.72.58.12-0390, server: darling-mongrel.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: darling-mongrel.rooster465.autos, udp: true}
+  - {name: 🇺🇸 US-44.246.-5250-98MB, server: fleet-bonefish.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: fleet-bonefish.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP-54.249.-0161-42MB, server: 54.249.34.120, port: 443, type: trojan, password: ND91608427, sni: social-mutt.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇳🇱 NL-108.181-1332-46MB, server: 108.181.58.239, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: CJmTCCx7Ltud, udp: true}
+  - {name: 🇯🇵 JP-149.22.-0124-76MB, server: 149.22.87.240, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
   - {name: 🇬🇧 GB-82.38.31.46-0071, server: 82.38.31.46, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
   - {name: 🇳🇱 NL-SPEEDNODE-0016, server: 84.17.47.146, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0062, server: 84.239.14.149, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 US-37.19.1-1293-24MB, server: 37.19.198.243, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0136, server: 138.199.35.195, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0053, server: 84.239.49.57, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-149.22.-7110-84MB, server: 149.22.87.241, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇰🇷 KR-54.180.-2420-98MB, server: pure-ram.rooster465.autos, port: 443, type: trojan, password: ND91608427, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP-13.230.-1119-22MB, server: real-werewolf.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: real-werewolf.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP-57.180.-1217-77MB, server: picked-guinea.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: picked-guinea.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇫🇷 FR-51.44.1-6155-33MB, server: distinct-quail.rooster465.autos, port: 443, type: trojan, password: AE62539071, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0088, server: 193.176.84.20, port: 9002, type: http, tls: true, skip-cert-verify: true}
   - {name: 🇯🇵 JP-1|4.9MB S, server: welcome-owl.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: welcome-owl.rooster465.autos, skip-cert-verify: true, udp: true}
-  - {name: 🇯🇵 JP-3.113.1.131-0118, server: perfect-slug.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: perfect-slug.rooster465.autos, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0152, server: 156.146.59.8, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇰🇷 KR-3.36.59.34-0187, server: 3.36.59.34, port: 443, type: trojan, password: ND91608427, sni: select-ferret.rooster465.autos, udp: true}
-  - {name: RO-SPEEDNODE-0027, server: 84.239.49.154, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-82.38.3-1969-06MB, server: 82.38.31.216, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: RO-SPEEDNODE-0092, server: 84.239.14.154, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇨🇦 CA-51.222.12.127-1650, server: 51.222.12.127, port: 445, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0131, server: 138.199.35.206, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
-  - {name: 🇭🇰 HK-185.244-0820-64MB, server: upright-hamster.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: upright-hamster.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 JP-57.180.-1338-84MB, server: healthy-louse.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: healthy-louse.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.219-0235, server: 82.38.31.219, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: RO-SPEEDNODE-0082, server: 84.239.49.197, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
+  - {name: 🇰🇷 KR-52.79.2-2061-13MB, server: 52.79.210.229, port: 443, type: trojan, password: ND91608427, sni: chief-bluegill.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP-18.181.-1024-08MB, server: upright-impala.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: upright-impala.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0149, server: 156.146.59.19, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-54.64.2-2153-35MB, server: 54.64.255.224, port: 443, type: trojan, password: AE62539071, sni: maximum-elk.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-0020-52MB, server: 82.38.31.149, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇳🇱 NL-193.29.-9879-22MB, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: RO-SPEEDNODE-0057, server: 84.239.49.50, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: IE-1|2.3MB S, server: 3.253.78.205, port: 443, type: trojan, password: FH72359861, sni: balanced-heron.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-9190-26MB, server: 82.38.31.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: RO-SPEEDNODE-0069, server: 84.239.49.231, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇰🇷 KR-43.201.-4190-15MB, server: exotic-chow.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: exotic-chow.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-6005-03MB, server: 82.38.31.205, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0140, server: 138.199.35.213, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 美国 麻省理工学院, server: 18.239.134.69, port: 80, type: vless, uuid: de27291c-15a9-4256-9ba7-ad517569877e, tls: false, network: ws, ws-opts: {path: /, headers: {Host: d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com}}, udp: true}
+  - {name: 🇯🇵 JP-2|1.9MB S, server: equal-labrador.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: equal-labrador.rooster465.autos, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 JP-57.180.-2581-16MB, server: 57.180.27.225, port: 443, type: trojan, password: ND91608427, sni: picked-guinea.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0113, server: 84.239.49.187, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-44.246.-5330-02MB, server: 44.246.163.102, port: 443, type: trojan, password: ND91608427, sni: fleet-bonefish.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP-13.114.-1015-37MB, server: 13.114.122.131, port: 443, type: trojan, password: AE62539071, sni: whole-grub.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇸🇬 SG-13.212.-1269-86MB, server: integral-quetzal.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: integral-quetzal.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 KR-43.203.-3324-91MB, server: 43.203.244.203, port: 443, type: trojan, password: ND91608427, sni: grateful-owl.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP-52.68.1-0532-47MB, server: 52.68.175.30, port: 443, type: trojan, password: AE62539071, sni: on-roughy.rooster465.autos, skip-cert-verify: false, udp: true}
   - {name: 🇵🇱 PL-波兰, server: pl4.lckdwn.ru, port: 443, type: vless, uuid: 5e7ecc47-e424-4653-876e-c7515a2c82b4, tls: false, network: ws, ws-opts: {path: /, headers: {Host: pl4.lckdwn.ru}}, udp: true}
-  - {name: 🇺🇸 US-156.146-2702-97MB, server: 156.146.38.167, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: RO-SPEEDNODE-0096, server: 84.239.49.159, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-82.38.31.199-0194, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-2740-89MB, server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: RO-SPEEDNODE-0079, server: 84.239.49.200, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇳🇱 NL-213.109.147.242-0228, server: 213.109.147.242, port: 62685, type: ss, cipher: chacha20-ietf-poly1305, password: VpKABcOpNNA0l5G2AVOmw8, udp: true}
-  - {name: 🇰🇷 KR-52.79.2-2057-59MB, server: chief-bluegill.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: chief-bluegill.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-44.246.-5370-02MB, server: 44.246.163.102, port: 443, type: trojan, password: ND91608427, sni: fleet-bonefish.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 JP-18|5.5MB S, server: 57.180.23.141, port: 443, type: trojan, password: FH72359861, sni: engaged-lionfish.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇵🇱 PL-202.78.-1563-64MB, server: primary-leech.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: primary-leech.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0128, server: 138.199.35.212, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0106, server: 84.239.49.42, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇭🇰 HK-185.244-6200-73MB, server: ace-starling.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: ace-starling.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0133, server: 138.199.35.197, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-82.38.31.35-0059, server: 82.38.31.35, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇺🇸 US-SPEEDNODE-0129, server: 138.199.35.208, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇵🇱 PL-202.78.-6360-14MB, server: magnetic-caiman.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: magnetic-caiman.rooster465.autos, skip-cert-verify: false, udp: true}
-  - {name: RO-SPEEDNODE-0110, server: 193.176.84.31, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
-  - {name: 🇳🇱 NL-92.112.126.90-0244, server: switcher-nick-croquet.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9tqhMdIrTkgQ46PvhyAtMH, udp: true}
-  - {name: 🇳🇱 NL-109.201-0913-07MB, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, udp: true}
-  - {name: RO-SPEEDNODE-0087, server: 84.239.49.175, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇬🇧 GB-82.38.3-7108-08MB, server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇺🇸 US-1|2.7MB S, server: rush-6it6b.teeopp.quest, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: rush-6it6b.teeopp.quest, network: ws, ws-opts: {path: /video/kz49hf/gbin5jve.m3u8, headers: {Host: rush-6it6b.teeopp.quest}}, udp: true}
+  - {name: 🇺🇸 US-156.146-1121-05MB, server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇯🇵 JP-3.112.2-0311-45MB, server: 3.112.238.99, port: 443, type: trojan, password: ND91608427, sni: stunning-mite.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 KR-52.79.2-0101-59MB, server: chief-bluegill.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: chief-bluegill.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.48-0060, server: 82.38.31.48, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇰🇷 KR-13.125.-1744-71MB, server: viable-serval.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: viable-serval.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: IE-34.251.-2141-96MB, server: definite-ladybird.rooster465.autos, port: 443, type: trojan, password: UO36402987, sni: definite-ladybird.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0157, server: 156.146.59.10, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0148, server: 156.146.59.9, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-15|4.2MB S, server: 52.196.34.5, port: 443, type: trojan, password: FH72359861, sni: welcome-owl.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0094, server: 193.176.84.19, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0101, server: 84.239.49.211, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0144, server: 156.146.59.5, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇦🇺 AU-87.121.33.82-0208, server: darling-mutt.rooster465.autos, port: 443, type: trojan, password: AE62539071, udp: true}
+  - {name: RO-SPEEDNODE-0064, server: 84.239.49.225, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇰🇷 KR-13.125.-5560-17MB, server: kind-grizzly.rooster465.autos, port: 443, type: trojan, password: FH72359861, skip-cert-verify: false, udp: true}
+  - {name: 🇳🇱 NL-193.169-0141-43MB, server: thorough-falcon.rooster465.autos, port: 443, type: trojan, password: AE62539071, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0080, server: 84.239.49.170, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-57.180.-3701-79MB, server: 57.180.13.78, port: 443, type: trojan, password: ND91608427, sni: healthy-louse.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0150, server: 156.146.59.31, port: 9002, type: http, tls: true, skip-cert-verify: true}
   - {name: RO-SPEEDNODE-0054, server: 84.239.49.235, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
+  - {name: 🇩🇪 DE-209.46.-1095-28MB, server: 209.46.102.22, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 1hhrqrokj3ag, udp: true}
+  - {name: RO-SPEEDNODE-0032, server: 84.239.49.59, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇰🇷 KR-43.203.-5421-75MB, server: charming-puma.rooster465.autos, port: 443, type: trojan, password: FH72359861, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.34-0066, server: 82.38.31.34, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: RO-SPEEDNODE-0041, server: 84.239.49.229, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0027, server: 84.239.49.154, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
+  - {name: 🇰🇷 KR-43.203.119.20-0177, server: 43.203.119.20, port: 443, type: trojan, password: ND91608427, sni: uncommon-feline.rooster465.autos, udp: true}
+  - {name: RO-SPEEDNODE-0099, server: 84.239.49.234, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇳🇱 NL-193.29.-0825-22MB, server: 193.29.139.235, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇳🇱 NL-193.29.-0110-62MB, server: 193.29.139.147, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇺🇸 US-54.244.-5964-19MB, server: sharing-duck.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: sharing-duck.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0085, server: 84.239.49.194, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0139, server: 138.199.35.199, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇰🇷 KR-43.201.56.44-0182, server: distinct-llama.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: distinct-llama.rooster465.autos, udp: true}
+  - {name: 🇺🇸 US-156.146-0843-55MB, server: 156.146.38.168, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇯🇵 JP-3.112.2-1391-08MB, server: internal-sunbird.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: internal-sunbird.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP-35.72.13.34-0150, server: casual-bee.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: casual-bee.rooster465.autos, udp: true}
+  - {name: 🇯🇵 JP-18|5.5MB S, server: 57.180.23.141, port: 443, type: trojan, password: FH72359861, sni: engaged-lionfish.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0147, server: 156.146.59.33, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0066, server: 84.239.49.240, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-7|3.2MB S, server: grateful-leech.rooster465.autos, port: 443, type: trojan, password: FH72359861, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 JP-18.183.-6810-59MB, server: 18.183.182.132, port: 443, type: trojan, password: AE62539071, sni: exciting-grizzly.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0052, server: 84.239.14.159, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0087, server: 84.239.49.175, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇦🇺 AU-87.121.-5892-05MB, server: humorous-llama.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: humorous-llama.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0102, server: 84.239.49.160, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇰🇷 KR-43.203.-1577-31MB, server: 43.203.247.197, port: 443, type: trojan, password: ND91608427, sni: definite-malamute.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 US-44.244.-1034-51MB, server: 44.244.3.114, port: 443, type: trojan, password: ND91608427, sni: pet-ghost.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0028, server: 84.239.49.49, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇰🇷 KR-3.36.13-8121-97MB, server: humorous-malamute.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: humorous-malamute.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0104, server: 84.239.49.207, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇭🇰 香港 特别行政区, server: 202.146.222.89, port: 443, type: hysteria2, password: H7mP2xY9kJ4nQ8wR5tF6vB3z, auth: H7mP2xY9kJ4nQ8wR5tF6vB3z, sni: https%3A%2F%2Ft.me%2Fclashv8%F0%9F%87%A8%F0%9F%87%B3, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0146, server: 156.146.59.23, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0156, server: 156.146.59.34, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇰🇷 KR-43.203.-1610-73MB, server: definite-malamute.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: definite-malamute.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇩🇪 DE-2|4.2MB S, server: 35.159.21.7, port: 443, type: trojan, password: FH72359861, sni: summary-lemming.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP-3.112.1-1225-03MB, server: adjusted-labrador.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: adjusted-labrador.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-2480-89MB, server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: IE-54.74.1-9439-11MB, server: kind-stork.rooster465.autos, port: 443, type: trojan, password: AE62539071, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0091, server: 193.176.84.29, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0036, server: 84.239.49.162, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0103, server: 84.239.49.239, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇭🇰 HK-95.40.8.2-0151, server: 2c.fast9988.com, port: 50887, type: trojan, password: 6ec301428255a78a1d826988d86cc87e, sni: www.nintendogames.net, udp: true}
+  - {name: RO-SPEEDNODE-0029, server: 84.239.49.155, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-18.181.-1810-77MB, server: sure-humpback.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: sure-humpback.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 HK-185.244-2089-51MB, server: upright-bedbug.rooster465.autos, port: 443, type: trojan, password: AE62539071, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 US-198.98.-5003-67MB, server: 198.98.53.130, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: eDfN7SODQceIOmIAbtJJtK, udp: true}
+  - {name: 🇯🇵 JP-54.65.1-6601-37MB, server: tough-robin.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: tough-robin.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP-16|3.5MB S, server: 54.238.194.119, port: 443, type: trojan, password: FH72359861, sni: relaxing-marten.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 HK-185.244-1080-73MB, server: ace-starling.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: ace-starling.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP-54.249.-1028-48MB, server: social-mutt.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: social-mutt.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0058, server: 84.239.49.199, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇳🇱 NL-193.29.-1901-12MB, server: 193.29.139.168, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true}
+  - {name: 🇩🇪 DE-SPEEDNODE-0001, server: 167.172.172.190, port: 443, type: http, username: testuser1, password: e4b72b531a2d10900519, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-37.19.1-2439-24MB, server: 37.19.198.243, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0141, server: fan.226278.xyz, port: 443, type: http, tls: true}
+  - {name: 🇬🇧 GB-82.38.31.176-0234, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇩🇪 DE-35.159.21.7-0393, server: summary-lemming.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: summary-lemming.rooster465.autos, udp: true}
+  - {name: 🇫🇷 FR-15.237.-2792-48MB, server: 15.237.137.197, port: 443, type: trojan, password: ND91608427, sni: fancy-skink.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0130, server: 138.199.35.214, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇰🇷 KR-3.35.140.99-0172, server: 3.35.140.99, port: 443, type: trojan, password: ND91608427, sni: moved-meerkat.rooster465.autos, udp: true}
+  - {name: 🇷🇺 俄罗斯, server: 91.193.58.218, port: 2096, type: vless, uuid: 6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2, tls: true, servername: free-server.techsonic.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /free-server.techsonic.dev, headers: {Host: free-server.techsonic.dev}}, udp: true}
+  - {name: RO-SPEEDNODE-0106, server: 84.239.49.42, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0096, server: 84.239.49.159, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0131, server: 138.199.35.206, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
+  - {name: 🇬🇧 GB-82.38.3-9612-35MB, server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-1170-58MB, server: 82.38.31.192, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇰🇷 KR-3.38.106.2-0166, server: communal-sunbird.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: communal-sunbird.rooster465.autos, udp: true}
+  - {name: 🇯🇵 JP-54.65.1-1866-47MB, server: 54.65.167.167, port: 443, type: trojan, password: ND91608427, sni: tough-robin.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0055, server: 84.239.49.43, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0038, server: 84.239.49.189, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-3.112.2-3877-34MB, server: 3.112.223.141, port: 443, type: trojan, password: ND91608427, sni: internal-sunbird.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 KR-13.125.-8160-47MB, server: saving-octopus.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: saving-octopus.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: NO-185.213.23.63-4634, server: 185.213.23.63, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true}
+  - {name: IE-54.170.-0045-72MB, server: unbiased-garfish.rooster465.autos, port: 443, type: trojan, password: AE62539071, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP-4|3.2MB S, server: driven-bulldog.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: driven-bulldog.rooster465.autos, skip-cert-verify: true, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.198-0196, server: 82.38.31.198, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: RO-SPEEDNODE-0035, server: 84.239.49.201, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0073, server: 84.239.49.62, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
+  - {name: 🇰🇷 KR-43.201.-4664-64MB, server: firm-krill.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: firm-krill.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-2010-33MB, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇺🇸 US-156.146-1780-97MB, server: 156.146.38.167, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇺🇸 US-108.181-0806-07MB, server: 108.181.0.177, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: G5p6ww4o67HB, udp: true}
+  - {name: 🇰🇷 KR-3.38.15-0114-84MB, server: apt-whippet.rooster465.autos, port: 443, type: trojan, password: FH72359861, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 US-美国-TH-泰国, server: 18.244.214.27, port: 443, type: vless, uuid: 7ce54bb3-d612-4aa7-be08-089d3c461d53, tls: true, servername: d1yxsk0zprgivr.cloudfront.net, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: d1yxsk0zprgivr.cloudfront.net}}, udp: true}
+  - {name: 🇫🇷 FR-SPEEDNODE-0002, server: 51.159.225.196, port: 23856, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇵🇱 PL-202.78.-3201-41MB, server: 202.78.163.148, port: 443, type: trojan, password: ND91608427, sni: discrete-basilisk.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0040, server: 193.176.84.17, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-173.244.56.9-4596, server: 173.244.56.9, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇰🇷 KR-43.201.103.8-0184, server: intimate-moray.rooster465.autos, port: 443, type: trojan, password: ND91608427, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.49-0090, server: 82.38.31.49, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: RO-SPEEDNODE-0111, server: 84.239.49.164, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-18.181.-1978-95MB, server: moral-buzzard.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: moral-buzzard.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP-3.113.1.131-0118, server: perfect-slug.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: perfect-slug.rooster465.autos, udp: true}
+  - {name: 🇵🇱 PL-202.78.-2458-27MB, server: 202.78.163.248, port: 443, type: trojan, password: ND91608427, sni: relaxed-gull.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0043, server: 193.176.84.38, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇬🇧 GB-82.38.31.57-0084, server: 82.38.31.57, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: RO-SPEEDNODE-0093, server: 84.239.49.204, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇬🇧 GB-82.38.31.2-0230, server: 82.38.31.2, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇯🇵 JP-13.231.-8211-97MB, server: better-molly.rooster465.autos, port: 443, type: trojan, password: ND91608427, skip-cert-verify: false, udp: true}
+  - {name: IE-54.74.1-5105-41MB, server: 54.74.159.195, port: 443, type: trojan, password: AE62539071, sni: kind-stork.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0075, server: 84.239.49.163, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇭🇰 HK-185.244-7001-64MB, server: upright-hamster.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: upright-hamster.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0128, server: 138.199.35.212, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇵🇱 PL-202.78.-2303-64MB, server: primary-leech.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: primary-leech.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0031, server: 84.239.49.168, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇭🇰 HK-185.244-8918-93MB, server: 185.244.208.13, port: 443, type: trojan, password: ND91608427, sni: ace-starling.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0060, server: 84.239.14.156, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0142, server: 156.146.59.4, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0112, server: 84.239.49.183, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇬🇧 GB-82.38.31.199-0194, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇵🇱 PL-202.78.-6233-14MB, server: magnetic-caiman.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: magnetic-caiman.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0105, server: 84.239.49.165, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇬🇧 GB-94.156.-2150-93MB, server: 94.156.250.148, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: 🇰🇷 KR-43.201.-5165-17MB, server: 43.201.56.44, port: 443, type: trojan, password: ND91608427, sni: distinct-llama.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-146.70.-0033-91MB, server: 146.70.61.37, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-1900-21MB, server: 82.38.31.174, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: RO-SPEEDNODE-0039, server: 84.239.49.253, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇰🇷 KR-3.36.108.20-0165, server: sacred-hound.rooster465.autos, port: 443, type: trojan, password: AE62539071, udp: true}
+  - {name: ZA-102.37.-0461-68MB, server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true}
+  - {name: 🇰🇷 KR-43.203.-5001-12MB, server: massive-ocelot.rooster465.autos, port: 443, type: trojan, password: FH72359861, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0076, server: 84.239.49.58, port: 9002, type: http, username: "null", password: "null", tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0062, server: 84.239.14.149, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇩🇪 DE-3.120.70.66-1658, server: renewed-porpoise.rooster465.autos, port: 443, type: trojan, password: FH72359861, udp: true}
+  - {name: 🇵🇱 PL-202.78.-2066-41MB, server: relaxed-gull.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: relaxed-gull.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇫🇷 FR-15.237.-7490-49MB, server: fancy-skink.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: fancy-skink.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 US-156.146-8330-89MB, server: 156.146.38.170, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇺🇸 US-37.19.1-2080-56MB, server: 37.19.198.160, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0138, server: 138.199.35.211, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-52.194.-1947-54MB, server: clear-heron.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: clear-heron.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP-3|5.8MB S, server: bright-quagga.rooster465.autos, port: 443, type: trojan, password: FH72359861, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 JP-14|5.7MB S, server: 3.112.250.103, port: 443, type: trojan, password: FH72359861, sni: flexible-pony.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP-13.113.-5870-35MB, server: trusting-elf.rooster465.autos, port: 443, type: trojan, password: FH72359861, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-8610-06MB, server: 82.38.31.216, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: RO-SPEEDNODE-0030, server: 84.239.49.202, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0120, server: www.true.th, port: 443, type: vless, uuid: 7ce54bb3-d612-4aa7-be08-089d3c461d53, tls: true, servername: d1yxsk0zprgivr.cloudfront.net, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: d1yxsk0zprgivr.cloudfront.net}}, udp: true}
+  - {name: 🇯🇵 JP-54.95.1-0885-09MB, server: 54.95.128.248, port: 443, type: trojan, password: AE62539071, sni: engaged-ram.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0045, server: 84.239.49.181, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0049, server: 84.239.49.185, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇳🇱 NL-109.201-1980-07MB, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0136, server: 138.199.35.195, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-45.32.16.53-4635, server: 45.32.16.53, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: uTBjZhDmOMwBVAJI, udp: true}
+  - {name: 🇯🇵 JP-13.115.-6098-02MB, server: polished-imp.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: polished-imp.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0084, server: 84.239.49.171, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇨🇦 CA-108.181-1158-16MB, server: 108.181.118.10, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: G5p6ww4o67HB, udp: true}
+  - {name: IE-34.251.-8410-01MB, server: 34.251.228.118, port: 443, type: trojan, password: UO36402987, sni: definite-ladybird.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇳🇱 NL-SPEEDNODE-0021, server: 84.17.47.149, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇳🇱 NL-SPEEDNODE-0019, server: 84.17.47.148, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0129, server: 138.199.35.208, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0079, server: 84.239.49.200, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇬🇧 GB-82.38.3-9798-69MB, server: 82.38.31.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0145, server: 156.146.59.21, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0153, server: 156.146.59.25, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0155, server: 156.146.59.27, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇭🇰 HK-91.199.-1404-64MB, server: 91.199.84.120, port: 443, type: trojan, password: ND91608427, sni: dynamic-grubworm.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP-13.193.-0681-89MB, server: main-impala.rooster465.autos, port: 443, type: trojan, password: AE62539071, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 US-44.244.-0611-94MB, server: pet-ghost.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: pet-ghost.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP-3.113.24.17-0115, server: nearby-egret.rooster465.autos, port: 443, type: trojan, password: ND91608427, udp: true}
+  - {name: 🇯🇵 JP-18.178.-2143-97MB, server: 18.178.132.111, port: 443, type: trojan, password: ND91608427, sni: devoted-heron.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0078, server: 84.239.49.245, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0026, server: 193.176.84.39, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-13.231.-1862-55MB, server: 13.231.232.184, port: 443, type: trojan, password: ND91608427, sni: better-molly.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-0061-33MB, server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇯🇵 JP-57.180.-8321-84MB, server: healthy-louse.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: healthy-louse.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0063, server: 84.239.49.223, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-18.181.-2962-94MB, server: 18.181.164.216, port: 443, type: trojan, password: ND91608427, sni: upright-impala.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-7012-85MB, server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-6970-21MB, server: 82.38.31.174, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇯🇵 JP-18.179.-1812-36MB, server: supreme-lobster.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: supreme-lobster.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0154, server: 156.146.59.15, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-173.244-5050-39MB, server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇦🇺 AU-87.121.-3176-07MB, server: together-dingo.rooster465.autos, port: 443, type: trojan, password: AE62539071, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 KR-2|5.5MB S, server: 43.202.61.210, port: 443, type: trojan, password: FH72359861, sni: loyal-molly.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 KR-3|5.0MB S, server: 54.180.158.231, port: 443, type: trojan, password: FH72359861, sni: precise-locust.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0108, server: 193.176.84.32, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-9|4.5MB S, server: living-hagfish.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: living-hagfish.rooster465.autos, skip-cert-verify: true, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-1807-24MB, server: 82.38.31.187, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-7516-22MB, server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇺🇸 US-217.28.129.81-0239, server: autodiscover.fuzzyaytor.cyou, port: 42982, type: ss, cipher: chacha20-ietf-poly1305, password: yTEXWB6XBHyv9SfQJzCSRWCnRYutFdUXg1wbcbutxPwZE6Uxcurka3GkoatgEdX483XZSHeJp3jXcTShLCRM8rPgMF3vYNfS, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.16-0064, server: 82.38.31.16, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇯🇵 JP-8|3.9MB S, server: engaged-lionfish.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: engaged-lionfish.rooster465.autos, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 JP-149.22.-0117-84MB, server: 149.22.87.241, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇭🇰 HK-91.199.84.120-0203, server: dynamic-grubworm.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: dynamic-grubworm.rooster465.autos, udp: true}
+  - {name: RO-SPEEDNODE-0100, server: 84.239.49.37, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0056, server: 84.239.14.147, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-18.181.-2981-83MB, server: 18.181.194.227, port: 443, type: trojan, password: ND91608427, sni: moral-buzzard.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇦 CA-149.22.95.183-0102, server: 149.22.95.183, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.35-0059, server: 82.38.31.35, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0159, server: 156.146.59.11, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-3.112.1-1519-62MB, server: 3.112.15.214, port: 443, type: trojan, password: ND91608427, sni: adjusted-labrador.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.219-0235, server: 82.38.31.219, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇨🇦 CA-137.184-5019-13MB, server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
+  - {name: 🇸🇬 SG-5|1.3MB S, server: charming-ox.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: charming-ox.rooster465.autos, skip-cert-verify: true, udp: true}
+  - {name: RO-SPEEDNODE-0077, server: 84.239.14.152, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇦🇺 AU-87.121.-3808-21MB, server: wanted-marmoset.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: wanted-marmoset.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0047, server: 193.176.84.33, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0152, server: 156.146.59.8, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇰🇷 KR-54.180.-4188-31MB, server: 54.180.228.238, port: 443, type: trojan, password: ND91608427, sni: pure-ram.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0071, server: 84.239.49.217, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0051, server: 84.239.49.40, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-12|2.8MB S, server: 18.183.226.106, port: 443, type: trojan, password: FH72359861, sni: living-hagfish.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇩🇪 DE-18.194.-3810-62MB, server: sterling-macaw.rooster465.autos, port: 443, type: trojan, password: AE62539071, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0042, server: 84.239.49.241, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-美国-TH-泰国-1, server: 18.238.109.26, port: 443, type: vless, uuid: 7ce54bb3-d612-4aa7-be08-089d3c461d53, tls: true, servername: d1yxsk0zprgivr.cloudfront.net, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: d1yxsk0zprgivr.cloudfront.net}}, udp: true}
+  - {name: RO-SPEEDNODE-0086, server: 193.176.84.25, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇳🇱 NL-213.109.147.242-0228, server: 213.109.147.242, port: 62685, type: ss, cipher: chacha20-ietf-poly1305, password: VpKABcOpNNA0l5G2AVOmw8, udp: true}
+  - {name: 🇵🇱 PL-202.78.-1152-76MB, server: discrete-basilisk.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: discrete-basilisk.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 KR-3.36.59.34-0159, server: select-ferret.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: select-ferret.rooster465.autos, udp: true}
+  - {name: 🇭🇰 CN-中国-HK-中国香港, server: v9.hdacd.com, port: 30809, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.36-0069, server: 82.38.31.36, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇭🇰 HK-91.199.84.155-0392, server: modern-bedbug.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: modern-bedbug.rooster465.autos, udp: true}
+  - {name: RO-SPEEDNODE-0048, server: 193.176.84.30, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0124, server: 138.199.35.210, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇳🇱 NL-SPEEDNODE-0022, server: 84.17.47.125, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
+  - {name: 🇬🇧 GB-82.38.31.15-0082, server: 82.38.31.15, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: RO-SPEEDNODE-0090, server: 193.176.84.24, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-44.242.-3823-66MB, server: 44.242.235.129, port: 443, type: trojan, password: ND91608427, sni: devoted-tapir.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-8511-64MB, server: 82.38.31.155, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇦🇹 NL-荷兰-AT-奥地利, server: 212.23.221.62, port: 443, type: vless, uuid: e911c552-3a98-41e0-b5fb-0dd3879887b7, tls: true, servername: vod.ensf.top, client-fingerprint: chrome, network: ws, ws-opts: {path: /api/v1/irc, headers: {Host: vod.ensf.top}}, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0121, server: 138.199.35.215, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0115, server: 193.176.84.23, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
+  - {name: 🇰🇷 KR-43.203.-4112-61MB, server: uncommon-feline.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: uncommon-feline.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0132, server: 138.199.35.220, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0097, server: 84.239.49.39, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇭🇰 HK-185.244-0726-52MB, server: strong-haddock.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: strong-haddock.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 KR-3.36.13-2118-49MB, server: 3.36.131.218, port: 443, type: trojan, password: ND91608427, sni: humorous-malamute.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇳🇱 NL-193.29.-2196-18MB, server: 193.29.139.223, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇵🇱 PL-202.78.-1362-89MB, server: relative-locust.rooster465.autos, port: 443, type: trojan, password: AE62539071, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP-10|4.8MB S, server: 13.231.180.231, port: 443, type: trojan, password: FH72359861, sni: set-gazelle.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP-13|4.7MB S, server: 18.183.245.11, port: 443, type: trojan, password: FH72359861, sni: bright-buffalo.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0068, server: 84.239.49.233, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0092, server: 84.239.14.154, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0107, server: 84.239.49.173, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0044, server: 193.176.84.35, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇨🇦 CA-51.222.12.127-1650, server: 51.222.12.127, port: 445, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0158, server: 156.146.59.39, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-5|5.6MB S, server: lasting-jaguar.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: lasting-jaguar.rooster465.autos, skip-cert-verify: true, udp: true}
+  - {name: RO-SPEEDNODE-0109, server: 84.239.14.153, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
+  - {name: 🇰🇷 KR-3.36.59.34-0187, server: 3.36.59.34, port: 443, type: trojan, password: ND91608427, sni: select-ferret.rooster465.autos, udp: true}
+  - {name: 🇳🇱 NL-SPEEDNODE-0017, server: 84.17.47.147, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-13.158.-2141-99MB, server: literate-cow.rooster465.autos, port: 443, type: trojan, password: AE62539071, skip-cert-verify: false, udp: true}
+  - {name: 🇳🇱 NL-SPEEDNODE-0023, server: 84.17.47.150, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-18.178.-1141-11MB, server: devoted-heron.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: devoted-heron.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0143, server: 156.146.59.28, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-3.112.2-0879-88MB, server: stunning-mite.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: stunning-mite.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-141.98.-8011-94MB, server: 141.98.101.181, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.10-0231, server: 82.38.31.10, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇺🇸 US-37.19.1-2212-23MB, server: 37.19.198.236, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇯🇵 JP-54.249.-2441-96MB, server: eager-camel.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: eager-camel.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 KR-3.38.106.2-0171, server: 3.38.106.2, port: 443, type: trojan, password: ND91608427, sni: communal-sunbird.rooster465.autos, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0119, server: fan.596189.xyz, port: 443, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0061, server: 84.239.49.191, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇫🇷 FR-51.44.160.58-0236, server: great-krill.rooster465.autos, port: 443, type: trojan, password: QV31589740, sni: great-krill.rooster465.autos, udp: true}
+  - {name: 🇺🇸 美国 CLOUDFLARE节点, server: singapore.com, port: 8443, type: vless, uuid: 767b6340-96dc-4aa0-8013-a8af7513d920, tls: true, servername: c7dabe95.proxy-978.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: c7dabe95.proxy-978.pages.dev}}, udp: true}
+  - {name: 🇰🇷 KR-54.180.-4102-98MB, server: pure-ram.rooster465.autos, port: 443, type: trojan, password: ND91608427, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0151, server: 156.146.59.41, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇰🇷 KR-211.178.105.134-0246, server: 211.178.105.134, port: 6123, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇯🇵 JP-54.250.-1304-58MB, server: premium-weevil.rooster465.autos, port: 443, type: trojan, password: AE62539071, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0083, server: 84.239.49.157, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
+  - {name: 🇩🇪 DE-18.198.-1384-42MB, server: teaching-gnu.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: teaching-gnu.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP-6|5.0MB S, server: communal-troll.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: communal-troll.rooster465.autos, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US-37.19.1-1834-46MB, server: 37.19.198.244, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇯🇵 JP-54.64.2-1552-18MB, server: maximum-elk.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: maximum-elk.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RELAY-104.-1512-38MB, server: rush-72frf.meeopp.site, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: rush-72frf.meeopp.site}}, udp: true}
+  - {name: 🇰🇷 KR-43.202.-0256-74MB, server: striking-maggot.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: striking-maggot.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0037, server: 84.239.49.244, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: ZA-102.133-6501-37MB, server: 102.133.165.160, port: 16233, type: ss, cipher: chacha20-ietf-poly1305, password: Xsy8Ox4yOV3xLlpxtjzs3X, udp: true}
+  - {name: RO-SPEEDNODE-0070, server: 84.239.49.192, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0059, server: 84.239.49.196, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0067, server: 84.239.49.56, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: RO-SPEEDNODE-0053, server: 84.239.49.57, port: 9002, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-3.113.24.17-0140, server: 3.113.24.17, port: 443, type: trojan, password: ND91608427, sni: nearby-egret.rooster465.autos, udp: true}
+  - {name: 🇰🇷 KR-3.35.140.99-0190, server: moved-meerkat.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: moved-meerkat.rooster465.autos, udp: true}
+  - {name: 🇸🇬 SG-9|1.1MB S, server: 54.254.235.88, port: 443, type: trojan, password: FH72359861, sni: charming-ox.rooster465.autos, skip-cert-verify: false, udp: true}
   - {name: 🇮🇳 IN-152.67.8.205-0222, server: 152.67.8.205, port: 80, type: vmess, uuid: 9db4c708-aef8-4359-821b-38e47990be0d, alterId: 0, cipher: auto, tls: false, servername: 152.67.8.205, network: ws, ws-opts: {path: /}, udp: true}
   - {name: RO-SPEEDNODE-0074, server: 84.239.49.254, port: 9002, type: http, tls: true, skip-cert-verify: true}
-  - {name: RO-SPEEDNODE-0029, server: 84.239.49.155, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
-  - {name: 🇩🇪 DE-35.159.21.7-0393, server: summary-lemming.rooster465.autos, port: 443, type: trojan, password: FH72359861, sni: summary-lemming.rooster465.autos, udp: true}
+  - {name: 🇳🇱 NL-108.181-2161-87MB, server: 108.181.126.122, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: CJmTCCx7Ltud, udp: true}
+  - {name: 🇺🇸 US-SPEEDNODE-0135, server: 138.199.35.204, port: 9002, type: http, password: None, tls: true, skip-cert-verify: true}
+  - {name: 🇵🇱 PL-202.78.-1146-56MB, server: tolerant-mosquito.rooster465.autos, port: 443, type: trojan, password: AE62539071, sni: tolerant-mosquito.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP-11|4.8MB S, server: 13.231.237.228, port: 443, type: trojan, password: FH72359861, sni: classic-pug.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP-52.194.-7128-27MB, server: 52.194.223.176, port: 443, type: trojan, password: AE62539071, sni: clear-heron.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-1602-88MB, server: 82.38.31.214, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇯🇵 JP-52.196.-1182-95MB, server: thankful-mustang.rooster465.autos, port: 443, type: trojan, password: ND91608427, sni: thankful-mustang.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP-17|2.1MB S, server: 54.64.38.110, port: 443, type: trojan, password: FH72359861, sni: equal-labrador.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-8113-92MB, server: 82.38.31.186, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇰🇷 KR-43.202.-1528-23MB, server: 43.202.56.122, port: 443, type: trojan, password: ND91608427, sni: striking-maggot.rooster465.autos, skip-cert-verify: false, udp: true}
+  - {name: RO-SPEEDNODE-0034, server: 84.239.49.178, port: 9002, type: http, tls: true, skip-cert-verify: true}
