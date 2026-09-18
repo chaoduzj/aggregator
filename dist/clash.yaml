@@ -1,132 +1,129 @@
 proxies:
-  - {name: 🇺🇸 美国 | USA 7, server: 104.16.3.214, port: 443, type: vless, uuid: 44eae030-290b-4083-8102-6f8bab05701b, tls: true, servername: cfvvv-ev1.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: cfvvv-ev1.pages.dev}}, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-9163-37MB, server: 82.38.31.149, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇩🇪 德国 | DEU 10, server: 130.61.45.208, port: 59924, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: 5rGNq8QrmZV0BGch+Rxs68Jr0LuVGuDhkVhLj4zEhR0=, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.48-0155 | 32.13MB, server: 82.38.31.48, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.210-0143, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇰🇷 KR-211.178-1133-.0MB, server: 211.178.105.134, port: 6123, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: 🇺🇸 US-5|1.1MB S, server: crosscards.site, port: 443, type: http, tls: true}
-  - {name: 🇳🇱 NL-193.29.-9005-42MB, server: 193.29.139.168, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true}
-  - {name: 🇺🇸 US-138.199.42.68-0275 | 0.0MB, server: 138.199.42.68, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
-  - {name: ZA-102.37.156.224-0183 | 0.0MB, server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.49-0136, server: 82.38.31.49, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-7114-18MB, server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇭🇰 HK-156.245-0235-.0MB, server: 156.245.232.239, port: 35043, type: vmess, uuid: b15e481d-17e4-41a8-84c2-23d4f0514d9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇬🇧 GB-94.156.-0061-08MB, server: 94.156.250.148, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: 🇬🇧 英国-1B, server: news.gazette.help, port: 443, type: hysteria2, password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX, auth: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX, sni: news.gazette.help, udp: true}
-  - {name: 🇺🇸 US-156.146-9307-88MB, server: 156.146.38.170, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇺🇸 US-10|1.0MB S, server: jgwynphotoarts.pro, port: 443, type: http, password: None, tls: true, skip-cert-verify: false}
-  - {name: 🇬🇧 GB-82.38.3-7501-42MB, server: 82.38.31.186, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇳🇱 NL-158.173-1427-38MB, server: 158.173.221.214, port: 11001, type: ss, cipher: chacha20-ietf-poly1305, password: c58d16e593d44f42, udp: true}
-  - {name: CH-1|1.1MB S, server: 37.120.213.210, port: 9443, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-82.38.31.212-0124 | 41.25MB, server: 82.38.31.212, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇭🇰 HK-1|1.3MB S, server: 23.249.18.144, port: 8581, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: true, servername: cdn8848.776676.xyz, client-fingerprint: chrome, network: ws, ws-opts: {path: "/channels/act?ed=2560", headers: {Host: cdn8848.776676.xyz}}, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.199-0187 | 0.0MB, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 17, server: 142.249.37.90, port: 44356, type: hysteria2, password: dongtaiwang.com, auth: dongtaiwang.com, sni: hy2.561891.xyz, skip-cert-verify: false, udp: true}
   - {name: 🇩🇪 德国 | DEU 11, server: 130.61.119.122, port: 59924, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: uuMbME5levfAj7yT6O3+6D+ufAlCTzK4KcgVq6AZAv8=, udp: true}
-  - {name: CFOX-SERVER, server: 85.204.107.176, port: 8080, type: hysteria2, password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0, auth: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0, sni: hopp-romania-new.roxa.org, udp: true}
-  - {name: 🇮🇳 印度, server: vpn-in-001.fastervpn.world, port: 443, type: hysteria2, password: H7mP2xY9kJ4nQ8wR5tF6vB3z, auth: H7mP2xY9kJ4nQ8wR5tF6vB3z, sni: vpn-in-001.fastervpn.world, skip-cert-verify: true, udp: true}
-  - {name: 96 ONECLICKVPNKEYS, server: 91.240.86.70, port: 22443, type: hysteria2, password: 3f63c86c-ac4a-4900-85cf-4fedf93c2ca5, auth: 3f63c86c-ac4a-4900-85cf-4fedf93c2ca5, sni: hy.quattro-tech.ru, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-4811-32MB, server: 82.38.31.187, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇯🇵 JP-84.247.155.196-0188 | 0.0MB, server: 84.247.155.196, port: 80, type: ss, cipher: aes-256-gcm, password: 3eOFeNssde7PYYMv, udp: true}
-  - {name: 🇳🇱 NL-108.181-6241-19MB, server: 108.181.126.122, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: CJmTCCx7Ltud, udp: true}
-  - {name: 74 ONECLICKVPNKEYS, server: 162.249.126.7, port: 8443, type: hysteria2, password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z, auth: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z, sni: hopp-germany-new.ddnsguru.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 | USA 24, server: 172.64.146.228, port: 443, type: vless, uuid: 91d28760-ecf1-450b-9170-d310111a0e6d, tls: true, alpn: [http/1.1], servername: edfc774f.69lover.site, client-fingerprint: chrome, network: ws, ws-opts: {path: /api/v2/63e9687fa53e441c/stream, headers: {Host: edfc774f.69lover.site}}, udp: true}
-  - {name: TELEGRAM DAILY-CONFIGS, server: 2.27.59.206, port: 443, type: hysteria2, password: cd74c0a406664a5bc0bac098220a2468, auth: cd74c0a406664a5bc0bac098220a2468, sni: de1.sferavpn.pro, skip-cert-verify: false, obfs: salamander, obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0, udp: true}
-  - {name: 🇯🇵 JP-149.22.-2402-76MB, server: 149.22.87.240, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇭🇰 香港| RIPAOJIEDIAN, server: v10.hdacd.com, port: 30807, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: ZA-102.133-0161-35MB, server: 102.133.165.160, port: 16233, type: ss, cipher: chacha20-ietf-poly1305, password: Xsy8Ox4yOV3xLlpxtjzs3X, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.219-0141 | 0.0MB, server: 82.38.31.219, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 82 ONECLICKVPNKEYS, server: se.xiaoliyu.cyou, port: 4433, type: hysteria2, password: 19f72087-4591-4d72-930b-2697078ec2be, auth: 19f72087-4591-4d72-930b-2697078ec2be, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 US-2|1.4MB S, server: 43.173.90.202, port: 443, type: trojan, password: sg-trojan-2026, sni: sg-proxy.local, skip-cert-verify: true, udp: true}
-  - {name: NOFILTERING2 | ... 1, server: 130.49.161.70, port: 443, type: hysteria2, password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR, auth: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR, sni: hy2.aspidnet.xyz, skip-cert-verify: false, obfs: salamander, obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-4106-25MB, server: 82.38.31.174, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇩🇪 德国 | DEU 2, server: 130.61.80.134, port: 59924, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: Yz7wERCXItjxg58QkWoUaXdAFoiDFoytVsSeRO0RojA=, udp: true}
+  - {name: 🇳🇱 NL-193.29.-3313-74MB, server: 193.29.139.147, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇺🇸 US-156.146-8390-88MB, server: 156.146.38.170, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-1004-23MB, server: 82.38.31.214, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇩🇪 德国 | DEU 10, server: 130.61.45.208, port: 59924, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: 5rGNq8QrmZV0BGch+Rxs68Jr0LuVGuDhkVhLj4zEhR0=, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-9531-16MB, server: 82.38.31.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-0227-18MB, server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
   - {name: 🇬🇧 GB-82.38.31.218-0197, server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇺🇸 美国 | USA 26, server: 104.21.62.195, port: 443, type: vless, uuid: cb53f904-c979-454f-bf43-621990008148, tls: true, alpn: [http/1.1], servername: 7.qq1-0.kdns.fr, client-fingerprint: chrome, network: ws, ws-opts: {path: /LNbYtR09FXg1AmmjhdiHvR8v, headers: {Host: 7.qq1-0.kdns.fr}}, udp: true}
-  - {name: 🇺🇸 美国 | USA 9, server: 66.235.200.207, port: 443, type: vless, uuid: b2593749-691c-428c-9481-14979cba3446, tls: true, servername: xi.tbv.ccwu.cc, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=us.xiabibi.cf, headers: {Host: xi.tbv.ccwu.cc}}, udp: true}
-  - {name: 🇷🇺 俄罗斯, server: gta.internet-card.sbs, port: 443, type: hysteria2, password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj, auth: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj, sni: gta.internet-card.sbs, skip-cert-verify: true, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-1303-75MB, server: 82.38.31.205, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇺🇸 US-156.146-0576-36MB, server: 156.146.38.167, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-9841-38MB, server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.16-0126 | 49.795MB, server: 82.38.31.16, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.35-0140 | 52.057MB, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇺🇸 美国 | USA 19, server: 104.16.10.233, port: 443, type: vless, uuid: 44eae030-290b-4083-8102-6f8bab05701b, tls: true, servername: cfvvv-ev1.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /, headers: {Host: cfvvv-ev1.pages.dev}}, udp: true}
-  - {name: KZ-38.107.234.57-0925, server: 3h-kazakhstan1.09vpn.com, port: 80, type: vmess, uuid: 567f4be5-12ab-42e1-b8d9-db6fd1fdd31c, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc}}, udp: true}
-  - {name: 🇨🇦 CA-108.181-0898-36MB, server: 108.181.118.10, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: G5p6ww4o67HB, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-7134-16MB, server: 82.38.31.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇬🇧 GB-141.98.-1817-88MB, server: 141.98.101.181, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇬🇧 GB-146.70.61.37-4966, server: 146.70.61.37, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
-  - {name: JOIN-ATLAS-V2VPN 55... 1, server: 2.27.249.79, port: 443, type: hysteria2, password: cd74c0a406664a5bc0bac098220a2468, auth: cd74c0a406664a5bc0bac098220a2468, sni: nl1.sferavpn.pro, skip-cert-verify: false, obfs: salamander, obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0, udp: true}
-  - {name: 🇯🇵 JP-149.22.-4127-16MB, server: 149.22.87.241, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇭🇰 HK-中国香港-DE-德国, server: v33.hdacd.com, port: 30833, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: TELEGRAM VPNJEY 4, server: 179.61.138.145, port: 54759, type: hysteria2, password: Telegram@vpnjey, auth: Telegram@vpnjey, skip-cert-verify: true, obfs: salamander, obfs-password: Telegram@vpnjey, udp: true}
-  - {name: 🇺🇸 CN-中国-US-美国-1, server: us22.sofast.live, port: 58011, type: vless, uuid: 0afc6426-606c-48e7-bd70-3c424a416842, tls: false, network: tcp, udp: true}
-  - {name: TELEGRAM VPNJEY 1-1A, server: 77.110.96.201, port: 36264, type: hysteria2, password: Telegram-vpnjey, auth: Telegram-vpnjey, sni: se.vpnjey2.dpdns.org, skip-cert-verify: true, alpn: [h3], obfs: salamander, obfs-password: Telegram@vpnjey, udp: true}
-  - {name: 🇺🇸 US-37.19.1-1749-37MB, server: 37.19.198.243, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇺🇸 US-173.244-2916-49MB, server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-1121-17MB, server: 82.38.31.192, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇺🇸 US-173.244-4565-96MB, server: 173.244.56.9, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.61-0153 | 16.139MB, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇦🇺 澳大利亚, server: vpn-au-002.fastervpn.world, port: 443, type: hysteria2, password: H7mP2xY9kJ4nQ8wR5tF6vB3z, auth: H7mP2xY9kJ4nQ8wR5tF6vB3z, sni: whatsapp.com, skip-cert-verify: true, udp: true}
-  - {name: 🇭🇰 HK-中国香港-US-美国, server: v4.hdacd.com, port: 30804, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 🇳🇱 NL-109.201-5110-79MB, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, udp: true}
-  - {name: 咕咕嘎嘎, server: es1.xiaoliyu.cyou, port: 4433, type: hysteria2, password: 19f72087-4591-4d72-930b-2697078ec2be, auth: 19f72087-4591-4d72-930b-2697078ec2be, sni: es1.xiaoliyu.cyou, skip-cert-verify: true, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.176-0185 | 0.0MB, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇺🇸 US-37.19.1-9484-39MB, server: 37.19.198.244, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 90 ONECLICKVPNKEYS, server: 144.31.93.126, port: 443, type: hysteria2, password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc, auth: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc, sni: admin.wwwinternetvideo.click, skip-cert-verify: true, udp: true}
-  - {name: 🇭🇰 香港 | HKG, server: ac7548f3ebe045b39a90288ff1e97528.pnuqcnp.cn, port: 443, type: anytls, password: 9sK2mP8xQ7vL3nZ6, udp: true, sni: ac7548f3ebe045b39a90288ff1e97528.lwdnxf.cn, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-149.22.-1452-63MB, server: 149.22.87.204, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-5317-53MB, server: 82.38.31.174, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇳🇱 NL-193.29.-7133-74MB, server: 193.29.139.147, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇨🇦 CA-149.22.-5559-41MB, server: 149.22.95.183, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.66-0141, server: 82.38.31.66, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.62-0135, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇳🇱 NL-193.29.-2912-91MB, server: 193.29.139.223, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇯🇵 JP-84.247.155.196-0198 | 0.0MB, server: 84.247.155.196, port: 443, type: ss, cipher: aes-256-gcm, password: 3eOFeNssde7PYYMv, udp: true}
-  - {name: 🇸🇬 新加坡 | SGP, server: 162.159.43.187, port: 2052, type: vless, uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e, tls: false, servername: 8nj2r.2k8t.f88.hh.vavava.kdns.fr, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: 8nj2r.2k8t.f88.hh.vavava.kdns.fr}}, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-3111-61MB, server: 82.38.31.216, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇫🇮 芬兰, server: musicclips.videolinks.ru, port: 8443, type: hysteria2, password: sxc15led4b0vp5fy, auth: sxc15led4b0vp5fy, sni: musicclips.videolinks.ru, obfs: salamander, obfs-password: 8zzng75tz4tf82pj, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-2515-29MB, server: 82.38.31.155, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇸🇬 新加坡 | SGP 2, server: 172.64.146.211, port: 8443, type: vless, uuid: 77777777-8a3e-6666-b6d1-a9c5f0e8b3a2, tls: true, servername: faxf32gkfzoxqv.fx6hsv0.ccwu.cc, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: faxf32gkfzoxqv.fx6hsv0.ccwu.cc}}, udp: true}
-  - {name: 🇺🇸 US-156.146-1480-22MB, server: 156.146.38.168, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇩🇪 德国 | DEU 7, server: 130.61.224.188, port: 59924, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: WnsuVoEN56+jytOhEHYViA3xB4OMZ0kcBDudgqMeeHE=, udp: true}
-  - {name: 🇺🇸 US-108.181-5719-29MB, server: 108.181.0.177, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: G5p6ww4o67HB, udp: true}
-  - {name: 🇳🇱 NL-193.29.-1313-62MB, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.82-0127 | 53.924MB, server: 82.38.31.82, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇳🇱 NL-1|2.5MB S, server: 178.18.147.66, port: 29900, type: hysteria2, password: github.com/Alvin9999-newpac/fanqiang, auth: github.com/Alvin9999-newpac/fanqiang, sni: www.microsoft.com, skip-cert-verify: true, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.180-0125 | 50.99MB, server: 82.38.31.180, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇭🇰 HK-103.149.182.79-0299 | 0.0MB, server: 103.149.182.79, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.2-0124, server: 82.38.31.2, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: AZARBAYJAB1, server: 162.249.125.133, port: 443, type: hysteria2, password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s, auth: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s, sni: hy2-new.aspidnet.xyz, skip-cert-verify: false, obfs: salamander, obfs-password: c1b4086fea89914496c7e10967a419216566, udp: true}
-  - {name: 🇹🇼 TW-1|1.2MB S, server: 6ivh.pnuqcnp.cn, port: 443, type: anytls, password: 9sK2mP8xQ7vL3nZ6, udp: true, sni: images.ctfassets.net, skip-cert-verify: true}
-  - {name: 🇺🇸 US-37.19.1-0891-79MB, server: 37.19.198.160, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇺🇸 美国 | USA 18, server: 139.64.235.174, port: 443, type: vless, uuid: b09dfed1-90fa-4353-8bdf-de1edb2e2d79, tls: true, servername: nb.lovecf.ggff.net, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=us.xiabibi.cf, headers: {Host: nb.lovecf.ggff.net}}, udp: true}
-  - {name: 🇳🇱 NL-193.29.-5130-48MB, server: 193.29.139.235, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇵🇱 PL-1|1.3MB S, server: 37.120.156.34, port: 443, type: http, password: None, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-82.38.3-1752-31MB, server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇳🇱 NL-193.29.-9032-82MB, server: 193.29.139.204, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.34-0129 | 52.541MB, server: 82.38.31.34, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-0372-86MB, server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇧🇷 巴西, server: go.wwwinternetvideo.click, port: 443, type: hysteria2, password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc, auth: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc, sni: admin.wwwinternetvideo.click, skip-cert-verify: true, udp: true}
-  - {name: 🇰🇷 KR-221.139.79.57-0202 | 0.0MB, server: 221.139.79.57, port: 13979, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: 🇯🇵 日本 005, server: 146.56.112.110, port: 8888, type: vmess, uuid: e7c302f3-90d6-42dd-9d7d-94a3683a3707, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 🇩🇪 DE-209.46.-5012-91MB, server: 209.46.102.22, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 1hhrqrokj3ag, udp: true}
-  - {name: 🇺🇸 美国 | USA 13, server: www.epicgames.com, port: 2095, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: false, network: ws, ws-opts: {path: /, headers: {Host: free-claude-api.asshole.us.ci}}, udp: true}
-  - {name: 🇺🇸 美国 | USA 25, server: 129.146.75.221, port: 50356, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: ko88AO1Lj50PH3xGQ/SzJChWovcD99np3GwLcJwj/Eo=, udp: true}
+  - {name: 🇺🇸 US-173.244-6014-49MB, server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.199-0187 | 0.0MB, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇺🇸 US-156.146-0985-17MB, server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-1341-29MB, server: 82.38.31.155, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
   - {name: 🇬🇧 GB-82.38.31.10-0137 | 52.351MB, server: 82.38.31.10, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇩🇪 DE-8.209.74.72-0174 | 0.405MB, server: 8.209.74.72, port: 20001, type: ss, cipher: chacha20-ietf-poly1305, password: PWpjPo3tqhPN4yRZ, udp: true}
-  - {name: 🇺🇸 US-156.146-6523-17MB, server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-8145-28MB, server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-0114-24MB, server: 82.38.31.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-5530-15MB, server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇺🇸 美国, server: 139.64.235.23, port: 443, type: vless, uuid: b09dfed1-90fa-4353-8bdf-de1edb2e2d79, tls: true, servername: nb.lovecf.ggff.net, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=us.xiabibi.cf, headers: {Host: nb.lovecf.ggff.net}}, udp: true}
-  - {name: 🇬🇧 GB-82.38.3-1251-23MB, server: 82.38.31.214, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
-  - {name: 🇹🇼 TW-36.224.185.173-0194 | 0.0MB, server: r3mrcg00129437x.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
-  - {name: 🇬🇧 GB-82.38.31.46-0132, server: 82.38.31.46, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
-  - {name: 🇨🇦 CA-137.184-7013-69MB, server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
-  - {name: 🇺🇸 US-37.19.1-0386-91MB, server: 37.19.198.236, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇮🇳 IN-152.67.8.205-0189 | 0.0MB, server: 152.67.8.205, port: 80, type: vmess, uuid: 9db4c708-aef8-4359-821b-38e47990be0d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: 🇮🇳IN-152.67.8.205-0189 | 0.0MB, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇭🇰 香港 | HKG, server: ac7548f3ebe045b39a90288ff1e97528.pnuqcnp.cn, port: 443, type: anytls, password: 9sK2mP8xQ7vL3nZ6, udp: true, sni: ac7548f3ebe045b39a90288ff1e97528.lwdnxf.cn, skip-cert-verify: true}
+  - {name: 🇺🇸 US-2|1.4MB S, server: 43.173.90.202, port: 443, type: trojan, password: sg-trojan-2026, sni: sg-proxy.local, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇦 CA-149.22.-6191-41MB, server: 149.22.95.183, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-7010-24MB, server: 82.38.31.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇺🇸 美国 CLOUDFLARE节点 4, server: 104.21.236.63, port: 443, type: vless, uuid: 44eae030-290b-4083-8102-6f8bab05701b, tls: true, servername: cfvvv-ev1.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: cfvvv-ev1.pages.dev}}, udp: true}
+  - {name: 🇸🇬 新加坡 | SGP, server: 162.159.43.187, port: 2052, type: vless, uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e, tls: false, servername: 8nj2r.2k8t.f88.hh.vavava.kdns.fr, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: 8nj2r.2k8t.f88.hh.vavava.kdns.fr}}, udp: true}
+  - {name: 🇯🇵 JP-149.22.-0802-76MB, server: 149.22.87.240, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇨🇦 CA-137.184-3101-69MB, server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-3015-15MB, server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇫🇮 芬兰, server: musicclips.videolinks.ru, port: 8443, type: hysteria2, password: sxc15led4b0vp5fy, auth: sxc15led4b0vp5fy, sni: musicclips.videolinks.ru, obfs: salamander, obfs-password: 8zzng75tz4tf82pj, udp: true}
+  - {name: 🇩🇪 DE-209.46.-2005-91MB, server: 209.46.102.22, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 1hhrqrokj3ag, udp: true}
   - {name: 🇺🇸 美国 | USA 3, server: www.whatismyip.net, port: 2095, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: false, network: ws, ws-opts: {path: /, headers: {Host: free-claude-api.asshole.us.ci}}, udp: true}
-  - {name: PROXY-KAFEE, server: 144.31.49.138, port: 443, type: hysteria2, password: cd74c0a406664a5bc0bac098220a2468, auth: cd74c0a406664a5bc0bac098220a2468, sni: ru1.sferavpn.pro, skip-cert-verify: false, obfs: salamander, obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0, udp: true}
-  - {name: 🇳🇱 NL-108.181-5290-98MB, server: 108.181.58.239, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: CJmTCCx7Ltud, udp: true}
+  - {name: 🇺🇸 美国 | USA 9, server: 66.235.200.207, port: 443, type: vless, uuid: b2593749-691c-428c-9481-14979cba3446, tls: true, servername: xi.tbv.ccwu.cc, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=us.xiabibi.cf, headers: {Host: xi.tbv.ccwu.cc}}, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-9480-38MB, server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇺🇸 US-37.19.1-2143-91MB, server: 37.19.198.236, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.48-0155 | 32.13MB, server: 82.38.31.48, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-1458-28MB, server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-1024-53MB, server: 82.38.31.174, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇹🇼 TW-36.224.185.173-0194 | 0.0MB, server: r3mrcg00129437x.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
+  - {name: 🇺🇸 US-156.146-1038-22MB, server: 156.146.38.168, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇺🇸 美国 CLOUDFLARE节点 6, server: 104.21.5.156, port: 443, type: vless, uuid: 1aa96574-c28b-4ee9-855d-ebdbbf1f7e90, tls: true, servername: 2-m13.1332afdc-0737-4bb1-8ca8-EE4f0Cd20BC6.kdNs.FR, client-fingerprint: chrome, network: ws, ws-opts: {path: /ED3ZQPu7lqyeDGD58KabZ, headers: {Host: 2-m13.1332afdc-0737-4bb1-8ca8-EE4f0Cd20BC6.kdNs.FR}}, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.61-0153 | 16.139MB, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇳🇱 NL-193.29.-1391-62MB, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇭🇰 香港| RIPAOJIEDIAN, server: v10.hdacd.com, port: 30807, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 74 ONECLICKVPNKEYS, server: 162.249.126.7, port: 8443, type: hysteria2, password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z, auth: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z, sni: hopp-germany-new.ddnsguru.com, skip-cert-verify: true, udp: true}
+  - {name: 🇳🇱 NL-193.29.-9323-42MB, server: 193.29.139.168, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true}
+  - {name: 🇯🇵 JP-149.22.-7502-63MB, server: 149.22.87.204, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-1103-17MB, server: 82.38.31.192, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇺🇸 US-108.181-1597-29MB, server: 108.181.0.177, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: G5p6ww4o67HB, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.49-0136, server: 82.38.31.49, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇵🇱 PL-1|1.3MB S, server: 37.120.156.34, port: 443, type: http, password: None, tls: true, skip-cert-verify: true}
+  - {name: 🇬🇧 GB-82.38.31.35-0140 | 52.057MB, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: TELEGRAM VPNJEY 4, server: 179.61.138.145, port: 54759, type: hysteria2, password: Telegram@vpnjey, auth: Telegram@vpnjey, skip-cert-verify: true, obfs: salamander, obfs-password: Telegram@vpnjey, udp: true}
+  - {name: 🇺🇸 US-37.19.1-1844-39MB, server: 37.19.198.244, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇭🇰 HK-1|1.3MB S, server: 23.249.18.144, port: 8581, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: true, servername: cdn8848.776676.xyz, client-fingerprint: chrome, network: ws, ws-opts: {path: "/channels/act?ed=2560", headers: {Host: cdn8848.776676.xyz}}, udp: true}
+  - {name: 🇳🇱 NL-193.29.-1350-48MB, server: 193.29.139.235, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇺🇸 US-10|1.0MB S, server: jgwynphotoarts.pro, port: 443, type: http, password: None, tls: true, skip-cert-verify: false}
+  - {name: 🇳🇱 荷兰 | NLD 2, server: 158.101.211.111, port: 62145, type: vless, uuid: 8fb65472-5957-4f64-ba2d-b5812b2f155a, tls: false, servername: 158.101.211.111, network: tcp, udp: true}
+  - {name: 96 ONECLICKVPNKEYS, server: 91.240.86.70, port: 22443, type: hysteria2, password: 3f63c86c-ac4a-4900-85cf-4fedf93c2ca5, auth: 3f63c86c-ac4a-4900-85cf-4fedf93c2ca5, sni: hy.quattro-tech.ru, udp: true}
+  - {name: 🇺🇸 US-138.199.42.68-0275 | 0.0MB, server: 138.199.42.68, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.2-0124, server: 82.38.31.2, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.66-0141, server: 82.38.31.66, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇯🇵 日本 005, server: 146.56.112.110, port: 8888, type: vmess, uuid: e7c302f3-90d6-42dd-9d7d-94a3683a3707, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇬🇧 GB-146.70.61.37-4966, server: 146.70.61.37, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
+  - {name: 🇺🇸 美国 | USA 25, server: 129.146.75.221, port: 50356, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: ko88AO1Lj50PH3xGQ/SzJChWovcD99np3GwLcJwj/Eo=, udp: true}
+  - {name: 🇰🇷 KR-211.178-2003-.0MB, server: 211.178.105.134, port: 6123, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-1127-86MB, server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇳🇱 NL-158.173-4220-38MB, server: 158.173.221.214, port: 11001, type: ss, cipher: chacha20-ietf-poly1305, password: c58d16e593d44f42, udp: true}
+  - {name: 🇬🇧 GB-94.156.-0560-08MB, server: 94.156.250.148, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: 🇳🇱 NL-1|2.5MB S, server: 178.18.147.66, port: 29900, type: hysteria2, password: github.com/Alvin9999-newpac/fanqiang, auth: github.com/Alvin9999-newpac/fanqiang, sni: www.microsoft.com, skip-cert-verify: true, udp: true}
+  - {name: ZA-102.133-0460-35MB, server: 102.133.165.160, port: 16233, type: ss, cipher: chacha20-ietf-poly1305, password: Xsy8Ox4yOV3xLlpxtjzs3X, udp: true}
+  - {name: 🇺🇸 美国 | USA 7, server: 104.16.3.214, port: 443, type: vless, uuid: 44eae030-290b-4083-8102-6f8bab05701b, tls: true, servername: cfvvv-ev1.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: cfvvv-ev1.pages.dev}}, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.62-0135, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.176-0185 | 0.0MB, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-0049-25MB, server: 82.38.31.174, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.180-0125 | 50.99MB, server: 82.38.31.180, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇯🇵 JP-84.247.155.196-0188 | 0.0MB, server: 84.247.155.196, port: 80, type: ss, cipher: aes-256-gcm, password: 3eOFeNssde7PYYMv, udp: true}
+  - {name: 🇳🇱 NL-3|1.5MB S, server: 5.255.118.82, port: 443, type: http, password: None, tls: true, skip-cert-verify: true}
+  - {name: 🇬🇧 GB-82.38.31.16-0126 | 49.795MB, server: 82.38.31.16, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇺🇸 US-216.105.168.18-0201, server: 216.105.168.18, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hCCWOcIsK5wrFz4OX70rWf, udp: true}
+  - {name: 🇩🇪 DE-8.209.74.72-0174 | 0.405MB, server: 8.209.74.72, port: 20001, type: ss, cipher: chacha20-ietf-poly1305, password: PWpjPo3tqhPN4yRZ, udp: true}
+  - {name: 🇭🇰 HK-156.245-0322-.0MB, server: 156.245.232.239, port: 35043, type: vmess, uuid: b15e481d-17e4-41a8-84c2-23d4f0514d9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇳🇱 NL-92.112.126.90-0204 | 0.0MB, server: switcher-nick-croquet.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9tqhMdIrTkgQ46PvhyAtMH, udp: true}
+  - {name: 🇺🇸 美国 | USA 24, server: 172.64.146.228, port: 443, type: vless, uuid: 91d28760-ecf1-450b-9170-d310111a0e6d, tls: true, alpn: [http/1.1], servername: edfc774f.69lover.site, client-fingerprint: chrome, network: ws, ws-opts: {path: /api/v2/63e9687fa53e441c/stream, headers: {Host: edfc774f.69lover.site}}, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-1601-37MB, server: 82.38.31.149, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇺🇸 US-37.19.1-3821-37MB, server: 37.19.198.243, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇨🇦 CA-108.181-5193-36MB, server: 108.181.118.10, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: G5p6ww4o67HB, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.34-0129 | 52.541MB, server: 82.38.31.34, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: JOIN-ATLAS-V2VPN 55... 1, server: 2.27.249.79, port: 443, type: hysteria2, password: cd74c0a406664a5bc0bac098220a2468, auth: cd74c0a406664a5bc0bac098220a2468, sni: nl1.sferavpn.pro, skip-cert-verify: false, obfs: salamander, obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0, udp: true}
+  - {name: CH-1|1.1MB S, server: 37.120.213.210, port: 9443, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 US-156.146-5193-36MB, server: 156.146.38.167, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇮🇳 印度, server: vpn-in-001.fastervpn.world, port: 443, type: hysteria2, password: H7mP2xY9kJ4nQ8wR5tF6vB3z, auth: H7mP2xY9kJ4nQ8wR5tF6vB3z, sni: vpn-in-001.fastervpn.world, skip-cert-verify: true, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-5185-75MB, server: 82.38.31.205, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇰🇷 KR-221.139.79.57-0202 | 0.0MB, server: 221.139.79.57, port: 13979, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇯🇵 JP-149.22.-1824-16MB, server: 149.22.87.241, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.212-0124 | 41.25MB, server: 82.38.31.212, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-1107-61MB, server: 82.38.31.216, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
   - {name: 🇺🇸 美国 | USA 16, server: 172.64.147.104, port: 2053, type: vless, uuid: 77777777-8a3e-6666-b6d1-a9c5f0e8b3a2, tls: true, servername: faxf32gkfzoxqv.fx6hsv0.ccwu.cc, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: faxf32gkfzoxqv.fx6hsv0.ccwu.cc}}, udp: true}
+  - {name: AZARBAYJAB1, server: 162.249.125.133, port: 443, type: hysteria2, password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s, auth: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s, sni: hy2-new.aspidnet.xyz, skip-cert-verify: false, obfs: salamander, obfs-password: c1b4086fea89914496c7e10967a419216566, udp: true}
+  - {name: 🇺🇸 美国 | USA 21, server: 104.21.16.74, port: 443, type: vless, uuid: 7700ff6d-cefb-4768-a806-ec4f63fe3b38, tls: true, servername: 0-m13.378Bb7Ff-11cf-4daD-b89E-72538aC75e29.Kdns.fr, client-fingerprint: chrome, network: ws, ws-opts: {path: /ED3ZQPu7lqyeDGD58KabZ, headers: {Host: 0-m13.378Bb7ff-11CF-4dAD-B89E-72538AC75e29.KDNS.Fr}}, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.82-0127 | 53.924MB, server: 82.38.31.82, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: TELEGRAM DAILY-CONFIGS, server: 2.27.59.206, port: 443, type: hysteria2, password: cd74c0a406664a5bc0bac098220a2468, auth: cd74c0a406664a5bc0bac098220a2468, sni: de1.sferavpn.pro, skip-cert-verify: false, obfs: salamander, obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0, udp: true}
+  - {name: 🇳🇱 NL-108.181-3825-98MB, server: 108.181.58.239, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: CJmTCCx7Ltud, udp: true}
+  - {name: 🇺🇸 US-37.19.1-1868-79MB, server: 37.19.198.160, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.46-0132, server: 82.38.31.46, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 🇺🇸 US-173.244-6106-96MB, server: 173.244.56.9, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: 🇳🇱 NL-193.29.-1453-82MB, server: 193.29.139.204, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: 90 ONECLICKVPNKEYS, server: 144.31.93.126, port: 443, type: hysteria2, password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc, auth: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc, sni: admin.wwwinternetvideo.click, skip-cert-verify: true, udp: true}
+  - {name: ZA-102.37.156.224-0183 | 0.0MB, server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true}
+  - {name: 🇮🇳 IN-152.67.8.205-0189 | 0.0MB, server: 152.67.8.205, port: 80, type: vmess, uuid: 9db4c708-aef8-4359-821b-38e47990be0d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: 🇮🇳IN-152.67.8.205-0189 | 0.0MB, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇧🇷 巴西, server: go.wwwinternetvideo.click, port: 443, type: hysteria2, password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc, auth: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc, sni: admin.wwwinternetvideo.click, skip-cert-verify: true, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-4084-32MB, server: 82.38.31.187, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: NOFILTERING2 | ... 1, server: 130.49.161.70, port: 443, type: hysteria2, password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR, auth: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR, sni: hy2.aspidnet.xyz, skip-cert-verify: false, obfs: salamander, obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3, udp: true}
+  - {name: 17, server: 142.249.37.90, port: 44356, type: hysteria2, password: dongtaiwang.com, auth: dongtaiwang.com, sni: hy2.561891.xyz, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 | USA 19, server: 104.16.10.233, port: 443, type: vless, uuid: 44eae030-290b-4083-8102-6f8bab05701b, tls: true, servername: cfvvv-ev1.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /, headers: {Host: cfvvv-ev1.pages.dev}}, udp: true}
+  - {name: CFOX-SERVER, server: 85.204.107.176, port: 8080, type: hysteria2, password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0, auth: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0, sni: hopp-romania-new.roxa.org, udp: true}
+  - {name: 🇺🇸 美国 | USA 13, server: www.epicgames.com, port: 2095, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: false, network: ws, ws-opts: {path: /, headers: {Host: free-claude-api.asshole.us.ci}}, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.219-0141 | 0.0MB, server: 82.38.31.219, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇭🇰 HK-中国香港-US-美国, server: v4.hdacd.com, port: 30804, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇬🇧 GB-82.38.31.210-0143, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇯🇵 JP-84.247.155.196-0198 | 0.0MB, server: 84.247.155.196, port: 443, type: ss, cipher: aes-256-gcm, password: 3eOFeNssde7PYYMv, udp: true}
+  - {name: 咕咕嘎嘎, server: es1.xiaoliyu.cyou, port: 4433, type: hysteria2, password: 19f72087-4591-4d72-930b-2697078ec2be, auth: 19f72087-4591-4d72-930b-2697078ec2be, sni: es1.xiaoliyu.cyou, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 | USA 18, server: 139.64.235.174, port: 443, type: vless, uuid: b09dfed1-90fa-4353-8bdf-de1edb2e2d79, tls: true, servername: nb.lovecf.ggff.net, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=us.xiabibi.cf, headers: {Host: nb.lovecf.ggff.net}}, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-1367-42MB, server: 82.38.31.186, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 82 ONECLICKVPNKEYS, server: se.xiaoliyu.cyou, port: 4433, type: hysteria2, password: 19f72087-4591-4d72-930b-2697078ec2be, auth: 19f72087-4591-4d72-930b-2697078ec2be, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 | USA 26, server: 104.21.62.195, port: 443, type: vless, uuid: cb53f904-c979-454f-bf43-621990008148, tls: true, alpn: [http/1.1], servername: 7.qq1-0.kdns.fr, client-fingerprint: chrome, network: ws, ws-opts: {path: /LNbYtR09FXg1AmmjhdiHvR8v, headers: {Host: 7.qq1-0.kdns.fr}}, udp: true}
+  - {name: 🇳🇱 NL-193.29.-3351-91MB, server: 193.29.139.223, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇳🇱 NL-109.201-8211-79MB, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, udp: true}
+  - {name: 🇭🇰 HK-47.244.120.197-4857, server: 47.244.120.197, port: 44867, type: vmess, uuid: 845e6b08-2919-4290-ade0-5dc7dcea59ca, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /arki}, udp: true}
+  - {name: 🇸🇬 新加坡 | SGP 2, server: 172.64.146.211, port: 8443, type: vless, uuid: 77777777-8a3e-6666-b6d1-a9c5f0e8b3a2, tls: true, servername: faxf32gkfzoxqv.fx6hsv0.ccwu.cc, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: faxf32gkfzoxqv.fx6hsv0.ccwu.cc}}, udp: true}
+  - {name: 🇬🇧 GB-82.38.3-0271-31MB, server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true}
+  - {name: 🇳🇱 NL-108.181-6221-19MB, server: 108.181.126.122, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: CJmTCCx7Ltud, udp: true}
+  - {name: 🇺🇸 US-5|1.1MB S, server: crosscards.site, port: 443, type: http, tls: true}
+  - {name: 🇹🇼 TW-1|1.2MB S, server: 6ivh.pnuqcnp.cn, port: 443, type: anytls, password: 9sK2mP8xQ7vL3nZ6, udp: true, sni: images.ctfassets.net, skip-cert-verify: true}
